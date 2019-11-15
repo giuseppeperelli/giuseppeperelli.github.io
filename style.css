@@ -6,8 +6,37 @@
     box-sizing: border-box;
   }
 
-.navbar .navbar-link{
+  
+/*.navbar .navbar-link{
 	color:#999
+}*/
+
+/* The navigation bar */
+.navbar {
+    margin: 20px auto;
+    width: 940px;
+/*     min-height: 100%; */
+    padding: 0px 40px;
+    background-color: #E9E9E9;
+    overflow: hidden;
+/*   position: fixed; /* Set the navbar to fixed position */ */
+/*   top: 0; /* Position the navbar at the top of the page */ */
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  display: block;
+/*   color: #f2f2f2; */
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+  background: #ddd;
+  color: black;
 }
 
 
@@ -46,7 +75,7 @@ ul ul,ul ol,ol ol,ol ul{
 	margin-bottom:0
 }
 ul{
-	list-style:square
+	list-style:circle;
 }
 
 
@@ -99,8 +128,8 @@ h3{
   }
 
 body{
-    background-color: #E0E0E0;
-    background-image: url("images/backmar.gif");
+    background-color: #222222;
+/*     background-image: url("images/backmar.gif"); */
     height: 100%;
     font-size:18px;
     font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -115,7 +144,7 @@ type: square;
     margin: 20px auto;
     width: 940px;
     min-height: 100%;
-    padding: 0px 40px;
+    padding: 20px 40px;
     background-color: #E9E9E9;
 }
  a.reverse {
