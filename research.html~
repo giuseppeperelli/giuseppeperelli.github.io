@@ -1,6 +1,5 @@
  
-<link rel="stylesheet" href="style.css"> 
-<link rel="icon" type="image/png" sizes="192x192" href="favicon/favicon.ico">
+<link rel="stylesheet" href="style.css">  
 
 
 <head>
@@ -17,6 +16,7 @@ Giuseppe Perelli, University of G&ouml;teborg
 
 <div class="navbar">
   <a href="index.html">Home</a>
+  <a href="research.html">Research</a>
   <a href="publications.html">Publications</a>
   <a href="service.html">Service</a>
   <a href="teaching.html">Teaching</a>
@@ -53,16 +53,6 @@ Social media: <a href="https://twitter.com/giuperelli">Twitter</a>, <a href="htt
 
 <hr>
 
-<h3>About me</h3>
-
-I am Postod Researcher at the <a href="https://cse.gu.se/english">Department of Computer Science and Engineering</a> of the <a href="https://www.gu.se/english">University of G&ouml;teborg</a>, working in the <a href="https://chalmersformalmethods.github.io/">Formal Methods Division</a> with <a href="https://www.chalmers.se/en/staff/Pages/piterman.aspx">Prof. Nir Piterman</a>.
-
-<br><br>
-
-Prior to this, I was Research Assistant at <a href="http://www.ox.ac.uk/">University of Oxford</a>, working with <a href="http://www.cs.ox.ac.uk/people/michael.wooldridge/">Prof. Michael Wooldridge</a>.
-I obtained my PhD at <a href="http://www.unina.it">University of Naples "Federico II"</a> workinf under the supervision of <a href="http://people.na.infn.it/~murano/">Prof. Aniello Murano</a>.
-During my PhD, I have been visiting research scholar at <a href="https://www.rice.edu/">Rice University</a> under the supervision of <a href="https://www.cs.rice.edu/~vardi/">Prof. Moshe Vardi</a>.
-
 <h3>Research Interests</h3>
 
 My main research interests are in Formal Methods and Artificial Intelligence. My focus is on formal techniques for Strategic Reasoning of Multi-Agent Systems.
@@ -85,24 +75,6 @@ In particular, I work in the areas of:
 <li>Epistemic, Imperfect Information, and Quantitative Reasoning in Games</li>-->
 </ul>
 
-<h3>Talks</h3>
-    <ul>
-        <li>
-            April 2019 - From Synthesis to Rational Synthesis: a Game-Theoretic Approach, Imperial College London;
-        </li>
-        <li>
-            March 2018 - From Synthesis to Rational Synthesis: a Game-Theoretic Approach, University of Naples;
-        </li>
-        <li>
-            December 2015 - Logics for Multi-Agents System Verification, Imperial College London;
-        </li>
-        <li>
-            November 2014 - Strategy Logic: a Powerful Formalism for Game-Theoretical Issues, University of California Santa Cruz;
-        </li>
-        <li>
-            November 2012 - Strategy Logic Fragments, Università degli studi di Roma La Sapienza.
-        </li>
-</ul>
 
 
 <!-- <h2>My visitors</h2> -->

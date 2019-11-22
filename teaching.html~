@@ -1,6 +1,6 @@
  
 <link rel="stylesheet" href="style.css">  
-<link rel="icon" type="image/png" sizes="192x192" href="favicon/favicon.ico">
+
 
 <head>
 
@@ -16,7 +16,6 @@ Giuseppe Perelli, University of G&ouml;teborg
 
 <div class="navbar">
   <a href="index.html">Home</a>
-  <a href="research.html">Research</a>
   <a href="publications.html">Publications</a>
   <a href="service.html">Service</a>
   <a href="teaching.html">Teaching</a>
@@ -53,28 +52,29 @@ Social media: <a href="https://twitter.com/giuperelli">Twitter</a>, <a href="htt
 
 <hr>
 
-<h3>Research Interests</h3>
-
-My main research interests are in Formal Methods and Artificial Intelligence. My focus is on formal techniques for Strategic Reasoning of Multi-Agent Systems.
-In particular, I work in the areas of:
 
 
-<ul type="square">
-<li>Automata, Logics and Games for Artificial Intelligence;</li>
-<li>Verification and Synthesis of Autonomous Agents and Multiagent systems (check out the <a href="http://eve.cs.ox.ac.uk/">EVE tool page</a>);</li>
-<li>Algorithmic Game Theory for Computer Science;</li>
-<li>Expressiveness and Decidability of Logics for Strategic Reasoning;</li>
-<li>Knowledge Representation and Reasoning on Games for Artificial Intelligence;</li>
-<li>Imperfect Information, Epistemic, and Quantitative aspects of Games.</li>
-<!--
-<li>Formal Methods in Multi-Agent Systems and Artificial Intelligence </li>
-<li>Algorithmic Game Theory for Computer Science</li>
-<li>Formal specification, verification, and synthesis of single and multi-agent systems</li>
-<li>Logics for games and strategic reasoning</li>
-<li>Equilibtium Checking and Rational synthesis (check out the <a href="http://eve.cs.ox.ac.uk/">EVE tool page</a>)</li>
-<li>Epistemic, Imperfect Information, and Quantitative Reasoning in Games</li>-->
+<div>
+
+<h3>Courses at University of Leicester</h3>
+<div>
+<ul>
+<li>Instructor for the PhD short course "Game Theory and Formal Methods" March 2019</li>
 </ul>
+</div>
 
+<h3>Courses at University of Oxford</h3>
+<div>
+
+<ul>
+
+<li>Tutor for the course "Computational Complexity" Hilary Term 2018</li>
+
+<li>Tutor for the course "Computer-Aided Formal Verification" Michaelmas Term 2018</li>
+
+<li>Tutor for the course "Computer-Aided Formal Verification" Michaelmas Term 2017</li>
+</ul>
+</div>
 
 
 <!-- <h2>My visitors</h2> -->
