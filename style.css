@@ -14,10 +14,10 @@
 /* The navigation bar */
 .navbar {
     margin: 20px auto;
-    width: 940px;
+    width: 50%;
 /*     min-height: 100%; */
     padding: 0px 40px;
-    background-color: #E9E9E9;
+    background-color: #e8e8e8;
     overflow: hidden;
 /*   position: fixed; /* Set the navbar to fixed position */ */
 /*   top: 0; /* Position the navbar at the top of the page */ */
@@ -112,7 +112,7 @@ padding: 1em 0em 0em 0em;
 
   h2 { font-size: 30px; }
 
-  h2, h3 { border-bottom: 1px solid #F9E6E6; margin-bottom: 10px; margin-top: 5px; }
+  h2, h3 { border-bottom: 0px solid #F9E6E6; margin-bottom: 10px; margin-top: 5px; }
 
 /*  
 
@@ -134,8 +134,8 @@ h3{
   }
 
 body{
-    background-color: #222222;
-/*     background-image: url("images/backmar.gif"); */
+    background-color: #444444;
+    /* background-image: url("images/background-tile.png"); */
     height: 100%;
     font-size:18px;
     font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -148,10 +148,10 @@ type: square;
 #outer {
     clear: both;
     margin: 20px auto;
-    width: 940px;
+    width: 50%;
     min-height: 100%;
     padding: 20px 40px;
-    background-color: #E9E9E9;
+    background-color: #e8e8e8;
 }
  a.reverse {
         unicode-bidi: bidi-override;
