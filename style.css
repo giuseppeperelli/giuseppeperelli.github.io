@@ -59,9 +59,9 @@ h3{
     padding: 10px;
 }
 
-a{
-/* 	color:#08c; */
-/* 	text-decoration:none */
+a, a:visited {
+	color: blue;
+/* 	text-decoration:none; */
 }
 
 h1 small{
