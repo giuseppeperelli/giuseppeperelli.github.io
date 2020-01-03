@@ -225,6 +225,14 @@ details[open] summary ~ * {
   animation: sweep .5s ease-in-out;
 }
 
+summary:hover {
+    cursor: pointer;
+}
+
+summary::-webkit-details-marker {
+  display: none
+}
+
 @keyframes sweep {
   0%    {opacity: 0; margin-left: -10px}
   100%  {opacity: 1; margin-left: 0px}
@@ -325,7 +333,7 @@ details[open] summary ~ * {
   color: #303030;
 }
 .page-title,
-.post-title,
+.post-title, 
 .pub-title {
   margin-top: 0;
 }
