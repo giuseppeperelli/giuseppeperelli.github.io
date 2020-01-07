@@ -225,12 +225,16 @@ details[open] summary ~ * {
   animation: sweep .5s ease-in-out;
 }
 
+summary{
+        text-decoration: underline;
+}
+
 summary:hover {
     cursor: pointer;
 }
 
 summary::-webkit-details-marker {
-  display: none
+  display: none;
 }
 
 @keyframes sweep {
