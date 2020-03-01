@@ -195,7 +195,7 @@ img {
 img.profile {
   float: right;
   margin: 0rem 0 1rem 1rem;
-  max-width: 33%;
+  max-width: 20%;
 }
 
 img.logo{
@@ -277,7 +277,7 @@ summary::-webkit-details-marker {
  */
 
 .container {
-  max-width: 45rem;
+  max-width: 60rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
