@@ -1,182 +1,232 @@
-<style>
+html {
+     scroll-behavior: smooth;
+     transition-timing-function: ease-in-out;
+     transition-duration: 5s;
+    }
 
-  * {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-  }
-
-  
-/*.navbar .navbar-link{
-	color:#999
-}*/
-
-/* The navigation bar */
-.navbar {
-    margin: 20px auto;
-    width: 50%;
-/*     min-height: 100%; */
-    padding: 0px 40px;
-    background-color: #e8e8e8;
-    overflow: hidden;
-/*   position: fixed; /* Set the navbar to fixed position */ */
-/*   top: 0; /* Position the navbar at the top of the page */ */
+body {
+    font-family: 'Montserrat', sans-serif;
 }
 
-/* Links inside the navbar */
-.navbar a {
-  float: left;
-  display: block;
-/*   color: #f2f2f2; */
-  text-align: center;
-  padding: 14px 16px;
+/* The sidebar menu */
+.sidenav {
+    height: 100%;
+    width: 400px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: #75151e;
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 50px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.sidenav img {
+    border-radius: 30%;
+/*     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */ */
+    filter: grayscale(100%);
+    display: block;
+    margin: auto;
+    max-width: 70%;
+}
+
+.sidenav h2 {
+    color: #ffffff;
+    font-size: 24px;
+    margin-top: 30px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+}
+
+.sidenav p {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: 'Crimson Text', serif;
+    font-style: italic;
+    margin-top: 30px;
+    opacity: 0.8;
+    }
+
+.contact.label {
+    font-family: 'Montserrat', sans-serif !important;    
+    font-size: 10px !important;
+    font-style: normal !important;
+    opacity: 1;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-top: 40px !important;
+    } 
+    
+/* No bullet, no indent, contact details lists */
+ul.contact {
+
+  list-style-type:none;
+  padding: 0pt;
+  font-size: 18px;
+}
+    
+    
+.contact {
+    font-family: 'Montserrat', sans-serif !important;  
+    font-style: normal !important;
+    font-size: 14px !important;
+    opacity: 1 !important;
+    font-weight: 300;
+    margin-top: 0px !important;
+    }
+
+.social {
+    margin-left: 0px;
+    margin-bottom: 80px;
+}
+
+.social img {
+    display: block;
+    float: left;
+    margin-right: 15px;
+ 
+}
+
+.social a {
+    padding: 0px !important;
+}
+
+.paper_title {
+    font-weight: 500 !important;
+    margin-bottom: 0em;
+}
+.paper_details {
+    margin-top: 0em !important;
+}
+    
+
+/* The navigation menu links */
+
+.menu {
+    margin-top: 40px;
+}
+
+.menu a {
+    padding: 10px 10px 10px 0px;
+    text-decoration: none;
+    font-size: 14px !important;
+    color: #ffffff !important;
+    display: block;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+    opacity: 0.5;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.social img:hover {
+    opacity: 0.5;
+}
+
+/* Style page content */
+.main {
+    margin-left: 400px; /* Same as the width of the sidebar */
+    margin-right: 5%; /* Leave some margin on the right side */
+    padding: 50px 50px 50px 50px;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main p {
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 1rem;
+    text-align: justify;
+}
+
+.intro {
+    font-size: 18px !important;
+}
+
+
+.plaintext_a {
+    text-transform: none; 
+}
+
+h1 {
+    font-size: 24px !important;
+    font-weight: 300 !important;
+    text-transform: uppercase; 
+    padding-bottom: 0px;
+    padding-top: 20px
+}
+
+a {
+    color: #DC6060 !important;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 300;
+}
+
+/* On smaller screens (less padding and a smaller font size) */
+@media only screen and (max-width: 768px) {
+    .sidenav {
+        width: 300px;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 60px;
+        }
+    
+    .sidenav h2 { 
+        font-size: 20px;   
+        }
+         
+    .main {
+        margin-left: 300px;}
+}   
+
+@media only screen and (max-width: 576px) {
+    .sidenav {
+    width: 100%;
+    position: static;
+    }
+    
+    .menu {
+        display: none;
+    }
+    
+    .sidenav h2 { 
+        font-size: 24px;   
+        }
+    
+    .main { 
+       margin-left: 0px; 
+       padding-top: 20px;
+        
+    }
+    
+}
+
+img.logo{
+    float: right;
+    max-width: 40%;
+/*     margin: 1rem 1 1rem 1rem; */
+    margin-left: 2%;
+}
+    
+
+/* Two-column, findme details lists */
+ul.findme {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 3;    
+}
+
+ a.reverse {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+  color: #ffffff !important;
   text-decoration: none;
 }
-
-/* Change background on mouse-over */
-.navbar a:hover {
-  background: #ddd;
-  color: black;
-}
-
-h1,h2{
-	margin:0;
-	font-family:inherit;
-	font-weight:bold;
-	color:inherit;
-	text-rendering:optimizelegibility
-}
-
-h3{
-    margin:0;
-    font-family:inherit;
-    font-weight:bold;
-    color:121212;
-}
-
-.right {
-    position: relative;
-    padding: 10px;
-}
-
-a, a:visited {
-	color: blue;
-/* 	text-decoration:none; */
-}
-
-h1 small{
-    padding: 10em 1em 0em 0em;
-    font-size:20px;
-    line-height:25px;
-    font-weight:normal;
-}
-
-
-h1{
-	font-size:30px;
-	line-height:36px
-}
-
-ul ul,ul ol,ol ol,ol ul{
-	margin-bottom:0
-}
-ul{
-	list-style:circle;
-}
-
-
-
-  #content {
-    overflow: hidden;
-  }
-
-  #content aside {
-    float: left; width: 200px;
-  }
-
-  #content section {
-    float: right; width: 580px;
-  }
-  #content section h1 {
-    margin-bottom: 10px;
-  }
-
-h0 {font-size: 50px;
-color:#0033cc;
-font-family:Verdana;}
-
-  h1 { font-size: 60px;
-padding: 1em 0em 0em 0em;
-
- }
-
-  h2 { font-size: 30px; }
-
-  h2, h3 { border-bottom: 0px solid #F9E6E6; margin-bottom: 10px; margin-top: 5px; }
-
-/*  
-
-  #content h3 { margin-top: 20px; }
-
-p, li {
-    font-family: Verdana;
-  }
-*/
-h3{
-	font-size:18px;
-	line-height:27px
-}
-
-  body > footer {
-    margin: 20px 0;
-    border-top: 1px solid #E4E4E4;
-    padding-top: 15px; width: 100%;
-  }
-
-body{
-    background-color: #444444;
-    background-image: url("images/dark_wood.png");
-    height: 100%;
-    font-size:18px;
-    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
-}
-
-ul {
-type: square;
-}
-
-#outer {
-    clear: both;
-    margin: 20px auto;
-    width: 50%;
-    min-height: 100%;
-    padding: 20px 40px;
-    background-color: #e8e8e8;
-}
- a.reverse {
-        unicode-bidi: bidi-override;
-        direction: rtl;
-        }
-
-.columnlist {
-    -webkit-columns: 1; /* Chrome, Safari, Opera */
-    -moz-columns: 1; /* Firefox */
-    columns: 2;
-}
-
-.img-circle {
-    border-radius: 50%;
-    margin-right: auto;
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-</style>
-
-
-
