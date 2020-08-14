@@ -11,7 +11,7 @@ body {
 /* The sidebar menu */
 .sidenav {
     height: 100%;
-    width: 400px; /* Set the width of the sidebar */
+    width: 25%; /* Set the width of the sidebar */
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
@@ -24,12 +24,12 @@ body {
 }
 
 .sidenav img {
-    border-radius: 30%;
+    border-radius: 15%;
 /*     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */ */
     filter: grayscale(100%);
     display: block;
     margin: auto;
-    max-width: 70%;
+    max-width: 55%;
 }
 
 .sidenav h2 {
@@ -79,19 +79,32 @@ ul.contact {
     }
 
 .social {
-    margin-left: 0px;
-    margin-bottom: 80px;
+/*     margin-left: 0px; */
+/*     margin-bottom: 80px; */
 }
 
 .social img {
-    display: block;
-    float: left;
-    margin-right: 15px;
+/*     display: block; */
+/*     float: left; */
+/*     margin-right: 15px; */
+    max-width: 35%;
+/*     border-radius: 30%; */
+/*     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */ */
+    filter: grayscale(100%);
+/*     margin: auto; */
  
 }
 
 .social a {
     padding: 0px !important;
+}
+
+/* Findme details lists */
+ul.findme {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 1;
+  list-style-type: none;
 }
 
 .paper_title {
@@ -132,7 +145,7 @@ ul.contact {
 
 /* Style page content */
 .main {
-    margin-left: 400px; /* Same as the width of the sidebar */
+    margin-left: 25%; /* Same as the width of the sidebar */
     margin-right: 5%; /* Leave some margin on the right side */
     padding: 50px 50px 50px 50px;
     color: black;
@@ -215,14 +228,7 @@ img.logo{
 /*     margin: 1rem 1 1rem 1rem; */
     margin-left: 2%;
 }
-    
 
-/* Two-column, findme details lists */
-ul.findme {
-  columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 3;    
-}
 
  a.reverse {
   unicode-bidi: bidi-override;
