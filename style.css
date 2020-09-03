@@ -8,6 +8,25 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+/* The profile picture */
+img.profile {
+    border-radius: 0%;
+/*     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */ */
+    filter: grayscale(100%);
+    display: block;
+    margin: auto;
+    max-width: 50%;
+}
+
+.social img {
+    border-radius: 0%;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+/*     display: block; */
+/*     margin: auto; */
+    max-width: 5%;
+}
+
 /* The sidebar menu */
 .sidenav {
     height: 100%;
@@ -21,15 +40,6 @@ body {
     padding-top: 50px;
     padding-left: 60px;
     padding-right: 60px;
-}
-
-.sidenav img {
-    border-radius: 15%;
-/*     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */ */
-    filter: grayscale(100%);
-    display: block;
-    margin: auto;
-    max-width: 55%;
 }
 
 .sidenav h2 {
