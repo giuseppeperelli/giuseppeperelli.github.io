@@ -15,7 +15,7 @@ img.profile {
     filter: grayscale(100%);
     display: block;
     margin: auto;
-    max-width: 50%;
+    max-width: 65%;
 }
 
 .social img {
