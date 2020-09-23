@@ -145,7 +145,7 @@ ul.findme {
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
     opacity: 0.5;
-    color: #ffffff;
+/*     color: #ffffff; */
     text-decoration: none;
 }
 
