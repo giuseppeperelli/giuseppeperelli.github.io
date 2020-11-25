@@ -54,10 +54,18 @@ body {
     letter-spacing: 2px;
 }
 
-.sidenav p {
+.sidenav h3 {
     color: #ffffff;
     font-size: 16px;
-    font-family: 'Crimson Text', serif;
+    font-weight: 400;
+    font-family: 'Crimson Text', sans-serif;
+    letter-spacing: 1px;
+}
+
+.sidenav p {
+    color: #ffffff;
+    font-size: 18px;
+    font-family: 'Crimson Text';/*, serif;*/
     font-style: italic;
     margin-top: 30px;
     opacity: 0.8;
