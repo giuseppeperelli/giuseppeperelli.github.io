@@ -61,16 +61,6 @@ img.profile:hover {
     margin-top: 30px;
     opacity: 0.8;
     }
-
-.contact.label {
-    font-family: 'Montserrat', sans-serif !important;    
-    font-size: 10px !important;
-    font-style: normal !important;
-    opacity: 1;
-    text-transform: uppercase;
-    font-weight: 300;
-    margin-top: 40px !important;
-    } 
     
 /* No bullet, no indent, contact details lists */
 ul.contact {
@@ -90,27 +80,6 @@ ul.contact {
     margin-top: 0px !important;
     }
 
-.social {
-/*     margin-left: 0px; */
-/*     margin-bottom: 80px; */
-}
-
-.social img {
-/*     display: block; */
-/*     float: left; */
-/*     margin-right: 15px; */
-    max-width: 35%;
-/*     border-radius: 30%; */
-/*     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */ */
-    filter: grayscale(100%);
-/*     margin: auto; */
- 
-}
-
-.social a {
-    padding: 0px !important;
-}
-
 /* Findme details lists */
 ul.findme {
   columns: 2;
@@ -118,20 +87,12 @@ ul.findme {
   -moz-columns: 1;
   list-style-type: none;
 }
-
-.paper_title {
-    font-weight: 500 !important;
-    margin-bottom: 0em;
-}
-.paper_details {
-    margin-top: 0em !important;
-}
-    
+   
 
 /* The navigation menu links */
 
 .menu {
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .menu a {
@@ -149,9 +110,6 @@ ul.findme {
     opacity: 0.5;
 }
 
-.social img:hover {
-    opacity: 0.5;
-}
 
 /* Style page content */
 .main {
@@ -187,10 +145,11 @@ h1 {
 }
 
 a {
-    color: #b34d4d !important;
+/*     color: #b34d4d !important; */
+    color: #d74d4d !important;
     text-decoration: none;
-    font-size: 17px;
-    font-weight: 300;
+/*    font-size: 17px;
+    font-weight: 300;*/
 }
 
 /* On smaller screens (less padding and a smaller font size) */
