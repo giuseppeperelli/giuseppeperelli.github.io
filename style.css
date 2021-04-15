@@ -30,7 +30,7 @@ img.profile:hover {
     top: 0; /* Stay at the top */
     left: 0;
     background-color: #75151e;
-    overflow-x: hidden; /* Disable horizontal scroll */
+/*     overflow-x: hidden; /* Disable horizontal scroll */ */
     padding-top: 50px;
     padding-left: 60px;
     padding-right: 60px;
