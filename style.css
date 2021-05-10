@@ -207,3 +207,20 @@ img.logo{
   color: #ffffff !important;
   text-decoration: none;
 }
+
+/* Customize Bibbase */
+.bibbase_paper_title a {
+    pointer-events: none;
+}
+.dropdown {
+    margin-right: 2rem;
+}
+.dropdown li{
+    width: 180px;
+    margin-left: 12px;
+}
+.bibbase > pre {
+    border: solid #802433 0.15rem;
+    border-radius: 0.25rem;
+}
+/*a[href*=pdf] .bibbase_icon { display: none; }*/
