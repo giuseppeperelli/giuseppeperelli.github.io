@@ -1,5 +1,15 @@
 %% JOURNALS
 
+@incollection{J-GHPW21,
+	author    		= {Julian Gutierrez and Paul Harrenstein and Giuseppe Perelli and Michael Wooldridge},
+	title     		= {Expressiveness and Nash Equilibrium in Iterated Boolean Games},
+	abstract			= "{We define and investigate a novel notion of expressiveness for temporal logics that is based on game theoretic equilibria of multi-agent systems. We use \emph{iterated Boolean games} as our abstract model of multi-agent systems. In such a game, each agent~$i$ has a goal~$\gamma_i$, represented using (a fragment of) Linear Temporal Logic (LTL). The goal~$\gamma_i$ captures agent~$i$'s preferences, in the sense that the models of~$\gamma_i$ represent system behaviours that would satisfy~$i$. Each player controls a subset of Boolean variables $\Phi_i$, and at each round in the game, player $i$ is at liberty to choose values for variables $\Phi_i$ in any way that she sees fit. Play continues for an infinite sequence of rounds, and so as players act they collectively trace out a model for LTL, which for every player will either satisfy or fail to satisfy their goal. Players are assumed to act strategically, taking into account the goals of other players, in an attempt to bring about computations satisfying their goal. In this setting, we apply the standard game-theoretic concept of (pure) Nash equilibria. The (possibly empty) set of Nash equilibria of an iterated Boolean game can be understood as inducing a set of computations, each computation representing one way the system could evolve if players chose strategies that together constitute a Nash equilibrium. Such a set of equilibrium computations expresses a temporal property---which may or may not be expressible within a particular LTL fragment. The new notion of expressiveness that we formally define and investigate is then as follows: \emph{what temporal properties are characterised by the Nash equilibria of games in which agent goals are expressed in fragments of~LTL}? We formally define and investigate this notion of expressiveness and related issues, for a range of LTL fragments. For example, a very natural question is the following. Suppose we have an iterated Boolean game in which every goal is represented using a particular fragment of LTL: then is it always the case that the equilibria of the game can be characterised within such fragment? We show that this is not true in general.}",
+	booktitle			=	{{ACM} Transaction on Computational Logic},
+	publisher			=	{ACM Association for Computing Machinery},
+	year      		= {2021},
+	bibbase_note = {<span style="color: red">To appear.</span>},
+}
+
 @incollection
 {
 	J-GPW21,
@@ -168,10 +178,21 @@
 
 @inproceedings
 {
+	C-DFMP21,
+	author    = {Giuseppe {De Giacomo} and Paolo Felli and Marco Montali and Giuseppe Perelli},
+	title     = {{HyperLDLf}: a Logic for Checking Properties of Finite Traces Process Logs},
+	abstract  = {In recent years, there has been an increasing interest in temporal logics over finite traces, to express and verify properties of systems whose execution have an unbounded, but finite, length. This is relevant in a number of settings, such as planning, business process management, and in general the analysis of system logs. However, these logics consider one trace at the time, while sometimes it is of interest to consider multiple traces (i.e., the entire log) at once. In the infinite-trace setting a specific logic, HyperLTL, has been proposed to express properties of sets of traces. In this paper, we study HyperLDLf, a logic that combines the features of HyperLTL with the expressiveness of linear dynamic logic over finite traces. We show decidability and complexity of the model checking problem in the relevant case where the set of traces is a regular language, and we discuss how this form of model checking on HyperLDLf properties can be used for checking security properties, instance-spanning constraints in business process management, and process mining.},
+	booktitle = {Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence ({IJCAI})},
+	year      = {2021},
+	bibbase_note = {<span style="color: red">To appear.</span>},
+}
+
+@inproceedings
+{
 	C-BKMMMP20,
 	author    = {Patricia Bouyer and Orna Kupferman and Nicolas Markey and Bastien Maubert and Aniello Murano and Giuseppe Perelli},
 	title     = {Reasoning About Quality and Fuzziness of Strategic Behaviours},
-	abstract			=	{We introduce and study SL[F], a quantitative extension of SL (Strategy Logic), one of the most natural and expressive logics describing strategic behaviours. The satisfaction value of an SL[F] formula is a real value in [0,1], reflecting ``how much'' or ``how well'' the strategic on-going objectives of the underlying agents are satisfied. We demonstrate the applications of SL[F] in quantitative reasoning about multi-agent systems, by showing how it can express concepts of stability in multi-agent systems, and how it generalises some fuzzy temporal logics. We also provide a model-checking algorithm for our logic, based on a quantitative extension of Quantified CTL*.},
+	abstract	=	{We introduce and study SL[F], a quantitative extension of SL (Strategy Logic), one of the most natural and expressive logics describing strategic behaviours. The satisfaction value of an SL[F] formula is a real value in [0,1], reflecting ``how much'' or ``how well'' the strategic on-going objectives of the underlying agents are satisfied. We demonstrate the applications of SL[F] in quantitative reasoning about multi-agent systems, by showing how it can express concepts of stability in multi-agent systems, and how it generalises some fuzzy temporal logics. We also provide a model-checking algorithm for our logic, based on a quantitative extension of Quantified CTL*.},
 	booktitle = {24th European Conference on Artificial Intelligence, {ECAI'20}, Santiago de Compostela, Spain, August 29 - September 8},
 	series    = {Frontiers in Artificial Intelligence and Applications},
 	volume    = {325},
