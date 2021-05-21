@@ -49,6 +49,12 @@ body {
 }
 
 html {
+     scroll-behavior: smooth;
+     transition-timing-function: ease-in-out;
+     transition-duration: 5s;
+    }
+
+html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -109,6 +115,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  text-align: justify;
 }
 
 p.dept {
@@ -195,13 +202,18 @@ img {
 img.profile {
   float: right;
   margin: 0rem 0 1rem 1rem;
-  max-width: 20%;
+  max-width: 25%;
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+img.profile:hover {
+    filter: none;
 }
 
 img.logo{
-/*     float: right; */
-    max-width: 50%;
-    margin: 1rem 1 1rem 1rem;
+/*     float: left; */
+    max-width: 80%;
+    margin: 3rem 1 1rem 1rem;
 }
 
 /* Tables */
@@ -292,9 +304,10 @@ summary::-webkit-details-marker {
  */
 
 .masthead {
-  padding-top:    1rem;
-  padding-bottom: 1rem;
-  margin-bottom: 3rem;
+    padding-top:    1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+/*     position: fixed; */
 }
 .masthead-title {
   margin-top: 0;
