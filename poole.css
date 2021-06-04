@@ -483,7 +483,9 @@ a.section{
     width: 180px;
     margin-left: 12px;
 }
-.bibbase > pre {
+/*.bibbase > pre {
     border: solid #802433 0.15rem;
     border-radius: 0.25rem;
-}
+}*/
+
+.bibbase_icon { display: none; }
