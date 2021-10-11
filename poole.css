@@ -156,8 +156,8 @@ ul.contact {
   padding: 0pt;
 }
 
-/* Two-column, findme details lists */
-ul.findme {
+/* Two-column, events details lists */
+ul.events {
   columns: 2;
   -webkit-columns: 2;
   -moz-columns: 3;    
