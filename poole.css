@@ -204,7 +204,7 @@ img {
 img.profile {
   float: right;
   margin: 0rem 0 1rem 1rem;
-  max-width: 30%;
+  max-width: 23%;
     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
     filter: grayscale(100%);
 }
@@ -473,6 +473,16 @@ a.section{
     background-color: transparent;
 }
 
+hr {
+    border: none;
+    height: 1.5px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
 
 /* Customize Bibbase */
 /*.bibbase_paper_title a {
