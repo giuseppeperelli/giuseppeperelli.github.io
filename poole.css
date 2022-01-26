@@ -136,6 +136,8 @@ ul, ol, dl {
 }
 
 /* Page navigation list */
+
+
 ul.nav-list {
   margin: 0;
   float: right;
@@ -307,6 +309,8 @@ summary::-webkit-details-marker {
 
 
 .masthead {
+/*     position: fixed; */
+/*     width: 100%; */
     padding-top:    1rem;
     padding-bottom: 1rem;
     margin-bottom: 1rem;
@@ -315,7 +319,6 @@ summary::-webkit-details-marker {
     padding-right: 1rem;
     margin-left:  auto;
     margin-right: auto;
-/*     position: fixed; */
 }
 .masthead-title {
   margin-top: 0;
