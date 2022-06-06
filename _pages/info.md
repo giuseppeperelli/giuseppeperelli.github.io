@@ -12,6 +12,7 @@ nav: true
 - I am member of [AIxIA](https://aixia.it/), Italian Association for Artificial Intelligence.
 - I am member of [AILA](http://www.ailalogica.it/), Italian Association for Logics and Applications.
 - I am member of [GNCS](https://www.altamatematica.it/gncs), Italian Association for Scientific Calculus.
+- I support [CLAIRE](https://claire-ai.org/).
 
 
 ##### Community Service
