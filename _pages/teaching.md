@@ -6,53 +6,32 @@ description:
 nav: true
 ---
 
+##### Available Theses
+
+<span style="color:red">I am open to supervise Bs and Ms Theses</span>. These can be oriented towards surveys (for Bs), implementations (for Bs and Ms), or research problems (mostly Ms but also Bs). The topics cover several areas of AI, Formal Methods, and Multi-Agent Systems, including:
+
+- **Automated Reasoning**, including logics representation and reasoning about strategies.
+- **Verification, Synthesis and Rational Synthesis**, including single and multi-agent systems.
+- **Linear-Time Temporal Logics**, including automata-theoretic and game-theoretic approach in Formal Verification.
+- **Normative Systems**, including mechanism and multi-agent system design.
+
 ##### PhD Courses
 
-<ul>
-  <li>
-    2021-2022: <a href="https://whitemech.github.io/courses" target=""><b>Game-Theoretic Approach to Planning and Synthesis</b></a>, <a href="https://www.phd-ai.it/" target="">National PhD Program in Artificial Intelligence</a>.
-  </li>
-  <li>
-    2018-2019: <b>Game Theory and Formal Methods</b> <em>Short Course</em>, Computer Science Program, University of Leicester.
-  </li>
-</ul>
+- 2021-2022: **[Game-Theoretic Approach to Planning and Synthesis](https://whitemech.github.io/courses)**, [National PhD Program in Artificial Intelligence](https://www.phd-ai.it/).
+- 2018-2019: **Game Theory and Formal Methods** <em>Short Course</em>, Computer Science Program, University of Leicester.
 
 ##### Undergraduate and Graduate Courses
 
-<ul>
-  <li>
-    2022-2023: <b>Data Management and Analysis (Unit 1)</b>, <em>Undergraduate</em>, Applied Computer Science and Artificial Intelligence, Sapienza University of Rome.
-  </li>
-   <li>
-    2022-2023: <b>Basi di Dati (Modulo 1)</b>, <em>Undergraduate</em>, Informatica, Sapienza University of Rome.
-  </li> 
-  <li>
-    2021-2022: <a href="https://elearning.uniroma1.it/course/view.php?id=14816" target=""><b>Informatica</b></a>, <em>Undergraduate</em>, Tecnologie per la Conservazione e il Restauro di Beni Culturali, Sapienza University of Rome.
-  </li>
-  <li>
-    2021-2022: <b>Basi di Dati (Modulo 1)</b>, <em>Undergraduate</em>, Informatica, Sapienza University of Rome (Exams support).
-  </li>
-  <li>
-    2021-2022: <a href="https://elearning.uniroma1.it/course/view.php?id=14072" target="_blank"><b>Geometria</b></a>, <em>Undergraduate</em>, Ingegneria Informatica e Automatica, Sapienza University of Rome.
-  </li>
-</ul>
+- 2022-2023: **Data Management and Analysis (Unit 1)**, <em>Undergraduate</em>, Applied Computer Science and Artificial Intelligence, Sapienza University of Rome.
+- 2022-2023: **Basi di Dati (Modulo 1)**, <em>Undergraduate</em>, Informatica, Sapienza University of Rome.
+- 2021-2022: **[Informatica](https://elearning.uniroma1.it/course/view.php?id=14816)**, <em>Undergraduate</em>, Tecnologie per la Conservazione e il Restauro di Beni Culturali, Sapienza University of Rome.
+- 2021-2022: **Basi di Dati (Modulo 1)**, <em>Undergraduate</em>, Informatica, Sapienza University of Rome (Exams support).
+- 2021-2022: **[Geometria](https://elearning.uniroma1.it/course/view.php?id=14072)**, <em>Undergraduate</em>, Ingegneria Informatica e Automatica, Sapienza University of Rome.
 
 ##### Tutoring
 
-<ul>
-  <li>
-    2020-2021: <a href="https://sites.google.com/diag.uniroma1.it/fm-degiacomo-2020-2021" target="_blank"><b>Formal Methods</b></a>, <em>Graduate</em>, Ingegneria Informatica e Automatica, Sapienza University of Rome.
-  </li>
-  <li>
-    2020-2021: <a href="https://sites.google.com/diag.uniroma1.it/reasoning-agents2021-degiacomo/" target="_blank"><b>Reasoning Agents</b></a>, <em>Graduate</em>, Ingegneria Informatica e Automatica, Sapienza University of Rome.
-  </li>
-  <li>
-    2017-2018: <b>Computer-Aided Formal Verification</b>, <em>Undergraduate and Graduate</em>, Computer Science, University of Oxford.
-  </li>
-  <li>
-    2016-2017: <b>Computational Complexity</b>, <em>Undergraduate and Graduate</em>, Computer Science, University of Oxford.
-  </li>
-  <li>
-    2016-2017: <b>Computer-Aided Formal Verification</b>, <em>Undergraduate and Graduate</em>, Computer Science, University of Oxford.
-  </li>
-</ul>
+- 2020-2021: **[Formal Methods](https://sites.google.com/diag.uniroma1.it/fm-degiacomo-2020-2021)**, <em>Graduate</em>, Ingegneria Informatica e Automatica, Sapienza University of Rome.
+- 2020-2021: **[Reasoning Agents](https://sites.google.com/diag.uniroma1.it/reasoning-agents2021-degiacomo/)**, <em>Graduate</em>, Ingegneria Informatica e Automatica, Sapienza University of Rome.
+- 2017-2018: **Computer-Aided Formal Verification**, <em>Undergraduate and Graduate</em>, Computer Science, University of Oxford.
+- 2016-2017: **Computational Complexity**, <em>Undergraduate and Graduate</em>, Computer Science, University of Oxford.
+- 2016-2017: **Computer-Aided Formal Verification**, <em>Undergraduate and Graduate</em>, Computer Science, University of Oxford.
