@@ -26,6 +26,8 @@ I am <em>Assistant Professor</em> (RTD-B) at [Dipartimento di Informatica](http:
 My research interests regard many aspects of <em>formal methods</em> for Artificial Intelligence. In particular, I work on verification and synthesis problems for multi-agent systems, knowledge representation, strategic reasoning, logic, games, and automata theory.
 For more details, visit my [research](/research) page.
 
+I am also open to supervise students on their Bs and Ms theses. Check my [teaching](/teaching) page for more information.
+
 ##### Short Bio
 
 From February 2012 to March 2015, I have been <em>PhD student</em> at [University of Naples "Federico II"](http://www.unina.it) working under the supervision of [Prof. Aniello Murano](http://people.na.infn.it/~murano/).
