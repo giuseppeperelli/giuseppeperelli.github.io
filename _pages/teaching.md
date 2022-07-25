@@ -6,14 +6,6 @@ description:
 nav: true
 ---
 
-##### Available Theses
-
-<span style="color:red">I am open to supervise Bs and Ms Theses</span>. These can be oriented towards surveys (for Bs), implementations (for Bs and Ms), or research problems (mostly Ms but also Bs). The topics cover several areas of AI, Formal Methods, and Multi-Agent Systems, including:
-
-- **Automated Reasoning**, including logics representation and reasoning about strategies.
-- **Verification, Synthesis and Rational Synthesis**, including single and multi-agent systems.
-- **Linear-Time Temporal Logics**, including automata-theoretic and game-theoretic approach in Formal Verification.
-- **Normative Systems**, including mechanism and multi-agent system design.
 
 ##### PhD Courses
 

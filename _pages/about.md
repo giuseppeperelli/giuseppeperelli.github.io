@@ -9,7 +9,7 @@ profile:
   image: Office-Color.jpeg
   address: >
     <p>Viale Regina Elena 295, 00161 Roma (RM)</p>
-    <p>Department of Computer Science, Sapienza University or Rome</p>
+    <p>Dept. of Computer Science, Sapienza University of Rome</p>
     <p><i class="material-icons">work</i> Building E, Room E310</p>
     <p><i class="material-icons">email</i> <a href="mailto:perelli@di.uniroma1.it">perelli@di.uniroma1.it</a></p>
     <p><i class="material-icons">phone</i> <a href="tel:+390649255470"> +39.06.49255.470</a></p>
@@ -26,7 +26,6 @@ I am <em>Assistant Professor</em> (RTD-B) at [Dipartimento di Informatica](http:
 My research interests regard many aspects of <em>formal methods</em> for Artificial Intelligence. In particular, I work on verification and synthesis problems for multi-agent systems, knowledge representation, strategic reasoning, logic, games, and automata theory.
 For more details, visit my [research](/research) page.
 
-I am also open to supervise students on their Bs and Ms theses. Check my [teaching](/teaching) page for more information.
 
 ##### Short Bio
 
@@ -36,7 +35,16 @@ On April 2015, I joined [University of Oxford](http://www.ox.ac.uk/) as <em>Post
 On July 2018, I moved to [University of Leicester](https://le.ac.uk/) and then, in June 2019, [Chalmers](https://www.chalmers.se/)&nbsp;/ [University of Gothenburg](https://www.gu.se/) to work with [Prof. Nir Piterman](http://www.cse.chalmers.se/~piterman/) as <em>Research Associate</em> on his Consolidator ERC project [dSynMA](https://dsynmaerc.bitbucket.io/).
 From January 2020 to November 2021, I have been at [Dipartimento di Ingegneria Informatica, Automatica e Gestionale](http://www.diag.uniroma1.it/) at Universit&agrave; di Roma, La Sapienza as <em>Research Associate</em>, working with [Prof. Giuseppe de Giacomo](http://www.dis.uniroma1.it/degiacom/) on his Advanced ERC project [WhiteMech](https://whitemech.github.io/).
 
-In November 2020, I obtained the National Scientific Qualification for [Associate Professor in Computer Science](https://asn18.cineca.it/pubblico/miur/esito-abilitato/01%252FB1/2/5) (Scientic Area INF/01).
+<!-- In November 2020, I obtained the National Scientific Qualification for [Associate Professor in Computer Science](https://asn18.cineca.it/pubblico/miur/esito-abilitato/01%252FB1/2/5) (Scientic Area INF/01). -->
 
 
-In May 2021, I obtained the National Scientific Qualification for [Associate Professor in Mathematical Logic](https://asn18.cineca.it/pubblico/miur/esito-abilitato/01%252FA1/2/6) (Scientific Area MAT/01).
+<!-- In May 2021, I obtained the National Scientific Qualification for [Associate Professor in Mathematical Logic](https://asn18.cineca.it/pubblico/miur/esito-abilitato/01%252FA1/2/6) (Scientific Area MAT/01). -->
+
+##### Available Theses
+
+<span style="color:red">I am open to supervise Bs and Ms Theses</span>. These can be oriented towards surveys (for Bs), implementations (for Bs and Ms), or research problems (mostly Ms but also Bs). The topics cover several areas of AI, Formal Methods, and Multi-Agent Systems, including:
+
+- **Automated Reasoning**, including logics representation and reasoning about strategies.
+- **Verification, Synthesis and Rational Synthesis**, including single and multi-agent systems.
+- **Linear-Time Temporal Logics**, including automata-theoretic and game-theoretic approach in Formal Verification.
+- **Normative Systems**, including mechanism and multi-agent system design.
