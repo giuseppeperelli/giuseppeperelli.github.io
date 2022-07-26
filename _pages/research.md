@@ -9,10 +9,11 @@ profile:
   image: Office-Color.jpeg
   address: >
     <p>Viale Regina Elena 295, 00161 Roma (RM)</p>
-    <p>Department of Computer Science, Sapienza University or Rome</p>
+    <p>Dept. of Computer Science, Sapienza University of Rome</p>
     <p><i class="material-icons">work</i> Building E, Room E310</p>
     <p><i class="material-icons">email</i> <a href="mailto:perelli@di.uniroma1.it">perelli@di.uniroma1.it</a></p>
     <p><i class="material-icons">phone</i> <a href="tel:+390649255470"> +39.06.49255.470</a></p>
+    
 description:
 nav: true
 selected_papers: false # includes a list of papers marked as "selected={true}"
