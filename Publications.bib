@@ -211,13 +211,26 @@
 
 @inproceedings
 {
+	C-GKPW22,
+	author				=	{Julian Gutierrez and Sarit Kraus and Giuseppe Perelli and Michael Wooldridge},
+	title					=	{Giving Instruction in Linear Temporal Logic.},
+	abstract			=	{Our aim is to develop a formal semantics for giving instructions to taskable agents, to investigate the complexity of decision problems relating to these semantics, and to explore the issues that these semantics raise. In the setting we consider, agents are given instructions in the form of Linear Temporal Logic (LTL) formulae; the intuitive interpretation of such an instruction is that the agent should act in such a way as to ensure the formula is satisfied. At the same time, agents are assumed to have inviolable and immutable background safety requirements, also specified as LTL formulae. Finally, the actions performed by an agent are assumed to have costs, and agents must act within a limited budget. For this setting, we present a range of interpretations of an instruction to achieve an LTL task Υ, intuitively ranging from “try to do this but only if you can do so with everything else remaining unchanged” up to "drop everything and get this done." For each case we present a formal pre-/post-condition semantics, and investigate the computational issues that they raise.
+	},
+	booktitle			=	{29th International Symposium on Temporal Representation and Reasoning, {TIME} 2022, Online, November 7-9, 2022},
+	notes					=	{to appear},
+	year					=	{2022},
+}
+
+@inproceedings
+{
 	C-ADLP22,
 	author		= {Natasha Alechina and Giuseppe {De Giacomo} and Brian Logan and Giuseppe Perelli},
 	title			= "{Automatic Synthesis of Dynamic Norms for Multi-Agent Systems.}",
 	abstract 	=	"{Norms have been widely proposed to coordinate and regulate behaviour in multi-agent systems (MAS). We consider the problem of synthesising and revising the set of norms in a normative MAS to satisfy a design objective expressed in Alternating Time Temporal Logic (ATL*). ATL* is a well-established language for strategic reasoning, which allows the specification of norms that constrain the strategic behaviour of agents. We focus on dynamic norms, that is, norms corresponding to Mealy machines, that allow us to place different constraints on the agents' behaviour depending on the state of the norm and the state of the underlying MAS. We show that synthesising dynamic norms is $(k + 1)$-EXPTIME where $k$ is the alternation depth of quantifiers in the ATL* specification. Note that for typical cases of interest, $k$ is either $1$ or $2$.	We also study the problem of removing existing norms to satisfy a new objective, which we show to be 2EXPTIME-complete.}",
 	booktitle	= {Proceedings of the Nineteenth International Conference on Principles of Knowledge Representation and Reasoning ({KR})},
-	notes     = {To appear},
+	pages     = {12-21},
 	year      = {2022},
+	url_paper = {https://proceedings.kr.org/2022/2/}
 }
 
 @inproceedings
