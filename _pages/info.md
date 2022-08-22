@@ -17,9 +17,8 @@ nav: true
 
 ##### Community Service
 
-- [IJCAI 2022-2024](https://www.ijcai.org/) (PC Board)
-- [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) (PC member)
-- [AAMAS 2022](https://aamas2022-conference.auckland.ac.nz) (PC member)
+- [AAMAS 2023](https://aamas2023.soton.ac.uk/) (Senior Program Committee member)
+- [IJCAI 2022-2024](https://www.ijcai.org/) (Program Committee Board member)
 
 ###### Past Community Service
 
@@ -29,6 +28,8 @@ nav: true
 - Senior Program Committee:
     [IJCAI 2021](https://ijcai-21.org).
 - Program Committee:
+    [AAMAS 2022](https://aamas2022-conference.auckland.ac.nz),
+    [AAAI 2022](https://aaai.org/Conferences/AAAI-22/),
     [AAAI 2021](https://aaai.org/Conferences/AAAI-21),
     [AAMAS 2021](https://aamas2021.soton.ac.uk),
     [IJCAI 2020](https://ijcai20.org),
