@@ -50,6 +50,10 @@
   - firstname: ["Paul", "P.", "P. B."]
     url: https://www.cs.ox.ac.uk/people/paul.harrenstein/
     
+"Kraus": 
+  - firstname: ["Sarit", "P."]
+    url: https://u.cs.biu.ac.il/~krauss/
+    
 "Kwiatkowska": 
   - firstname: ["Marta", "M.", "M. Z."]
     url: https://www.cs.ox.ac.uk/people/marta.kwiatkowska/
