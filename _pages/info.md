@@ -7,13 +7,23 @@ description:
 nav: true
 ---
 
-##### Memberships
+##### Selected Talks
+- **From Synthesis to Rational Synthesis: A Logic-Based Approach to Multi-Agent Systems**
+  - 02/09/2022: [LMAS Workshop 2022](https://sites.google.com/view/workshoplmas), IRIT -- Université Toulouse 1 Capitole
+  - 10/04/2019: [Formal Methods for Artificial Intelligence Seminars](https://www.doc.ic.ac.uk/~fbelard/FMAI_Seminars/fmai.html), Imperial College London
+  - 29/03/2018: Seminar Talk, University of Naples 'Federico II'
 
-- I am member of [AIxIA](https://aixia.it/), Italian Association for Artificial Intelligence.
-- I am member of [AILA](http://www.ailalogica.it/), Italian Association for Logics and Applications.
-- I am member of [GNCS](https://www.altamatematica.it/gncs), Italian Association for Scientific Calculus.
-- I support [CLAIRE](https://claire-ai.org/).
-
+- **Trace Alignment and Timed-Trace Alignment: An Automata-Based Approach**
+  - 30/11/2021: [Research Seminar Winter Term 2021/22](https://lat.inf.tu-dresden.de/quantla/index.php/study-programme/research-seminar/ws-2021-22#h8skvw7owaqbs9dw17wverh8y1377), QuantLA Group -- TU Dresden, Universit\"{a}t Leipzig
+  
+- **Logics for Multi-Agent Systems Verification**
+  - 15/12/2015: Seminar Talk, Imperial College London
+  
+- **Strategy Logic: A Powerful Formalism for Game-Theoretic Issues**
+  - 24/11/2014: Seminar Talk, University of California Santa Cruz
+  
+- **Le Logiche Temporali e di Strategia nell'Ambito della Verifica Formale**
+  - 05/04/2013: 2013 SeLP Meeting, University of Naples 'Federico II'
 
 ##### Community Service
 
@@ -52,3 +62,10 @@ nav: true
     [SR 2015](https://sites.google.com/site/sr2015homepage),
     [SR 2013](http://www.strategicreasoning.net/editions/2013),
     [GAMES 2012](http://www.games.unina.it).
+
+##### Memberships
+
+- I am member of [AIxIA](https://aixia.it/), Italian Association for Artificial Intelligence.
+- I am member of [AILA](http://www.ailalogica.it/), Italian Association for Logics and Applications.
+- I am member of [GNCS](https://www.altamatematica.it/gncs), Italian Association for Scientific Calculus.
+- I support [CLAIRE](https://claire-ai.org/).
