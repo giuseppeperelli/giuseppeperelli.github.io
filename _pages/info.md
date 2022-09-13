@@ -14,7 +14,7 @@ nav: true
   - 29/03/2018: Seminar Talk, University of Naples 'Federico II'
 
 - **Trace Alignment and Timed-Trace Alignment: An Automata-Based Approach**
-  - 30/11/2021: [Research Seminar Winter Term 2021/22](https://lat.inf.tu-dresden.de/quantla/index.php/study-programme/research-seminar/ws-2021-22#h8skvw7owaqbs9dw17wverh8y1377), QuantLA Group -- TU Dresden, Universit\"{a}t Leipzig
+  - 30/11/2021: [Research Seminar Winter Term 2021/22](https://lat.inf.tu-dresden.de/quantla/index.php/study-programme/research-seminar/ws-2021-22#h8skvw7owaqbs9dw17wverh8y1377), QuantLA Group -- TU Dresden, Universitat Leipzig
   
 - **Logics for Multi-Agent Systems Verification**
   - 15/12/2015: Seminar Talk, Imperial College London
