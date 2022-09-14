@@ -1,7 +1,7 @@
 ---
-layout: about
+layout: page
 permalink: /research/
-title: research
+title: Research
 subtitle:
 
 profile:
