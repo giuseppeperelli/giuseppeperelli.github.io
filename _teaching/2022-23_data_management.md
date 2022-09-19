@@ -6,14 +6,18 @@ description:
 
 ### Data Management and Analysis (Unit 1)
 
-#### General Information
- 
  - **Instructor**: Giuseppe Perelli
  - **Google Classroom**: [Enroll](https://classroom.google.com/c/NTM4NjE5NTc0NDYx?cjc=f6gyif7)
  
-#### Classes
+------
+ 
 
- - **Timetable**: TBA
+#### <span style="color:red">Classes will start on Tuesday 27th September at Edificio RM018 - Aula 2</span>
+
+##### **Timetable**
+
+- Tuesdays: from 8:00 to 11:00 at Edificio RM018 Aula 2
+- Fridays: from 11:00 to 13:00 at Edificio RM018 Aula 2
  
 #### Course content (tentative)
 

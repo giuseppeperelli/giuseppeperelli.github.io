@@ -6,15 +6,19 @@ description:
 
 ### Basi di Dati (Modulo 1)
 
-#### Informazioni
- 
  - **Docente**: Giuseppe Perelli
  - **Google Classroom**: [Iscriviti](https://classroom.google.com/c/NTI2MzczNjQ2NzQw?cjc=o37fjh7)
  - **Importante**: Per poter accedere al materiale condiviso su Drive, occorre autenticarsi con l'indirizzo email di Sapienza.
  
-#### Lezioni
+------
+ 
 
- - **Orario**: TBA
+#### <span style="color:red">Le lezioni iniziano Mercoledì 28 Settembre alle 15:00 in Edificio RM111 - Aula Magna</span>
+
+##### **Orario**
+- Mercoledì: dalle 15:00 alle 18:00 -- Edificio RM111 - Aula Magna
+- Venerdì dalle 13:00 alle 15:00 -- Edificio CU045 - Aula T1
+  
  
 #### Programma
 
