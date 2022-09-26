@@ -7,8 +7,9 @@ description:
 ### Basi di Dati (Modulo 1)
 
  - **Docente**: Giuseppe Perelli
- - **Google Classroom**: [Iscriviti](https://classroom.google.com/c/NTI2MzczNjQ2NzQw?cjc=o37fjh7)
- - **Importante**: Per poter accedere al materiale condiviso su Drive, occorre autenticarsi con l'indirizzo email di Sapienza.
+ - **[Google Classroom](https://classroom.google.com/c/NTI2MzczNjQ2NzQw?cjc=o37fjh7)**: Iscriviti per restare aggiornato sul corso.
+ - **[Form Tracciamento](https://docs.google.com/forms/d/e/1FAIpQLSc9hLH7yRV32YVDnKKDySd8lfRmfnUtDHOypE6gwQPYv8cBZA/viewform)**: Compila la scheda per ogni lezione frequentata
+ - **[Canale M-Z](https://sites.google.com/a/di.uniroma1.it/basidati-modulo1-mz/home-page)**: da qui è possibile accedere al sito del corso per il canale M-Z, della [Prof.ssa De Marsico](https://sites.google.com/a/di.uniroma1.it/maria-de-marsico/), contenente ulteriori informazioni e materiale didattico.
  
 ------
  
@@ -42,7 +43,8 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
   - [B1] J. D. Ullman: Principles of Database & Knowledge-Base Systems, Vol. 1: Classical Database Systems
   - [B2] Lemahieu, W., vanden Broucke, S., & Baesens, B. (2018). Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data. Cambridge University Press
 
-  - Slides: TBA
+- Slide: TBA
+- Esercizi: TBA
 
 #### Modalità d'esame e verbalizzazione (**Leggere attentamente**)
 - Il corso è il primo dei due moduli di Basi di Dati. Il secondo modulo è tenuto nel secondo semestre dal [Prof. Toni Mancini](http://tmancini.di.uniroma1.it/index.php).

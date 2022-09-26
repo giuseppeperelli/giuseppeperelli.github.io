@@ -7,7 +7,8 @@ description:
 ### Data Management and Analysis (Unit 1)
 
  - **Instructor**: Giuseppe Perelli
- - **Google Classroom**: [Enroll](https://classroom.google.com/c/NTM4NjE5NTc0NDYx?cjc=f6gyif7)
+ - **[Google Classroom](https://classroom.google.com/c/NTM4NjE5NTc0NDYx?cjc=f6gyif7)**: Enroll to stay updated about the course.
+ - **[Class attendance](https://docs.google.com/forms/d/e/1FAIpQLSer_n364S5xMFtCCAlUAQs_z0lGCn4h3s7hctDIGAt8gD8X0w/viewform)**: Fill the form for each attended class
  
 ------
  
@@ -32,14 +33,13 @@ description:
 - Concurrency management
   - Transactions, schedules, serial schedules, serialization. Locking, binary lock, 2-phase locking, serialization graph, 2PL theorem with proof
  
-#### Material
+#### Resources
 - Books:
   - [B1] J. D. Ullman: Principles of Database & Knowledge-Base Systems, Vol. 1: Classical Database Systems
   - [B2] Lemahieu, W., vanden Broucke, S., & Baesens, B. (2018). Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data. Cambridge University Press
-  - [B2-OA] Online Appendix on relational algebra
 
+- [Exercises](https://drive.google.com/drive/folders/1_KQJe6iYN_n7bcm6LlJTLkeUeGsNkV7p?usp=sharing)
 - slides: TBA
-- exercises: TBA
 
 
 
