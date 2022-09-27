@@ -13,13 +13,25 @@ description:
 ------
  
 
-#### <span style="color:red">Classes will start on Tuesday 27th September at Edificio RM018 - Aula 2</span>
 
 ##### **Timetable**
 
-- Tuesdays: from 8:00 to 11:00 at Edificio RM018 Aula 2
-- Fridays: from 11:00 to 13:00 at Edificio RM018 Aula 2
+Classes will start on Tuesday 27th September at Edificio RM018 - Aula 2
+
+- Tuesdays: from 8:00 to 11:00 at Edificio RM018 Aula 2 (<span style="color:red"> we start at 8:15 and take two breaks</span>)
+- Fridays: from 11:00 to 13:00 at Edificio RM018 Aula 2 (<span style="color:red"> breaks will be taken at the end of the class</span>)
  
+ 
+#### Resources
+- Books:
+  - [B1] J. D. Ullman: Principles of Database & Knowledge-Base Systems, Vol. 1: Classical Database Systems
+  - [B2] Lemahieu, W., vanden Broucke, S., & Baesens, B. (2018). Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data. Cambridge University Press
+
+- [Slides](https://drive.google.com/drive/folders/1w_x8EK4SN6WiPuuDG8XtrqjxfVCga3f9?usp=sharing) **WARNING**: this version of the slides refers to the course given last year by Prof. M. Mancini. There might be slight changes in this year's version.
+- [Exercises](https://drive.google.com/drive/folders/1_KQJe6iYN_n7bcm6LlJTLkeUeGsNkV7p?usp=sharing)
+
+
+
 #### Course content (tentative)
 
 - Introduction to DBMS
@@ -27,21 +39,11 @@ description:
 - Relational algebra
   - unary operators: projection, selection. Binary operators: union, difference, intersection, Cartesian production, natural join, θ-join. Negation, universal and existence quantification.
 - Database design and normalization
-  - Data redundancy, insertion, update, and deletion anomalies. Relational theory definitions: schema, tuple instance, functional dependency, legal instance, closure of F. Trivial dependencies, properties of functional dependencies. Armstrong's axioms. Rules: decomposition, union, pseudotransitivity, with Theorem and demonstration. Closure of X and first lemma on the closure with demonstration). Theorem F+=FA with proof. Third normal form, formal definition and alternative definition. Algorithm for computing X+, correctness theorem and proof. Key definition, practical ways to find the keys of a schema, uniqueness check. Decomposition of a schema, definition. Projection of F on the decomposition of a schema, definition. Equivalence between two sets of functional dependencies, definition. Lemma on the closures of two sets of functional dependencies, with proof. Decomposition preserving F, definition. Algorithm for checking if F is preserved. Algorithm for computing X+G. Decomposition with lossless join, definition. Algorithm for checking if a decomposition has a lossless join, with proof. Minimal cover, definition, and steps to compute it. Decomposition algorithm, with extra step for lossless join, and proof.
+  - Data redundancy, insertion, update, and deletion anomalies. Relational theory definitions: schema, tuple instance, functional dependency, legal instance, closure of F. Trivial dependencies, properties of functional dependencies. Armstrong's axioms. Rules: decomposition, union, pseudotransitivity, with Theorem and demonstration. Closure of X and first lemma on the closure (with proofs). Theorem F+=FA with proof. Third normal form, formal definition and alternative definition. Algorithm for computing X+, correctness theorem and proof. Key definition, practical ways to find the keys of a schema, uniqueness check. Decomposition of a schema, definition. Projection of F on the decomposition of a schema, definition. Equivalence between two sets of functional dependencies, definition. Lemma on the closures of two sets of functional dependencies, with proof. Decomposition preserving F, definition. Algorithm for checking if F is preserved. Algorithm for computing X+G. Decomposition with lossless join, definition. Algorithm for checking if a decomposition has a lossless join, with proof. Minimal cover, definition, and steps to compute it. Decomposition algorithm, with extra step for lossless join, and proof.
 - Physical organization of a database
   - Heap, sequential, random (hash). Primary and secondary indexes, clustered indexes. Tree organizations: b-trees, b+-trees, b*-trees
 - Concurrency management
   - Transactions, schedules, serial schedules, serialization. Locking, binary lock, 2-phase locking, serialization graph, 2PL theorem with proof
- 
-#### Resources
-- Books:
-  - [B1] J. D. Ullman: Principles of Database & Knowledge-Base Systems, Vol. 1: Classical Database Systems
-  - [B2] Lemahieu, W., vanden Broucke, S., & Baesens, B. (2018). Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data. Cambridge University Press
-
-- [Exercises](https://drive.google.com/drive/folders/1_KQJe6iYN_n7bcm6LlJTLkeUeGsNkV7p?usp=sharing)
-- slides: TBA
-
-
 
 #### Examination rules (Please **read carefully** before asking already answered questions)
 
