@@ -14,10 +14,12 @@ description:
 ------
  
 
-#### <span style="color:red">Le lezioni iniziano Mercoledì 28 Settembre alle 15:00 in Edificio RM111 - Aula Magna</span>
+#### <span style="color:red">Le lezioni iniziano Mercoledì 5 Ottobre alle 9:00 in Edificio Caglioti (Chimica) CU032 - Aula I</span>
+
+##### <span style="color:red">Per problemi tecnici con gli spazi previsti per il corso, è stato effettuato un cambio di aula e di orario. Il nuovo orario è come segue: </span>
 
 ##### **Orario**
-- Mercoledì: dalle 15:00 alle 18:00 -- Edificio RM111 - Aula Magna
+- Mercoledì: dalle 9:00 alle 12:00 -- Edificio Caglioti (Chimica) CU032 - Aula I
 - Venerdì dalle 13:00 alle 15:00 -- Edificio CU045 - Aula T1
   
  
