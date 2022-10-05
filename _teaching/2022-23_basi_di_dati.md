@@ -12,6 +12,18 @@ description:
  - **[Canale M-Z](https://sites.google.com/a/di.uniroma1.it/basidati-modulo1-mz/home-page)**: da qui è possibile accedere al sito del corso per il canale M-Z, della [Prof.ssa De Marsico](https://sites.google.com/a/di.uniroma1.it/maria-de-marsico/), contenente ulteriori informazioni e materiale didattico.
  
 ------
+
+#### Materiale didattico
+- Le [dispense](https://drive.google.com/drive/folders/1UrkpkqsKYDZc0lVb6J7dihBmiNj6NAxf?usp=sharing) della Prof.ssa Moscarini sono parte integrante del materiale didattico.
+Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense e integrate con esempi ed annotazioni. 
+
+- Testi consigliati:
+  - [B1] J. D. Ullman: Principles of Database & Knowledge-Base Systems, Vol. 1: Classical Database Systems
+  - [B2] Lemahieu, W., vanden Broucke, S., & Baesens, B. (2018). Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data. Cambridge University Press
+
+- [Slides](https://drive.google.com/drive/folders/1w_x8EK4SN6WiPuuDG8XtrqjxfVCga3f9?usp=sharing) **Attenzione**: le slide condivise prima della lezione sono quelle del corso di Data Management and Analysisi del corso di ACSAI, tenuto dal Prof. Mancini negli anni precedenti. Una nuova versione delle slide sarà disponibile dopo le corrispettive lezioni.
+
+- Esercizi: TBA
  
 
 #### <span style="color:red">Le lezioni iniziano Mercoledì 5 Ottobre alle 9:00 in Edificio Caglioti (Chimica) CU032 - Aula I</span>
@@ -37,16 +49,7 @@ description:
   - Transazioni. Schedule seriale. Serializzabilità. Modelli di transazioni e meccanismi di locking. Livelock e deadlock. Protocolli a due fasi. Protocolli conservativi e aggressivi. Dati “sporchi”. Rollback a cascata. Timestamp.
 
  
-#### Materiale didattico
-- Le [dispense](https://drive.google.com/drive/folders/1UrkpkqsKYDZc0lVb6J7dihBmiNj6NAxf?usp=sharing) della Prof.ssa Moscarini sono parte integrante del materiale didattico.
-Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense e integrate con esempi ed annotazioni. 
 
-- Testi consigliati:
-  - [B1] J. D. Ullman: Principles of Database & Knowledge-Base Systems, Vol. 1: Classical Database Systems
-  - [B2] Lemahieu, W., vanden Broucke, S., & Baesens, B. (2018). Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data. Cambridge University Press
-
-- Slide: TBA
-- Esercizi: TBA
 
 #### Modalità d'esame e verbalizzazione (**Leggere attentamente**)
 - Il corso è il primo dei due moduli di Basi di Dati. Il secondo modulo è tenuto nel secondo semestre dal [Prof. Toni Mancini](http://tmancini.di.uniroma1.it/index.php).

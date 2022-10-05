@@ -11,6 +11,14 @@ description:
  - **[Class attendance](https://docs.google.com/forms/d/e/1FAIpQLSer_n364S5xMFtCCAlUAQs_z0lGCn4h3s7hctDIGAt8gD8X0w/viewform)**: Fill the form for each attended class
  
 ------
+
+#### Resources
+- Books:
+  - [B1] J. D. Ullman: Principles of Database & Knowledge-Base Systems, Vol. 1: Classical Database Systems
+  - [B2] Lemahieu, W., vanden Broucke, S., & Baesens, B. (2018). Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data. Cambridge University Press
+
+- [Slides](https://drive.google.com/drive/folders/1w_x8EK4SN6WiPuuDG8XtrqjxfVCga3f9?usp=sharing) **WARNING**: the slides shared before classes refer to the course given last year by Prof. M. Mancini. A new version of them will be available after the corresponding class will be delivered.
+- [Exercises](https://drive.google.com/drive/folders/1_KQJe6iYN_n7bcm6LlJTLkeUeGsNkV7p?usp=sharing)
  
 
 
@@ -22,13 +30,7 @@ Classes will start on Tuesday 27th September at Edificio RM018 - Aula 2
 - Fridays: from 11:00 to 13:00 at Edificio RM018 Aula 2 (<span style="color:red"> breaks will be taken at the end of the class</span>)
  
  
-#### Resources
-- Books:
-  - [B1] J. D. Ullman: Principles of Database & Knowledge-Base Systems, Vol. 1: Classical Database Systems
-  - [B2] Lemahieu, W., vanden Broucke, S., & Baesens, B. (2018). Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data. Cambridge University Press
 
-- [Slides](https://drive.google.com/drive/folders/1w_x8EK4SN6WiPuuDG8XtrqjxfVCga3f9?usp=sharing) **WARNING**: this version of the slides refers to the course given last year by Prof. M. Mancini. There might be slight changes in this year's version.
-- [Exercises](https://drive.google.com/drive/folders/1_KQJe6iYN_n7bcm6LlJTLkeUeGsNkV7p?usp=sharing)
 
 
 
