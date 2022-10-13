@@ -23,12 +23,8 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 
 - [Slides](https://drive.google.com/drive/folders/1w_x8EK4SN6WiPuuDG8XtrqjxfVCga3f9?usp=sharing) **Attenzione**: le slide condivise prima della lezione sono quelle del corso di Data Management and Analysisi del corso di ACSAI, tenuto dal Prof. Mancini negli anni precedenti. Una nuova versione delle slide sarà disponibile dopo le corrispettive lezioni.
 
-- Esercizi: TBA
+- [Esercizi](https://drive.google.com/drive/folders/1QOCK7AH_EAsXF9O8VkjT857pkg91c1q6?usp=sharing)
  
-
-#### <span style="color:red">Le lezioni iniziano Mercoledì 5 Ottobre alle 9:00 in Edificio Caglioti (Chimica) CU032 - Aula I</span>
-
-##### <span style="color:red">Per problemi tecnici con gli spazi previsti per il corso, è stato effettuato un cambio di aula e di orario. Il nuovo orario è come segue: </span>
 
 ##### **Orario**
 - Mercoledì: dalle 9:00 alle 12:00 -- Edificio Caglioti (Chimica) CU032 - Aula I
