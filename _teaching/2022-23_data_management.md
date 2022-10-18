@@ -22,19 +22,25 @@ description:
  
 
 
-##### **Timetable**
+#### **Timetable**
 
+
+##### Classes
 Classes will start on Tuesday 27th September at Edificio RM018 - Aula 2
 
-- Tuesdays: from 8:00 to 11:00 at Edificio RM018 Aula 2 (<span style="color:red"> we start at 8:15 and take two breaks</span>)
-- Fridays: from 11:00 to 13:00 at Edificio RM018 Aula 2 (<span style="color:red"> breaks will be taken at the end of the class</span>)
+- Tuesdays: from 8:00 to 11:00 at Edificio RM018 Aula 2 (start at 8:15 and two breaks in between)
+- Fridays: from 11:00 to 13:00 at Edificio RM018 Aula 2 (breaks are skipped to end at 12:30)
  
- 
+##### **<span style="color:red"> Office hour </span>**
+
+Office hour meetings **<span style="color:red">must be agreed by appointment before hand</span>**. They will start on Wednesday 26th October at the following time. 
+
+- Wednesdays: from 16:00 to 18:00 at Department of Computer Science, Edificio E, Viale Regina Elena, 295.
+
+Whenever needed, I can meet students out of the office hours.
 
 
-
-
-#### Course content (tentative)
+#### **Course content** (tentative)
 
 - Introduction to DBMS
 - The relational model

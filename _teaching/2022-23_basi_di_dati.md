@@ -27,9 +27,19 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
  
 
 ##### **Orario**
+
+###### Lezioni
+
 - Mercoledì: dalle 9:00 alle 12:00 -- Edificio Caglioti (Chimica) CU032 - Aula I
-- Venerdì dalle 13:00 alle 15:00 -- Edificio CU045 - Aula T1
-  
+- Venerdì dalle 13:00 alle 15:00 -- Edificio CU045 - Aula T1 (Le pause saranno fatte a inizio lezione per cominciare alle 13:30)
+
+##### **<span style="color:red"> Ricevimento </span>**
+
+Il ricevimento è **<span style="color:red">previo appuntamento</span>**. Inizierà Mercoledì 26 Ottobre in orario e data come segue. 
+
+- Mercoledì: dalle 16:00 alle 18:00 al Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.
+
+In caso di necessità, si può concordare un appuntamento fuori dall'orario di ricevimento.
  
 #### Programma
 
