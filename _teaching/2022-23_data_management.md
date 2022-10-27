@@ -18,6 +18,7 @@ description:
   - [B2] Lemahieu, W., vanden Broucke, S., & Baesens, B. (2018). Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data. Cambridge University Press
 
 - [Slides](https://drive.google.com/drive/folders/1w_x8EK4SN6WiPuuDG8XtrqjxfVCga3f9?usp=sharing) **WARNING**: the slides shared before classes refer to the course given last year by Prof. M. Mancini. A new version of them will be available after the corresponding class will be delivered.
+- [Hand notes](https://drive.google.com/drive/folders/12YOdTpneBSp8hhmSqzJwPvkqhAgsVBSE?usp=sharing) **WARNING** the notes are not (yet) polished and might contain mistakes
 - [Exercises](https://drive.google.com/drive/folders/1_KQJe6iYN_n7bcm6LlJTLkeUeGsNkV7p?usp=sharing)
  
 
