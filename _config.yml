@@ -70,7 +70,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: https://dblp.uni-trier.de/pid/08/10670.html # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
-scopus_id: 55366530500 #your scopus id
+scopus_id: https://www.scopus.com/authid/detail.uri?authorId=55366530500 #your scopus id
 
 contact_note: >
 #  Send me an email at: perelli@di.uniroma1.it.
