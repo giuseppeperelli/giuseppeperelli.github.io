@@ -27,6 +27,7 @@ nav: true
 
 ##### Community Service
 
+- [KR 2023](https://kr.org/KR2023/) (Program Committee member)
 - [AAMAS 2023](https://aamas2023.soton.ac.uk/) (Senior Program Committee member)
 - [IJCAI 2022-2024](https://www.ijcai.org/) (Program Committee Board member)
 
