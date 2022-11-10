@@ -1,14 +1,49 @@
-# al-folio
+# Giuseppe Perelli's website
 
-A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
-If you like the theme, give it a star!
+This repository contains the code for Giuseppe Perelli's personal [webpage](https://giuseppeperelli.github.io/).
 
-[![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
+## Preliminaries
+
+Follow this guide to set up your [Ruby development environment](https://cloud.google.com/ruby/docs/setup#linux-instructions).
+
+Install Ruby version `2.6.0`:
+```
+rbenv install 2.6.0
+```
+
+Install `bundler`:
+
+```
+gem install bundler
+```
+
+Then:
+
+```
+bundle install
+```
+
+## Build
+
+To build the Jekyll website:
+
+```
+bundle exec jekyll build
+```
+
+To serve:
+
+```
+bundle exec jekyll serve
+```
+
+# al-folio template
+
+This website has been generated using the [al-folio](https://alshedivat.github.io/al-folio/) template: a simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
 
 
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
-Since then, it got a full re-write of the styles and many additional cool features.
+
