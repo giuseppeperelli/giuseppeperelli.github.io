@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /info/
-title: Info
+title: info
 
 description:
 nav: true

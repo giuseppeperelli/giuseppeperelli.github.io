@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: teaching
 nav: true
 dropdown: true
 children: 
