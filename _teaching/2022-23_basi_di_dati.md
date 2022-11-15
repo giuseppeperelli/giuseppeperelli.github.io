@@ -13,26 +13,6 @@ description:
  
 ------
 
-#### Appelli d'Esame
-
-Sono stati pubblicati gli appelli d'esame e aperti gli appelli su INFOSTUD (solo sessione invernale) per il MODULO 1, secondo il seguente calendario:
-
--- Appello 26 Gennaio 2023 T2 di Giurisprudenza (Codice Verbale INFOSTUD: **849216**)
-
--- Appello 14 Febbraio 2023 T2 di Giurisprudenza (Codice Verbale INFOSTUD: **848571**)
-
--- Appello 05 Giugno 2023
-
--- Appello 10 Luglio 2023
-
--- Appello 4 Settembre 2023
-
-<ins>**ATTENZIONE: sono stati aperti su INFOSTUD appelli dedicati per l'esame del Modulo 2 canale A-L. Fate attenzione alle note associate all'appello per individuare correttamente quello del vostro esame.**</ins>
-
-**ATTENZIONE**: le aule potrebbero cambiare per esigenze logistiche dell'Ateneo, quindi aule definitive e  orari verranno comunicati in prossimità dell'esame agli studenti prenotati per l'esame.
-
-------
-
 #### Materiale didattico
 - Le [dispense](https://drive.google.com/drive/folders/1UrkpkqsKYDZc0lVb6J7dihBmiNj6NAxf?usp=sharing) della Prof.ssa Moscarini sono parte integrante del materiale didattico.
 Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense e integrate con esempi ed annotazioni. 
@@ -41,7 +21,7 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
   - [B1] J. D. Ullman: Principles of Database & Knowledge-Base Systems, Vol. 1: Classical Database Systems
   - [B2] Lemahieu, W., vanden Broucke, S., & Baesens, B. (2018). Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data. Cambridge University Press
 
-- [Slides](https://drive.google.com/drive/folders/1w_x8EK4SN6WiPuuDG8XtrqjxfVCga3f9?usp=sharing) **ATTENZIONE**: le slide condivise prima della lezione sono quelle del corso di Data Management and Analysis del corso di ACSAI, tenuto dal Prof. [Maurizio Mancini](https://mauriziomancini.site.uniroma1.it/) negli anni precedenti. Una nuova versione delle slide sarà disponibile dopo le corrispettive lezioni.
+- [Slides](https://drive.google.com/drive/folders/1w_x8EK4SN6WiPuuDG8XtrqjxfVCga3f9?usp=sharing) **ATTENZIONE**: le slide condivise prima della lezione sono quelle del corso di Data Management and Analysisi del corso di ACSAI, tenuto dal Prof. Mancini negli anni precedenti. Una nuova versione delle slide sarà disponibile dopo le corrispettive lezioni.
 - [Appunti](https://drive.google.com/drive/folders/12YOdTpneBSp8hhmSqzJwPvkqhAgsVBSE?usp=sharing) **ATTENZIONE**: questi appunti non sono stati ricontrollati e potrebbero contenere degli errori.
 - [Esercizi](https://drive.google.com/drive/folders/1QOCK7AH_EAsXF9O8VkjT857pkg91c1q6?usp=sharing)
  
