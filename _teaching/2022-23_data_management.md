@@ -12,6 +12,25 @@ description:
  
 ------
 
+#### Exam Sessions
+
+The exam calendar has been fixed and it is now possible to book a seat for the winter session on INFOSTUD, according to the following calendar:
+
+-- 16 January 2023 Edificio di Chimica Caglioti Aula I (report ID on INFOSTUD: **849212**)
+
+-- 6 February 2023 Edificio di Chimica Caglioti Aula I (report ID on INFOSTUD: **849214**)
+
+-- 5 June 2023
+
+-- 26 June 2023
+
+-- 5 September 2023
+
+<ins>**WARNING: you will find other exam sessions on INFOSTUD, which are dedicated to the students who will take the UNIT 2 of the course in the winter session. Please, read the booking notes to correctly idetify the one of your interest.**</ins>
+
+**ATTENZIONE**: exam classrooms might vary accorging to the logistic requirement of the University. Time and place of the exams will be confirmed to the students who are booked to the corresponding session, as the exam will approach its date.
+------
+
 #### Resources
 - Books:
   - [B1] J. D. Ullman: Principles of Database & Knowledge-Base Systems, Vol. 1: Classical Database Systems
