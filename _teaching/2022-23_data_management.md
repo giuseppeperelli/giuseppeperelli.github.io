@@ -8,9 +8,14 @@ description:
 
  - **Instructor**: Giuseppe Perelli
  - **[Google Classroom](https://classroom.google.com/c/NTM4NjE5NTc0NDYx?cjc=f6gyif7)**: Enroll to stay updated about the course.
- - **[Class attendance](https://docs.google.com/forms/d/e/1FAIpQLSer_n364S5xMFtCCAlUAQs_z0lGCn4h3s7hctDIGAt8gD8X0w/viewform)**: Fill the form for each attended class
- 
+ - **[Class attendance](https://docs.google.com/forms/d/e/1FAIpQLSer_n364S5xMFtCCAlUAQs_z0lGCn4h3s7hctDIGAt8gD8X0w/viewform)**: Fill the form for each attended class.
+ - **OPIS Code**: G1I40APH
+
 ------
+
+##### **<span style="color:red">STUDENTS OPINION SURVEY</span>**
+
+It is possible to fill the [OPIS questionnaire](https://www.uniroma1.it/en/student-opinion-survey-opis-italian) for the "Self-Assessment, Evaluation and Accreditation system". At [this link](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_student_s_opinions_questionnaire_2022_2023.pdf) you can find a short guide on how to fill the questionnaire. The OPIS code for the instructor of Data Management and Analysis A.A. 2022/23 is **G1I40APH**.
 
 #### Resources
 - Books:

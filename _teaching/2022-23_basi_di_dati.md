@@ -10,6 +10,11 @@ description:
  - **[Google Classroom](https://classroom.google.com/c/NTI2MzczNjQ2NzQw?cjc=o37fjh7)**: Iscriviti per restare aggiornato sul corso.
  - **[Form Tracciamento](https://docs.google.com/forms/d/e/1FAIpQLSc9hLH7yRV32YVDnKKDySd8lfRmfnUtDHOypE6gwQPYv8cBZA/viewform)**: Compila la scheda per ogni lezione frequentata
  - **[Canale M-Z](https://sites.google.com/a/di.uniroma1.it/basidati-modulo1-mz/home-page)**: da qui è possibile accedere al sito del corso per il canale M-Z, della [Prof.ssa De Marsico](https://sites.google.com/a/di.uniroma1.it/maria-de-marsico/), contenente ulteriori informazioni e materiale didattico.
+ - **Codice OPIS**: CZ2PL0H1
+ 
+##### **<span style="color:red">RILEVAZIONE OPINIONI STUDENTI</span>**
+
+È possibile compilare il [questionario OPIS](https://www.uniroma1.it/it/pagina/rilevazione-opinioni-studenti-opis) per la valutazione della qualità dei corsi di studio. Al [seguente link](https://www.uniroma1.it/sites/default/files/field_file_allegati/vademecum_per_studenti_opis_2022_23.pdf) è disponibile un vademecum per gli studenti. Il codice OPIS del docente per il corso di Basi di Dati A.A. 2022/23 è **CZ2PL0H1**.
  
 ------
 
