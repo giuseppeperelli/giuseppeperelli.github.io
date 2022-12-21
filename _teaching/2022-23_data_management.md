@@ -13,9 +13,6 @@ description:
 
 ------
 
-##### **<span style="color:red">STUDENTS OPINION SURVEY</span>**
-
-It is possible to fill the [OPIS questionnaire](https://www.uniroma1.it/en/student-opinion-survey-opis-italian) for the "Self-Assessment, Evaluation and Accreditation system". At [this link](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_student_s_opinions_questionnaire_2022_2023.pdf) you can find a short guide on how to fill the questionnaire. The OPIS code for the instructor of Data Management and Analysis A.A. 2022/23 is **G1I40APH**.
 
 #### Resources
 - Books:
@@ -55,9 +52,7 @@ Whenever needed, I can meet students out of the office hours.
 - Database design and normalization
   - Data redundancy, insertion, update, and deletion anomalies. Relational theory definitions: schema, tuple instance, functional dependency, legal instance, closure of F. Trivial dependencies, properties of functional dependencies. Armstrong's axioms. Rules: decomposition, union, pseudotransitivity, with Theorem and demonstration. Closure of X and first lemma on the closure (with proofs). Theorem F+=FA with proof. Third normal form, formal definition and alternative definition. Algorithm for computing X+, correctness theorem and proof. Key definition, practical ways to find the keys of a schema, uniqueness check. Decomposition of a schema, definition. Projection of F on the decomposition of a schema, definition. Equivalence between two sets of functional dependencies, definition. Lemma on the closures of two sets of functional dependencies, with proof. Decomposition preserving F, definition. Algorithm for checking if F is preserved. Algorithm for computing X+G. Decomposition with lossless join, definition. Algorithm for checking if a decomposition has a lossless join, with proof. Minimal cover, definition, and steps to compute it. Decomposition algorithm, with extra step for lossless join, and proof.
 - Physical organization of a database
-  - Heap, sequential, random (hash). Primary and secondary indexes, clustered indexes. Tree organizations: b-trees, b+-trees, b*-trees
-- Concurrency management
-  - Transactions, schedules, serial schedules, serialization. Locking, binary lock, 2-phase locking, serialization graph, 2PL theorem with proof
+  - Heap, sequential, random (hash). Index sequential access method (ISAM) organization. Tree organizations: b-trees
 
 #### Examination rules (Please **read carefully** before asking already answered questions)
 

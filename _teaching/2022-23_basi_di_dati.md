@@ -12,10 +12,6 @@ description:
  - **[Canale M-Z](https://sites.google.com/a/di.uniroma1.it/basidati-modulo1-mz/home-page)**: da qui è possibile accedere al sito del corso per il canale M-Z, della [Prof.ssa De Marsico](https://sites.google.com/a/di.uniroma1.it/maria-de-marsico/), contenente ulteriori informazioni e materiale didattico.
  - **Codice OPIS**: CZ2PL0H1
  
-##### **<span style="color:red">RILEVAZIONE OPINIONI STUDENTI</span>**
-
-È possibile compilare il [questionario OPIS](https://www.uniroma1.it/it/pagina/rilevazione-opinioni-studenti-opis) per la valutazione della qualità dei corsi di studio. Al [seguente link](https://www.uniroma1.it/sites/default/files/field_file_allegati/vademecum_per_studenti_opis_2022_23.pdf) è disponibile un vademecum per gli studenti. Il codice OPIS del docente per il corso di Basi di Dati A.A. 2022/23 è **CZ2PL0H1**.
- 
 ------
 
 #### Materiale didattico
@@ -29,7 +25,7 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 - [Slides](https://drive.google.com/drive/folders/1w_x8EK4SN6WiPuuDG8XtrqjxfVCga3f9?usp=sharing) **ATTENZIONE**: le slide condivise prima della lezione sono quelle del corso di Data Management and Analysisi del corso di ACSAI, tenuto dal Prof. Mancini negli anni precedenti. Una nuova versione delle slide sarà disponibile dopo le corrispettive lezioni.
 - [Appunti](https://drive.google.com/drive/folders/12YOdTpneBSp8hhmSqzJwPvkqhAgsVBSE?usp=sharing) **ATTENZIONE**: questi appunti non sono stati ricontrollati e potrebbero contenere degli errori.
 - [Esercizi](https://drive.google.com/drive/folders/1QOCK7AH_EAsXF9O8VkjT857pkg91c1q6?usp=sharing)
- 
+- [Tracce esami precedenti](https://drive.google.com/drive/folders/1oM1vfoahHk9_7yUsAkjScHhQ43AUx-8T?usp=sharing)
 
 ##### **Orario**
 
@@ -54,12 +50,7 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
 - Il modello relazionale
   - Concetti di base: dominio, attributo, relazione, n-upla, schema. I linguaggi di interrogazione (algebra relazionale, linguaggi relazionalmente completi). Teoria della normalizzazione Dipendenze funzionali. Chiave di una relazione Terza forma normale. Assiomi di Armstrong e chiusura di un insieme di dipendenze. Chiusura di un insieme di attributi. Copertura minimale di un insieme di dipendenze. Scomposizioni che hanno un join senza perdita. Scomposizioni che preservano le dipendenze.
 - L’organizzazione fisica dei dati
-  - La memoria secondaria. Record fisici e record logici. Puntatori. Blocchi. File heap. File hash. File con indice (indici densi e indici sparsi). B-tree
-
-- La gestione della concorrenza
-  - Transazioni. Schedule seriale. Serializzabilità. Modelli di transazioni e meccanismi di locking. Livelock e deadlock. Protocolli a due fasi. Protocolli conservativi e aggressivi. Dati “sporchi”. Rollback a cascata. Timestamp.
-
- 
+  - La memoria secondaria. Record fisici e record logici. Puntatori. Blocchi. File heap. File hash. File con indice (ISAM). B-tree
 
 
 #### Modalità d'esame e verbalizzazione (**Leggere attentamente**)
