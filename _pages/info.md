@@ -27,8 +27,8 @@ nav: true
   - 05/04/2013: 2013 SeLP Meeting, University of Naples 'Federico II'
 
 ##### Community Service
-
-- [ICPM'23](https://icpmconference.org/2023) (Organization team member)
+- [RADICAL'23]() (Chair)
+- [ICPM'23](https://icpmconference.org/2023) (Proceedings Chair)
 - [ECAI'23](https://ecai2023.eu) (Program Committee member)
 - [KR'23](https://kr.org/KR2023) (Program Committee member)
 - [AAMAS'23](https://aamas2023.soton.ac.uk/) (Senior Program Committee member)
