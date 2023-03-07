@@ -7,7 +7,7 @@ description:
 nav: true
 ---
 
-##### Selected Talks
+#### Selected Talks
 - **From Synthesis to Rational Synthesis: A Logic-Based Approach to Multi-Agent Systems**
   - 14/11/2022: [Sapienza LoC<sup>3</sup> Seminar](https://sites.google.com/diag.uniroma1.it/loc3-seminar-sapienza/home-page), Sapienza University of Rome
   - 02/09/2022: [LMAS Workshop 2022](https://sites.google.com/view/workshoplmas), IRIT -- Université Toulouse 1 Capitole
@@ -26,7 +26,7 @@ nav: true
 - **Le Logiche Temporali e di Strategia nell'Ambito della Verifica Formale**
   - 05/04/2013: 2013 SeLP Meeting, University of Naples 'Federico II'
 
-##### Community Service
+#### Community Service
 - [RADICAL'23]() (Chair)
 - [ICPM'23](https://icpmconference.org/2023) (Proceedings Chair)
 - [ECAI'23](https://ecai2023.eu) (Program Committee member)
@@ -34,7 +34,7 @@ nav: true
 - [AAMAS'23](https://aamas2023.soton.ac.uk/) (Senior Program Committee member)
 - [IJCAI 2022-2024](https://www.ijcai.org/) (Program Committee Board member)
 
-###### Past Community Service
+##### Past Community Service
 
 - Chair:
     [LAMAS&SR'21](https://lamassr.github.io/editions/2021),
@@ -67,7 +67,7 @@ nav: true
     [SR'13](http://www.strategicreasoning.net/editions/2013),
     [GAMES'12](http://www.games.unina.it).
 
-##### Memberships
+#### Memberships
 
 - I am member of [AIxIA](https://aixia.it/), Italian Association for Artificial Intelligence.
 - I am member of [AILA](http://www.ailalogica.it/), Italian Association for Logics and Applications.

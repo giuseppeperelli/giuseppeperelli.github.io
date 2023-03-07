@@ -14,11 +14,20 @@ layout: default
         <article>
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+            {%- if page.profile.logo %}
+              {%- assign profile_logo_path = page.profile.logo | prepend: 'assets/img/' -%}
+              {% include figure.html 
+              path=profile_logo_path 
+              class="img-fluid z-dept-1 rounded"
+              alt=page.profile.logo
+              title="Department of Computer Science"
+              -%}
+            {% endif -%}
             {%- if page.profile.image %}
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
               {% include figure.html 
               path=profile_image_path 
-              class="img-fluid z-dept-1 rounded"
+              class="profile"
               alt=page.profile.image
               title="You enlightened me!"
               -%}
