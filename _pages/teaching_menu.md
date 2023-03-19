@@ -1,7 +1,7 @@
 ---
 layout: page
 title: teachings
-nav: true
+nav: false
 dropdown: true
 children: 
     - title: Basi di Dati (Modulo 1) A.A. 2022-23
