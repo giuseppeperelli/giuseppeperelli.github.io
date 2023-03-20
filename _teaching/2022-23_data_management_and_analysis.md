@@ -1,10 +1,11 @@
 ---
-layout: default
-title: Data Management and Analysis (Unit 1) A.A. 2022/23
-description: 
+layout: page
+title: Data Management and Analysis
+description:
+img: assets/img/database.jpg
+importance: 1
+category: 2022-23
 ---
-
-### Data Management and Analysis (Unit 1)
 
  - **Instructor**: Giuseppe Perelli
  - **[Google Classroom](https://classroom.google.com/c/NTM4NjE5NTc0NDYx?cjc=f6gyif7)**: Enroll to stay updated about the course.
@@ -33,10 +34,10 @@ Classes will start on Tuesday 27th September at Edificio RM018 - Aula 2
 
 - Tuesdays: from 8:00 to 11:00 at Edificio RM018 Aula 2 (start at 8:15 and two breaks in between)
 - Fridays: from 11:00 to 13:00 at Edificio RM018 Aula 2 (breaks are skipped to end at 12:30)
- 
+
 ##### **<span style="color:red"> Office hour </span>**
 
-Office hour meetings **<span style="color:red">must be agreed by appointment before hand</span>**. They will start on Wednesday 26th October at the following time. 
+Office hour meetings **<span style="color:red">must be agreed by appointment before hand</span>**. They will start on Wednesday 26th October at the following time.
 
 - Wednesdays: from 16:00 to 18:00 at Department of Computer Science, Edificio E, Viale Regina Elena, 295.
 
