@@ -2,7 +2,7 @@
 layout: page
 title: Data Management and Analysis
 description:
-img: assets/img/database.png
+img: assets/img/database.jpg
 importance: 1
 category: 2022-23
 ---
