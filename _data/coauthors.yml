@@ -11,15 +11,15 @@
     url: https://webspace.science.uu.nl/~alech001/
     
 "Almagor":
-    -firstname: ["Shaull", "S."]
+  - firstname: ["Shaull", "S."]
     url: https://shaull.cswp.cs.technion.ac.il/
-    
+
 "Bouyer":
-    -firstname: ["Patricia", "P."]
+  - firstname: ["Patricia", "P."]
     url: http://www.lsv.fr/~bouyer/
-    
+
 "Bozzelli":
-    -firstname: ["Laura", "L."]
+  - firstname: ["Laura", "L."]
     url: https://www.docenti.unina.it/laura.bozzelli
 
 "De Giacomo": 
@@ -64,7 +64,7 @@
 
 "Logan":
   - firstname: ["Brian", "B."]
-    url: http://www.cs.nott.ac.uk/~pszbsl/
+    url: https://alechina-logan.net/brian/
 
 "Marchioni":
   - firstname: ["Enrico", "E."]
@@ -81,6 +81,10 @@
 "Mogavero":
   - firstname: ["Fabio", "F."]
     url: https://www.fabiomogavero.com/
+
+"Molinari":
+  - firstname: ["Alberto", "A."]
+    url: https://dblp.org/pid/167/9613.html
     
 "Montali":
   - firstname: ["Marco", "M."]
