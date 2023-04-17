@@ -604,3 +604,34 @@ ul.events {
   font-size: 1.2rem;
   list-style-type: none;
 }
+
+/* Announcements */
+.announce {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px red;
+  width: 50%;
+}
+
+
+.alert-box {
+	background-color: #fffbcc;
+	color: #777;
+	font-size: 14px;
+	line-height: 23px;
+	padding: 13px 10px;
+	text-align:left;
+	font-family:Arial, Helvetica, sans-serif;
+    max-width: 65%;
+}
+.alert-box .badge {
+	background-color: #f58f2a;
+	border-radius: 3px;
+	color: #fff;
+    text-align:center;
+	margin-left: 0px;
+	margin-right: 4px;
+	padding: 3px 5px 3px 4px;
+	font-weight:bold;
+	text-transform: uppercase;
+}

@@ -24,6 +24,10 @@ social: false  # includes social icons at the bottom of the page
 
 I am <em>Assistant Professor</em> (RTD-B) at [Dipartimento di Informatica](http://www.di.uniroma1.it/), Universit&agrave; di Roma, La Sapienza.
 
+<div class="alert-box">
+  <span class="badge">news</span>I am currently visiting the University of Oxford. You can reach me out via email to arrange an online meeting, if needed.
+</div>
+
 ##### Research
 
 My research interests regard many aspects of <em>formal methods</em> for Artificial Intelligence. In particular, I work on verification and synthesis problems for multi-agent systems, knowledge representation, strategic reasoning, logic, games, and automata theory.
@@ -56,7 +60,7 @@ My recent focus has been on Normative Systems, concerning the problem of regulat
 
 From March 2012 to February 2015, I have been <em>PhD student</em> at [University of Naples "Federico II"](http://www.unina.it) working under the supervision of [Prof. Aniello Murano](http://people.na.infn.it/~murano/).
 During my PhD, I have been visiting research scholar at [Rice University](https://www.rice.edu/) under the supervision of [Prof. Moshe Vardi](https://www.cs.rice.edu/~vardi).
-On April 2015, I joined [University of Oxford](http://www.ox.ac.uk/) as <em>Postdoctoral Research Assistant</em>, working with [Prof. Michael Wooldridge](http://www.cs.ox.ac.uk/people/michael.wooldridge/) on his Advanced ERC project [RACE](https://www.cs.ox.ac.uk/projects/RACE/index.html).
+On April 2015, I joined [University of Oxford](http://www.cs.ox.ac.uk/) as <em>Postdoctoral Research Assistant</em>, working with [Prof. Michael Wooldridge](http://www.cs.ox.ac.uk/people/michael.wooldridge/) on his Advanced ERC project [RACE](https://www.cs.ox.ac.uk/projects/RACE/index.html).
 On July 2018, I moved to [University of Leicester](https://le.ac.uk/) and then, in June 2019, [Chalmers](https://www.chalmers.se/)&nbsp;/ [University of Gothenburg](https://www.gu.se/) to work with [Prof. Nir Piterman](http://www.cse.chalmers.se/~piterman/) as <em>Research Associate</em> on his Consolidator ERC project [dSynMA](https://dsynmaerc.bitbucket.io/).
 From January 2020 to November 2021, I have been at [Dipartimento di Ingegneria Informatica, Automatica e Gestionale](http://www.diag.uniroma1.it/) at Universit&agrave; di Roma, La Sapienza as <em>Research Associate</em>, working with [Prof. Giuseppe de Giacomo](http://www.dis.uniroma1.it/degiacom/) on his Advanced ERC project [WhiteMech](https://whitemech.github.io/).
 
