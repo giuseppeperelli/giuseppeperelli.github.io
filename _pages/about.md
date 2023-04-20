@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   logo: di-inline-transparent.png
-  image: Office-Color.jpeg
+  image: OxChair.jpg
   address: >
     <p>Dept. of Computer Science, Sapienza University of Rome</p>
     <p><i class="material-icons">work</i> Viale Regina Elena 295, 00161 Roma (RM)</p>
