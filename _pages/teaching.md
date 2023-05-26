@@ -4,7 +4,6 @@ title: teaching
 permalink: /teaching/
 description:
 nav: true
-<!--nav_order: 2-->
 display_categories: [phd,2022-23,2021-22]
 horizontal: false
 ---

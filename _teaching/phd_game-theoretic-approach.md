@@ -1,9 +1,9 @@
 ---
 layout: page
-title: planning and synthesis
+title: PhD-AI
 description:
-img: assets/img/planning-synth.png
-importance: 1
+img: assets/img/phd-ai.png
+importance: 2
 category: phd
 redirect: https://whitemech.github.io/courses
 ---

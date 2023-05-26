@@ -2,7 +2,6 @@
 layout: page
 title: Basi di Dati
 description:
-img: assets/img/database.jpg
 importance: 1
 category: 2022-23
 ---
