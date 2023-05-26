@@ -9,6 +9,7 @@ nav: true
 
 #### Selected Talks
 - **From Synthesis to Rational Synthesis: A Logic-Based Approach to Multi-Agent Systems**
+  - 25/05/2023: Seminar Talk, University of Southampton
   - 14/11/2022: [Sapienza LoC<sup>3</sup> Seminar](https://sites.google.com/diag.uniroma1.it/loc3-seminar-sapienza/home-page), Sapienza University of Rome
   - 02/09/2022: [LMAS Workshop 2022](https://sites.google.com/view/workshoplmas), IRIT -- Université Toulouse 1 Capitole
   - 10/04/2019: [Formal Methods for Artificial Intelligence Seminars](https://www.doc.ic.ac.uk/~fbelard/FMAI_Seminars/fmai.html), Imperial College London
@@ -33,6 +34,7 @@ nav: true
 - [KR'23](https://kr.org/KR2023) (Program Committee member)
 - [AAMAS'23](https://aamas2023.soton.ac.uk/) (Senior Program Committee member)
 - [IJCAI 2022-2024](https://www.ijcai.org/) (Program Committee Board member)
+- [LAMAS&SR'23](https://vadimmalvone.github.io/lamas-sr-2023/) (Programme Committee member)
 
 ##### Past Community Service
 
