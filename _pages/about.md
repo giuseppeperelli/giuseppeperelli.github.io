@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 <!--<img src="assets/img/di-inline-transparent.png" class="logo"  alt="logo of Sapienza University">-->
 
-I am <em>Assistant Professor</em> (RTD-B) at [Dipartimento di Informatica](http://www.di.uniroma1.it/), Universit&agrave; di Roma, La Sapienza.
+I am <em>Assistant Professor</em> ([RTD-B](https://academicpositions.com/career-advice/italian-academic-job-titles)) at [Dipartimento di Informatica](http://www.di.uniroma1.it/), Universit&agrave; di Roma, La Sapienza.
 
 <!--<div class="alert-box">
   <span class="badge">news</span>I am currently visiting the University of Oxford. You can reach me out via email to arrange an online meeting, if needed.
