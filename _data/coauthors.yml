@@ -34,6 +34,10 @@
   - firstname: ["Paolo", "P."]
     url: https://www.pfelli.xyz/
     
+"Fernandez-Gil":
+  - firstname: ["Oliver", "O."]
+    url: https://lat.inf.tu-dresden.de/~fernandez/
+    
 "Fontaine": 
   - firstname: ["Gaelle", "G."]
     url: https://dblp.org/pid/51/399.html
@@ -129,6 +133,10 @@
 "Toumi":
   - firstname: ["Alexis", "A."]
     url: https://alexis.toumi.xyz/
+
+"Turhan":
+  - firstname: ["Anni-Yasmin", "Anni", "A.", "A-Y", "A. Y."]
+    url: https://lat.inf.tu-dresden.de/~turhan/
     
 "Vardi":
   - firstname: ["Moshe", "M.", "M. Y."]

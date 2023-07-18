@@ -13,6 +13,9 @@
 	In this work we introduce and study SL[F], which enables the specification of quantitative strategic behaviors. The satisfaction value of an SL[F] formula is a real value in [0,1], reflecting ``how much'' or ``how well'' the strategic on-going objectives of the underlying agents are satisfied. We demonstrate the applications of \FSL in quantitative reasoning about multi-agent systems, showing how it can express and measure concepts like stability in multi-agent systems, and how it generalizes some fuzzy temporal logics. We also provide a model-checking algorithm for SL[F], based on a quantitative extension of Quantified CTL*. Our algorithm provides the first decidability result for a quantitative extension of Strategy Logic. In addition, it can be used for synthesizing strategies that maximize the quality of the systems' behavior.},
 	year 					= "2023",
 	booktitle			= {{ACM} Transaction on Computational Logic},
+	volume       = {24},
+	number       = {3},
+	pages        = {21:1--21:38},
 	pdf    		  	= {https://dl.acm.org/doi/10.1145/3582498},
 }
 
@@ -266,6 +269,37 @@
 
 @inproceedings
 {
+	C-GPP23,
+	selected={false},
+	abbr={ECAI-23},
+	bibtex_show={true},
+	author				=	{Pierre Gaillard and Fabio Patrizi and Giuseppe Perelli},
+	title					=	{Strategy Repair in Reachability Games.},
+	abstract			=	{We introduce Strategy Repair, the problem of finding a minimal amount of modifications to turn a strategy for a reachability game from losing into winning. The problem is relevant for a number of settings in Planning and Synthesis, where solutions essentially	correspond to winning strategies in a suitably defined reachability	game. We show, via reduction from Vertex Cover, that Strategy Repair is NP-complete and devise two algorithms, one optimal and exponential and one polynomial but sub-optimal, which we compare	experimentally. The reported experimentation includes some heuristics for strategy modification, which proved crucial in dramatically improving performance.
+	},
+	booktitle			=	{26th European Conference on Artificial Intelligence, {ECAI}},
+	year					=	{2023},
+	note					= {To appear}
+}
+
+@inproceedings
+{
+	C-FPPT23,
+	selected={false},
+	abbr={ECAI-23},
+	bibtex_show={true},
+	author				=	{Oliver Fernandez-Gil and Fabio Patrizi and Giuseppe Perelli and Anni-Yasmin Turhan},
+	title					=	{Optimal Alignment of Temporal Knowledge Bases.},
+	abstract			=	{Answering temporal CQs over temporalized Description Logic knowledge bases (TKB) is a main technique to realize ontology-based situation recognition. In case the collected data in such a knowledge base is inaccurate, important query answers can be missed.
+	In this paper we introduce the TKB Alignment problem, which computes a variant of the TKB that minimally changes the TKB, but entails the given temporal CQ and is in that sense (cost-)optimal. We investigate this problem for ALC TKBs and conjunctive queries with LTL operators and devise a solution technique to compute (cost-optimal) alignments of TKBs that extends techniques for the alignment problem for propositional LTL over finite traces.
+	},
+	booktitle			=	{26th European Conference on Artificial Intelligence, {ECAI}},
+	year					=	{2023},
+	note					= {To appear}
+}
+
+@inproceedings
+{
 	C-GKPW22,
 	selected={false},
 	abbr={TIME-22},
@@ -274,7 +308,7 @@
 	title					=	{Giving Instruction in Linear Temporal Logic.},
 	abstract			=	{Our aim is to develop a formal semantics for giving instructions to taskable agents, to investigate the complexity of decision problems relating to these semantics, and to explore the issues that these semantics raise. In the setting we consider, agents are given instructions in the form of Linear Temporal Logic (LTL) formulae; the intuitive interpretation of such an instruction is that the agent should act in such a way as to ensure the formula is satisfied. At the same time, agents are assumed to have inviolable and immutable background safety requirements, also specified as LTL formulae. Finally, the actions performed by an agent are assumed to have costs, and agents must act within a limited budget. For this setting, we present a range of interpretations of an instruction to achieve an LTL task Υ, intuitively ranging from “try to do this but only if you can do so with everything else remaining unchanged” up to "drop everything and get this done." For each case we present a formal pre-/post-condition semantics, and investigate the computational issues that they raise.
 	},
-	booktitle			=	{29th International Symposium on Temporal Representation and Reasoning, {TIME} 2022, Online, November 7-9, 2022},
+	booktitle			=	{29th International Symposium on Temporal Representation and Reasoning, {TIME}},
 	series    = {LIPIcs},
 	volume    = {247},
 	pages     = {15:1--15:14},
