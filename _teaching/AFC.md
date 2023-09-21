@@ -3,10 +3,11 @@ layout: page
 title: Games on Graphs
 description: Attività Formative Complementari
 importance: 1
-category:
+category: current
 ---
 
  - **Instructor**: Giuseppe Perelli
+ - **[Google Classroom](https://classroom.google.com/c/NjI0OTgyNjU1NDE4?cjc=cvrlksv)**: Enroll to stay updated about the course.
  
 ------
 
@@ -28,3 +29,9 @@ I will give a general seminar on Games on Graphs, introducing the main concepts 
 Following, and based of the interest of the participants, we will discuss and select a related topic on which the students will develop their own seminars to present to the rest of the audience in subsequent meetings.
 
 Alternative to seminars, the students are welcome to suggest more challenging activities, such as working on new results and/or implementation of related tools.
+
+#### **Timetable**
+
+Classes will start on Monday 25th September according to the following calendar:
+
+- Mondays: from 8:00 to 10:00 at Department of Computer Science, Edificio E - Aula T1

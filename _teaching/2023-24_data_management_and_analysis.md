@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Data Management and Analysis A.A. 2022-23
-description:
-importance: 1
-category: past
+title: Data Management and Analysis 
+description: A.A. 2023-24
+importance: 2
+category: current
 ---
 
  - **Instructor**: Giuseppe Perelli
- - **[Google Classroom](https://classroom.google.com/c/NTM4NjE5NTc0NDYx?cjc=f6gyif7)**: Enroll to stay updated about the course.
- - **[Class attendance](https://docs.google.com/forms/d/e/1FAIpQLSer_n364S5xMFtCCAlUAQs_z0lGCn4h3s7hctDIGAt8gD8X0w/viewform)**: Fill the form for each attended class.
- - **OPIS Code**: G1I40APH
+ - **[Google Classroom](https://classroom.google.com/c/NjIzNTcyNDQ1OTk5?cjc=w2alm6o)**: Enroll to stay updated about the course.
 
 ------
 
@@ -19,26 +17,24 @@ category: past
   - [B1] J. D. Ullman: Principles of Database & Knowledge-Base Systems, Vol. 1: Classical Database Systems
   - [B2] Lemahieu, W., vanden Broucke, S., & Baesens, B. (2018). Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data. Cambridge University Press
 
-- [Slides](https://drive.google.com/drive/folders/1w_x8EK4SN6WiPuuDG8XtrqjxfVCga3f9?usp=sharing) **WARNING**: the slides shared before classes refer to the course given last year by Prof. M. Mancini. A new version of them will be available after the corresponding class will be delivered.
-- [Hand notes](https://drive.google.com/drive/folders/12YOdTpneBSp8hhmSqzJwPvkqhAgsVBSE?usp=sharing) **WARNING**: the notes are not (yet) polished and might contain mistakes.
+- [Slides](https://drive.google.com/drive/folders/1w_x8EK4SN6WiPuuDG8XtrqjxfVCga3f9?usp=sharing)
+- [Hand notes](https://drive.google.com/drive/folders/12YOdTpneBSp8hhmSqzJwPvkqhAgsVBSE?usp=sharing) **WARNING**: the notes might contain mistakes. You can report them by sending me an email.
 - [Exercises](https://drive.google.com/drive/folders/1_KQJe6iYN_n7bcm6LlJTLkeUeGsNkV7p?usp=sharing)
 - [Exam simulations](https://drive.google.com/drive/folders/1OoCmqzMN04iTN4foI8suPfceJRLaTjlc?usp=sharing)
 
 
 #### **Timetable**
 
+Classes will start on Monday 25th September according to the following calendar:
 
-##### Classes
-Classes will start on Tuesday 27th September at Edificio RM018 - Aula 2
-
-- Tuesdays: from 8:00 to 11:00 at Edificio RM018 Aula 2 (start at 8:15 and two breaks in between)
-- Fridays: from 11:00 to 13:00 at Edificio RM018 Aula 2 (breaks are skipped to end at 12:30)
+- Mondays: from 14:00 to 16:00 at Department of Mathematics "Guido Castelnuovo", Edificio CU006 - Aula IV
+- Fridays: from 10:00 to 13:00 at Castro Laurenziano, Edificio RM018 - Aula 2L 
 
 ##### **<span style="color:red"> Office hour </span>**
 
-Office hour meetings **<span style="color:red">must be agreed by appointment before hand</span>**. They will start on Wednesday 26th October at the following time.
+Office hour meetings **<span style="color:red">must be agreed by appointment before hand</span>**. They will start on Friday 27th October at the following time.
 
-- Wednesdays: from 16:00 to 18:00 at Department of Computer Science, Edificio E, Viale Regina Elena, 295.
+- Friday: from 16:00 to 18:00 at Department of Computer Science, Edificio E, Viale Regina Elena, 295.
 
 Whenever needed, I can meet students out of the office hours.
 
@@ -56,7 +52,7 @@ Whenever needed, I can meet students out of the office hours.
 
 #### Examination rules (Please **read carefully** before asking already answered questions)
 
-- The course is the first unit of a 2 units 12 credits course "Data Management and Analysis", the second unit will be taught in semester 2 by [Prof. Giuseppe Pirrò](https://ergotid.wordpress.com/).
+- The course is the first unit of a 2 units 12 credits course "Data Management and Analysis", the second unit will be taught in semester 2 by [Prof. Walter Quattrociocchi](https://walterquattrociocchi.site.uniroma1.it/).
 - To pass the 12 credits course, you have to pass 2 separate examinations, one for unit 1 and one for unit 2; only after passing both examinations you will get the 12 credits; there can be no exception to this, so you cannot take unit 1 only, or unit 2 only and receive 6 credits, that is not possible (and that applies also to Erasmus students).
 - To pass the whole examination, you have to pass a written part and an oral part (the written part gives you access to the oral one).
 - A passed written examination can be carried forward in the same session, so for example, if you pass the written part in January you can carry it forward and access the oral part in February.

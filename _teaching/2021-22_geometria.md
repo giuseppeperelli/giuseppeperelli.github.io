@@ -1,9 +1,9 @@
 ---
 layout: page
-title: geometria
+title: geometria A.A. 2021-22
 description:
 redirect: https://elearning.uniroma1.it/course/view.php?id=14072
-category: 2021-22
+category: past
 ---
 
 

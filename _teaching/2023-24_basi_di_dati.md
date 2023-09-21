@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Basi di Dati A.A. 2022-23
-description:
-importance: 1
-category: past
+title: Basi di Dati 
+description: A.A. 2023-24
+importance: 2
+category: current
 ---
 
  - **Docente**: Giuseppe Perelli
- - **[Google Classroom](https://classroom.google.com/c/NTI2MzczNjQ2NzQw?cjc=o37fjh7)**: Iscriviti per restare aggiornato sul corso.
- - **[Form Tracciamento](https://docs.google.com/forms/d/e/1FAIpQLSc9hLH7yRV32YVDnKKDySd8lfRmfnUtDHOypE6gwQPYv8cBZA/viewform)**: Compila la scheda per ogni lezione frequentata
+ - **[Google Classroom](https://classroom.google.com/c/NjMzNTU2MTY4NjQz?cjc=7s3zywu)**: Iscriviti per restare aggiornato sul corso.
  - **[Canale M-Z](https://sites.google.com/a/di.uniroma1.it/basidati-modulo1-mz/home-page)**: da qui è possibile accedere al sito del corso per il canale M-Z, della [Prof.ssa De Marsico](https://sites.google.com/a/di.uniroma1.it/maria-de-marsico/), contenente ulteriori informazioni e materiale didattico.
- - **Codice OPIS**: CZ2PL0H1
  
 ------
 
@@ -22,24 +20,24 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
   - [B1] J. D. Ullman: Principles of Database & Knowledge-Base Systems, Vol. 1: Classical Database Systems
   - [B2] Lemahieu, W., vanden Broucke, S., & Baesens, B. (2018). Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data. Cambridge University Press
 
-- [Slides](https://drive.google.com/drive/folders/1w_x8EK4SN6WiPuuDG8XtrqjxfVCga3f9?usp=sharing) **ATTENZIONE**: le slide condivise prima della lezione sono quelle del corso di Data Management and Analysis del corso di ACSAI, tenuto dal Prof. Mancini negli anni precedenti. Una nuova versione delle slide sarà disponibile dopo le corrispettive lezioni.
-- [Appunti](https://drive.google.com/drive/folders/12YOdTpneBSp8hhmSqzJwPvkqhAgsVBSE?usp=sharing) **ATTENZIONE**: questi appunti non sono stati ricontrollati e potrebbero contenere degli errori.
+- [Slides](https://drive.google.com/drive/folders/1w_x8EK4SN6WiPuuDG8XtrqjxfVCga3f9?usp=sharing) **ATTENZIONE**: le slide sono in Inglese poiché condivise con il corso di Data Management and Analysis del CdS in Applied Computer Science and Artificial Intelligence (ACSAI).
+- [Appunti](https://drive.google.com/drive/folders/12YOdTpneBSp8hhmSqzJwPvkqhAgsVBSE?usp=sharing) **ATTENZIONE**: potete segnalare eventuali errori inviandomi una email.
 - [Esercizi](https://drive.google.com/drive/folders/1QOCK7AH_EAsXF9O8VkjT857pkg91c1q6?usp=sharing)
 - [Tracce esami precedenti](https://drive.google.com/drive/folders/1oM1vfoahHk9_7yUsAkjScHhQ43AUx-8T?usp=sharing)
 - [Simulazioni d'esame](https://drive.google.com/drive/folders/1pS9mx_8nD_AJ3J4s7EcgOYSkfVucxWcm?usp=sharing)
 
 ##### **Orario**
 
-###### Lezioni
+  Le Lezioni inizieranno Mercoledì 27 Settembre secondo il seguende calendario.
 
-- Mercoledì: dalle 9:00 alle 12:00 -- Edificio Caglioti (Chimica) CU032 - Aula I
-- Venerdì dalle 13:00 alle 15:00 -- Edificio CU045 - Aula T1 (Le pause saranno fatte a inizio lezione per cominciare alle 13:30)
+- Mercoledì: dalle 14:00 alle 17:00 -- Edificio Caglioti (Chimica) CU032 - Aula III
+- Giovedì: dalle 15:00 alle 17:00 -- Edificio Caglioti (Chimica) CU032 - Aula III
 
 ##### **<span style="color:red"> Ricevimento </span>**
 
-Il ricevimento è **<span style="color:red">previo appuntamento</span>**. Inizierà Mercoledì 26 Ottobre in orario e data come segue. 
+Il ricevimento è **<span style="color:red">previo appuntamento</span>**. Inizierà Venerdì 27 Ottobre in orario e data come segue. 
 
-- Mercoledì: dalle 16:00 alle 18:00 al Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.
+- Venerdì: dalle 16:00 alle 18:00 al Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.
 
 In caso di necessità, si può concordare un appuntamento fuori dall'orario di ricevimento.
  
@@ -52,6 +50,8 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
   - Concetti di base: dominio, attributo, relazione, n-upla, schema. I linguaggi di interrogazione (algebra relazionale, linguaggi relazionalmente completi). Teoria della normalizzazione Dipendenze funzionali. Chiave di una relazione Terza forma normale. Assiomi di Armstrong e chiusura di un insieme di dipendenze. Chiusura di un insieme di attributi. Copertura minimale di un insieme di dipendenze. Scomposizioni che hanno un join senza perdita. Scomposizioni che preservano le dipendenze.
 - L’organizzazione fisica dei dati
   - La memoria secondaria. Record fisici e record logici. Puntatori. Blocchi. File heap. File hash. File con indice (ISAM). B-tree
+- La gestione della concorrenza
+  - Transazioni. Schedule seriale. Serializzabilità. Modelli di transazioni e meccanismi di locking. Livelock e deadlock. Protocolli a due fasi. Protocolli conservativi e aggressivi. Dati “sporchi”. Rollback a cascata. Timestamp.
 
 
 #### Modalità d'esame e verbalizzazione (**Leggere attentamente**)
