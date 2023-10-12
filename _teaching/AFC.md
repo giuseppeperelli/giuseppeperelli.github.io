@@ -12,6 +12,9 @@ category: current
 ------
 
 #### Teaching Material
+
+- [Seminar Slides](https://drive.google.com/drive/folders/1dlLEO62kFJdqpyIjcmFyibBbKLe9n8RV?usp=sharing)
+
 - Reference book: [N. Fijalkow](http://games-automata-play.com/) -  [Games on Graphs](https://arxiv.org/abs/2305.10546). 
   This is a free-access handbook on the topic.
 
