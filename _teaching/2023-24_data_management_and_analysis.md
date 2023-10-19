@@ -21,6 +21,7 @@ category: current
 - [Hand notes](https://drive.google.com/drive/folders/12YOdTpneBSp8hhmSqzJwPvkqhAgsVBSE?usp=sharing) **WARNING**: the notes might contain mistakes. You can report them by sending me an email.
 - [Exercises](https://drive.google.com/drive/folders/1_KQJe6iYN_n7bcm6LlJTLkeUeGsNkV7p?usp=sharing)
 - [Exam simulations](https://drive.google.com/drive/folders/1OoCmqzMN04iTN4foI8suPfceJRLaTjlc?usp=sharing)
+- [Past exams sheets](https://drive.google.com/drive/folders/1eHVjiabSOjRHNqRuM7ooAwpi0-hKfHcG?usp=sharing)
 
 
 #### **Timetable**
