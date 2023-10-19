@@ -27,8 +27,8 @@ category: current
 
 Classes will start on Monday 25th September according to the following calendar:
 
-- Mondays: from 14:00 to 16:00 at Department of Mathematics "Guido Castelnuovo", Edificio CU006 - Aula IV
-- Fridays: from 10:00 to 13:00 at Castro Laurenziano, Edificio RM018 - Aula 2L 
+- **Mondays**: from **14:00** to **16:00** at **Department of Mathematics "Guido Castelnuovo", Edificio CU006 - Aula IV**
+- **Fridays**: from **10:00** to **13:00** at **Castro Laurenziano, Edificio RM018 - Aula 2L** 
 
 ##### **<span style="color:red"> Office hour </span>**
 

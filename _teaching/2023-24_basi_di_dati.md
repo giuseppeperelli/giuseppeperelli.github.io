@@ -28,10 +28,10 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 
 ##### **Orario**
 
-  Le Lezioni inizieranno Mercoledì 27 Settembre secondo il seguende calendario.
+  Le Lezioni si terranno in **Aula III** del **Dipartimento di Chimica, edificio Caglioti (CU032)** a partire da Mercoledì 27 Settembre secondo il seguende calendario.
 
-- Mercoledì: dalle 14:00 alle 17:00 -- Edificio Caglioti (Chimica) CU032 - Aula III
-- Giovedì: dalle 15:00 alle 17:00 -- Edificio Caglioti (Chimica) CU032 - Aula III
+- **Mercoledì**: dalle **14:00** alle **17:00** (a partire dal 18 Ottobre, le lezioni inizieranno alle 14:30 e avranno una sola pausa di 15 minuti nel mezzo)
+- **Giovedì**: dalle **15:00** alle **17:00** (occasionalmente, si procederà fino alle 16:30 senza effettuare pause nel mezzo)
 
 ##### **<span style="color:red"> Ricevimento </span>**
 
