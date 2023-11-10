@@ -4,7 +4,7 @@ permalink: /info/
 title: info
 
 description:
-nav: true
+nav: false
 ---
 
 #### Selected Talks
