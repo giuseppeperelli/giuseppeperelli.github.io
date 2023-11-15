@@ -9,6 +9,7 @@ category: current
  - **Docente**: Giuseppe Perelli
  - **[Google Classroom](https://classroom.google.com/c/NjMzNTU2MTY4NjQz?cjc=7s3zywu)**: Iscriviti per restare aggiornato sul corso.
  - **[Canale M-Z](https://sites.google.com/a/di.uniroma1.it/basidati-modulo1-mz/home-page)**: da qui è possibile accedere al sito del corso per il canale M-Z, della [Prof.ssa De Marsico](https://sites.google.com/a/di.uniroma1.it/maria-de-marsico/), contenente ulteriori informazioni e materiale didattico.
+ - **Codice OPIS**: AK17360H ([vademecum](https://www.uniroma1.it/sites/default/files/field_file_allegati/vademecum_per_studenti_opis_2023_24_1.pdf))
  
 ------
 

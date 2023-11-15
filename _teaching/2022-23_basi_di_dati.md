@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Basi di Dati A.A. 2022-23
-description:
+title: Basi di Dati
+description: A.A. 2022-23
 importance: 1
 category: past
 ---

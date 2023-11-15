@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Data Management and Analysis A.A. 2022-23
-description:
+title: Data Management and Analysis
+description: A.A. 2022-23
 importance: 1
 category: past
 ---
