@@ -22,6 +22,10 @@
   - firstname: ["Laura", "L."]
     url: https://www.docenti.unina.it/laura.bozzelli
 
+"Dastani":
+  - firstname: ["Mehdi", "M.", "M. M."]
+    url: https://www.uu.nl/staff/mmdastani
+
 "De Giacomo": 
   - firstname: ["Giuseppe", "G."]
     url: http://www.diag.uniroma1.it//degiacom/
@@ -141,6 +145,10 @@
 "Vardi":
   - firstname: ["Moshe", "M.", "M. Y."]
     url: https://www.cs.rice.edu/~vardi/
+
+"Varricchione":
+  - firstname: ["Giovanni", "G."]
+    url: https://giovannivarr.github.io/
     
 "Wooldridge":
   - firstname: ["Michael", "M.", "M. J."]
