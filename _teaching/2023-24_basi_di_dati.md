@@ -21,7 +21,7 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
   - [B1] J. D. Ullman: Principles of Database & Knowledge-Base Systems, Vol. 1: Classical Database Systems
   - [B2] Lemahieu, W., vanden Broucke, S., & Baesens, B. (2018). Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data. Cambridge University Press
 
-- [Slides](https://drive.google.com/drive/folders/1w_x8EK4SN6WiPuuDG8XtrqjxfVCga3f9?usp=sharing) **ATTENZIONE**: le slide sono in Inglese poiché condivise con il corso di Data Management and Analysis del CdS in Applied Computer Science and Artificial Intelligence (ACSAI).
+- [Slides](https://drive.google.com/drive/folders/1EoE2JC2embpKOCacUkikDAZfpXmFami8?usp=sharing) **ATTENZIONE**: le slide sono in Inglese poiché condivise con il corso di Data Management and Analysis del CdS in Applied Computer Science and Artificial Intelligence (ACSAI).
 - [Appunti](https://drive.google.com/drive/folders/12YOdTpneBSp8hhmSqzJwPvkqhAgsVBSE?usp=sharing) **ATTENZIONE**: potete segnalare eventuali errori inviandomi una email.
 - [Esercizi](https://drive.google.com/drive/folders/1QOCK7AH_EAsXF9O8VkjT857pkg91c1q6?usp=sharing)
 - [Tracce esami precedenti](https://drive.google.com/drive/folders/1oM1vfoahHk9_7yUsAkjScHhQ43AUx-8T?usp=sharing)
