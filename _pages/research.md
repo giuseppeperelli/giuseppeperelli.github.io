@@ -61,6 +61,7 @@ My recent focus has been on Normative Systems, concerning the problem of regulat
   - 05/04/2013: 2013 SeLP Meeting, University of Naples 'Federico II'
 
 #### Community Service
+- [ECAI'24](https://www.ecai2024.eu/) (Senior Program Committee member)
 - [AAMAS'24](https://www.aamas2024-conference.auckland.ac.nz/) (Program Committee member)
 - [ICPM'23](https://icpmconference.org/2023) (Proceedings Chair)
 - [IJCAI 2022-2024](https://www.ijcai.org/) (Program Committee Board member)
