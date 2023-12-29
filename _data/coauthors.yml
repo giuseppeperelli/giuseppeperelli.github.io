@@ -57,6 +57,14 @@
 "Harrenstein": 
   - firstname: ["Paul", "P.", "P. B."]
     url: https://www.cs.ox.ac.uk/people/paul.harrenstein/
+
+"Hyland":
+  - firstname: ["David", "D."]
+    url: https://www.cs.ox.ac.uk/people/david.hyland/
+
+"Jamroga":
+  - firstname: ["Wojtek", "W."]
+    url: https://home.ipipan.waw.pl/w.jamroga/
     
 "Kraus": 
   - firstname: ["Sarit", "P."]
@@ -85,6 +93,9 @@
 "Maubert":
   - firstname: ["Bastien", "B."]
     url: http://www.bastien-maubert.fr/
+"Mittelmann":
+  - firstname: ["Munyque", "M."]
+    url: https://sites.google.com/view/mittelmann
     
 "Mogavero":
   - firstname: ["Fabio", "F."]

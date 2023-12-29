@@ -38,7 +38,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 55%
+max_width: 60%
 
 # TODO: add layout settings (single page vs. multi-page)
 
