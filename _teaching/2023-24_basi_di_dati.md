@@ -55,11 +55,30 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
   - Transazioni. Schedule seriale. Serializzabilità. Modelli di transazioni e meccanismi di locking. Livelock e deadlock. Protocolli a due fasi. Protocolli conservativi e aggressivi. Dati “sporchi”. Rollback a cascata. Timestamp.
 
 
-#### Modalità d'esame e verbalizzazione (**Leggere attentamente**)
-- Il corso è il primo dei due moduli di Basi di Dati. Il secondo modulo è tenuto nel secondo semestre dal [Prof. Toni Mancini](http://tmancini.di.uniroma1.it/index.php).
-- Per verbalizzare l'intero esame da 12 crediti, bisogna superare entrambi i moduli separatamente. Questo vale senza eccezione alcuna, compresi gli studenti Erasmus.
-- Per quanto riguarda il Modulo 1, l'esame è composto da uno scritto e un orale, entrambi **obbligatori** (il superamento dello scritto è condizione necessaria per l'accesso all'orale).
+
+
+#### Modalità d'esame (**Leggere attentamente**)
+
+- Per superare il Modulo 1 è necessario superare una parte scritta e una parte orale, entrambi **obbligatori**.
+  - La parte scritta (circa 2 ore) consiste in tre sezioni di esercizi su: Algebra Relazionale, Teoria Relazionale, Organizzazione Fisica.
+  - La parte scritta è superata se **tutte** le sezioni sono valutate con un punteggio sufficiente (6/10) ed è obbligatorio per accedere alla parte orale
+  - La parte orale consiste in domande su:
+    - Definizioni e nozioni di base sulla Teoria Relazionale
+    - Dimostrazioni di teoremi in Teoria Relazionale
+    - Organizzazione fisica
+    - Concorrenza
+  - L'esame orale si svolge **solitamente** una settimana dopo la prova scritta. Tuttavia, questo dipende molto dal tempo necessario per correggere tutte le prove scritte, che è soggetto a variazioni, a causa dei miei impegni e del numero di studenti che sostengono l'esame.
 - Uno scritto superato può essere *conservato* soltanto durante la stessa *sessione d'esami*. Per esempio, se lo scritto è superato nell'appello di Gennaio, questo è valido anche per l'appello di Febbraio, ma non per quello di Giugno.
 - Tuttavia, se lo studente non supera l'orale, lo scritto **non** è più conservato.
 - Le lezioni si svolgono **in presenza** e non sono registrate.
 - Gli esami si svolgono *esclusivamente* in presenza. Non è più consentito svolgere esami da remoto.
+
+
+#### Verbalizzazione (**Leggere attentamente**)
+- Il corso è il primo dei due moduli di Basi di Dati. Il secondo modulo è tenuto nel secondo semestre dal [Prof. Toni Mancini](http://tmancini.di.uniroma1.it/index.php).
+- Per verbalizzare l'intero esame da 12 crediti, bisogna superare entrambi i moduli separatamente. Questo vale senza eccezione alcuna, compresi gli studenti Erasmus. Non c'è limite di tempo tra il superamento dei due moduli per la verbalizzazione finale.
+- Per ragioni amministrative, gli studenti che superano il Modulo 1, ma che non hanno ancora superato il Modulo 2, saranno registrati con un *rinuncia* sul verbale. Contestualmente, riceveranno un'email dal docente con la conferma del superamento del modulo, data e valutazione, a garanzia del superamento stesso.
+
+
+
+

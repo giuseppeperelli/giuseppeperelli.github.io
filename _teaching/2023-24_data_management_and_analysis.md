@@ -41,7 +41,7 @@ Office hour meetings **<span style="color:red">must be agreed by appointment bef
 Whenever needed, I can meet students out of the office hours.
 
 
-#### **Course content** (tentative)
+#### **Course content**
 
 - Introduction to DBMS
 - The relational model
@@ -51,17 +51,26 @@ Whenever needed, I can meet students out of the office hours.
   - Data redundancy, insertion, update, and deletion anomalies. Relational theory definitions: schema, tuple instance, functional dependency, legal instance, closure of F. Trivial dependencies, properties of functional dependencies. Armstrong's axioms. Rules: decomposition, union, pseudotransitivity, with Theorem and demonstration. Closure of X and first lemma on the closure (with proofs). Theorem F+=FA with proof. Third normal form, formal definition and alternative definition. Algorithm for computing X+, correctness theorem and proof. Key definition, practical ways to find the keys of a schema, uniqueness check. Decomposition of a schema, definition. Projection of F on the decomposition of a schema, definition. Equivalence between two sets of functional dependencies, definition. Lemma on the closures of two sets of functional dependencies, with proof. Decomposition preserving F, definition. Algorithm for checking if F is preserved. Algorithm for computing X+G. Decomposition with lossless join, definition. Algorithm for checking if a decomposition has a lossless join, with proof. Minimal cover, definition, and steps to compute it. Decomposition algorithm, with extra step for lossless join, and proof.
 - Physical organization of a database
   - Heap, sequential, random (hash). Index sequential access method (ISAM) organization. Tree organizations: b-trees
-- Concurrency
-  - Transactions. Serial schedule. Serialisation. Models of transaction and locking methods. Livelock and deadlock. Two-phase locking protocols. Cascading rollback. Timestamp-based protocol.
 
-#### Examination rules (Please **read carefully** before asking already answered questions)
+#### Examination rules (Please **read carefully**)
+- To pass the the Unit 1, you have to pass a written part and an oral part.
+  - The written part (about 2 hours) consists in three sections of exercises about: Relational Algebra, Relational Theory, Physical Organization.
+  - Written part is passed if **all** the sections are marked with a sufficient score (6/10) and it is **mandatory** to access the oral part
+  - The oral part consists into questions about:
+    - Definitions and basics about Relational Theory
+    - **Proofs** of theorems in Relational Theory
+    - Physical Organization
+    - Concurrency
+  - The oral examination **usually** takes place one week after the written test. **However**, this highly depends on the time needed to mark all the written exams, which is subject to variations, due to my ongoing duties and the number of students taking the exam themselves.
+- A passed written examination can be carried forward in the same session, so for example, if you pass the written part in January you can carry it forward and access the oral part in February.
+- Between different sessions, you cannot carry forward any passed written part (e.g., you cannot carry forward the written part passed in February to take the oral part in June)
+- Students are no longer allowed to sit the exam from remote.
+
+
+#### Exam transcription (Please **read carefully**)
 
 - The course is the first unit of a 2 units 12 credits course "Data Management and Analysis", the second unit will be taught in semester 2 by [Prof. Walter Quattrociocchi](https://walterquattrociocchi.site.uniroma1.it/).
 - To pass the 12 credits course, you have to pass 2 separate examinations, one for unit 1 and one for unit 2; only after passing both examinations you will get the 12 credits; there can be no exception to this, so you cannot take unit 1 only, or unit 2 only and receive 6 credits, that is not possible (for Erasmus students, please see below).
-- To pass the whole examination, you have to pass a written part and an oral part (the written part gives you access to the oral one).
-- A passed written examination can be carried forward in the same session, so for example, if you pass the written part in January you can carry it forward and access the oral part in February.
-- If you pass the written part and then fail the oral part, in principle, you can still carry forward the written part to the next exam date in the same session (if there is one).
-- If I realize that both of your written and oral parts are really poor, I could ask you to re-sit the written part again in the same session, even if you already passed it.
-- Between different sessions, you cannot carry forward any passed written part (e.g., you cannot carry forward the written part passed in February to take the oral part in June)
-- Students are no longer allowed to sit the exam from remote.
+- Due to administrative reasons, the students passing Unit 1 who did not yet pass Unit 2, will be recorded as *rinuncia* on the verbale. At the same time, they will receive an email from the instructor, confirming they passed the exam, together with date and final mark.
 - **Erasmus students**: unfortunately, Data Management and Analysis is a 12 credits course split into 2 units across 2 semesters, and we cannot record the first (or second) half of the course only. **However**, it is possible to record a single unit in your transcript of records. All you need to do is to mention this to me after you passed the exam. I will then communicate the result to the Erasmus office in Sapienza, which will take care of the official transcription.
+
