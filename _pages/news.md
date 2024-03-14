@@ -8,5 +8,5 @@ nav: true
 
 <!-- pages/news.md -->
 <div class="news">
-    {% include news.html %}
+    {% include allnews.html %}
 </div>
