@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: about_alt
 title: MuSa Jazz
 permalink: /musajazz/
 subtitle:
@@ -25,8 +25,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+> A Problem is just a Chance for You to do your Best (Duke Ellington)
+
 Besides my research and teaching activities, I am a huge passionate about [jazz](https://en.wikipedia.org/wiki/Jazz).
 In October 2023, I joined [MuSa Jazz Orchestra](https://www.sapienzacrea.uniroma1.it/strutture/musa-jazz) as a *Pianist*.
+
 
 ##### MuSa - Musica Sapienza
 
