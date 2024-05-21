@@ -30,21 +30,21 @@ In 2012, I received the 3+2 Award from the Italian Association for Logics and it
 
 <!-- For further details about my research, please, visit the [research](/research) page. -->
 
-#### Research
+### Research
 
-###### Logic and Automata
+##### Logic and Automata
 During my PhD, I focused on the study of Logics for the Verification and Synthesis of strategic behavior in multi-agent systems. In particular, I gave my decisive contribution to the development of Strategy Logic: a language now widely applied in AI and formal methods to reason about strategies and actions in multi-agent systems.
 
-###### Rational Synthesis
+##### Rational Synthesis
 During my years as a research associate at the University of Oxford, University of Leicester, and Chalmers University, my main focus was on Rational Verification and Synthesis, concerning the synthesis of equilibria for games that are used as a modelling tool for multi-agent interacting scenarios, such as autonomous-driving cars, automated wharehouse, and the like. I have contributed to the development of [EVE](http://eve.cs.ox.ac.uk/): a formal verification tool for the automated analysis of temporal equilibrium properties of concurrent and multi-agent systems.
 
-###### Finite Trace
+##### Finite Trace
 I focused on defining and solving synthesis variants of finite temporal specifications. The problem has direct applications in the areas of planning, business process management, as well as robotics, where agents tasks are assumed to be of finite duration.
 
-###### Normative Systems
+##### Normative Systems
 My recent focus has been on Normative Systems, concerning the problem of regulating MAS by means of norms and other formally defined machineries, employed to guarantee correct-by-construction behaviour of systems from a global/designer point of view.
 
-#### Available Theses
+### Available Theses
 
 <span style="color:red">I am open to supervise Bs and Ms Theses</span>. These can be oriented towards surveys (for Bs), implementations (for Bs and Ms), or research problems (mostly Ms but also Bs). The topics cover several areas of AI, Formal Methods, and Multi-Agent Systems, including:
 
@@ -53,7 +53,18 @@ My recent focus has been on Normative Systems, concerning the problem of regulat
 - **Linear-Time Temporal Logics**, including automata-theoretic and game-theoretic approach in Formal Verification.
 - **Normative Systems**, including mechanism and multi-agent system design.
 
-#### Selected Talks
+Below, a list of textbooks to get a more detailed view on these topics:
+
+ - [Reasoning about Knowledge](https://mitpress.mit.edu/9780262562003/reasoning-about-knowledge/) \[Fagin, Moses, Halpern, Vardi, 1995\]
+ - [Languages Automata and Logic](https://www.irif.fr/~serre/Files/thomas96_handbook.pdf) \[Thomas, 1996\]
+ - [Infinite Words](https://shop.elsevier.com/books/infinite-words/perrin/978-0-12-532111-2) \[Perrin, Pin, 2002\]
+ - [An Introduction to Multi-Agent Systems](https://www.wiley.com/en-be/An+Introduction+to+MultiAgent+Systems%2C+2nd+Edition-p-9780470519462) \[Wooldridge, 2002\]
+ - [Artificial Intelligence: a Modern Approach](https://aima.cs.berkeley.edu/) \[Norvig, Russell, 2016\]
+ - [Games on Graphs](https://arxiv.org/abs/2305.10546) \[Fijalkow, 2023\]
+
+<span style="color:red">DISCLAIMER</span>: I do **not** work in Machine Learning. Please, take a look at the reference list above before contacting me about possible these.
+
+### Selected Talks
 - **From Synthesis to Rational Synthesis: A Logic-Based Approach to Multi-Agent Systems**
   - 25/05/2023: Seminar Talk, University of Southampton
   - 14/11/2022: [Sapienza LoC<sup>3</sup> Seminar](https://sites.google.com/diag.uniroma1.it/loc3-seminar-sapienza/home-page), Sapienza University of Rome
