@@ -83,7 +83,7 @@ publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
-scopus_id: https://www.scopus.com/authid/detail.uri?authorId=55366530500 # your profile on Scopus
+scopus_id: 55366530500 # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
