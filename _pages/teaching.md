@@ -4,6 +4,7 @@ title: Teaching
 permalink: /teaching/
 description:
 nav: true
+nav_order: 6
 display_categories: [current,phd,past]
 horizontal: false
 ---

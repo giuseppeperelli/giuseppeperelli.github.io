@@ -6,6 +6,7 @@ description:
 display_categories: [current,past]
 nav: true
 horizontal: false
+nav_order: 5
 ---
 
 <!-- pages/projects.md -->

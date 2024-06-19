@@ -5,7 +5,7 @@ permalink: /musajazz/
 subtitle:
 
 nav: true
-nav_order: 10
+nav_order: 8
 
 profile:
   align: right
