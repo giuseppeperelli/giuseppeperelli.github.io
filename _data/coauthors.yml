@@ -14,6 +14,10 @@
   - firstname: ["Shaull", "S."]
     url: https://shaull.cswp.cs.technion.ac.il/
 
+"Bottoni":
+  - firstname: ["Paolo", "P."]
+    url: https://www.di.uniroma1.it/it/docenti/bottoni-paolo
+
 "Bouyer":
   - firstname: ["Patricia", "P."]
     url: http://www.lsv.fr/~bouyer/
@@ -77,6 +81,10 @@
 "Kupferman": 
   - firstname: ["Orna", "O."]
     url: https://www.cs.huji.ac.il/~ornak/
+
+"Labella":
+  - firstname: ["Anna", "A."]
+    url: http://wwwusers.di.uniroma1.it/~labella/
 
 "Logan":
   - firstname: ["Brian", "B."]
