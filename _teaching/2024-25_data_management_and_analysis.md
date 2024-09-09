@@ -3,12 +3,12 @@ layout: page
 title: Data Management and Analysis 
 description: A.A. 2023-24
 importance: 2
-category: past
+category: current
 ---
 
  - **Instructor**: Giuseppe Perelli
- - **[Google Classroom](https://classroom.google.com/c/NjIzNTcyNDQ1OTk5?cjc=w2alm6o)**: Enroll to stay updated about the course.
- - **Codice OPIS**: E5QCJP5N ([vademecum](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_student_s_opinions_questionnaire_2022_2023.pdf))
+ - **[Google Classroom](https://classroom.google.com/c/NzExMDI3NTU1ODMx?cjc=6liexth)**: Enroll to stay updated about the course.
+<!--  - **Codice OPIS**: E5QCJP5N ([vademecum](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_student_s_opinions_questionnaire_2022_2023.pdf)) -->
 
 ------
 
@@ -27,14 +27,14 @@ category: past
 
 #### **Timetable**
 
-Classes will start on Monday 25th September according to the following calendar:
+Classes will start on Tuesday 24th September according to the following calendar:
 
-- **Mondays**: from **14:00** to **16:00** at **Department of Mathematics "Guido Castelnuovo", Edificio CU006 - Aula IV**
-- **Fridays**: from **10:00** to **13:00** at **Castro Laurenziano, Edificio RM018 - Aula 2L** 
+- **Mondays**: from **14:00** to **17:00** at **Aula De Lollis 1**
+- **Thursdays**: from **16:00** to **18:00** at **Aula De Lollis 1**
 
 ##### **<span style="color:red"> Office hour </span>**
 
-Office hour meetings **<span style="color:red">must be agreed by appointment before hand</span>**. They will start on Friday 27th October at the following time.
+Office hour meetings **<span style="color:red">must be agreed by appointment before hand</span>**. They will start on Friday 11th October at the following time.
 
 - Friday: from 16:00 to 18:00 at Department of Computer Science, Edificio E, Viale Regina Elena, 295.
 
@@ -53,18 +53,38 @@ Whenever needed, I can meet students out of the office hours.
   - Heap, sequential, random (hash). Index sequential access method (ISAM) organization. Tree organizations: b-trees
 
 #### Examination rules (Please **read carefully**)
-- To pass the the Unit 1, you have to pass a written part and an oral part.
-  - The written part (about 2 hours) consists in three sections of exercises about: Relational Algebra, Relational Theory, Physical Organization.
-  - Written part is passed if **all** the sections are marked with a sufficient score (6/10) and it is **mandatory** to access the oral part
+- The exam for Unit 1 consists to a written part and an oral part.
+  - The written part (about 2 and half hours) consists in a section of multiple choice questions about theori and a section with three exercises about: Relational Algebra, Relational Theory, Physical Organization.
+  - For the multiple choice questions, each correct answer adds a point, each wrong answer subtracts half a point. You need to score **at least** 6 points out of 10 to pass the section.
+  - The exercises of the second section are worth 10 points each. If **all** exercises are evaluated with a sufficient score (6/10), the section is passed.
+  - If the written test is passed, you are assigned a mark according to the following *conversion table*
+
+    | **Written Score** | **Final Mark** |
+    |-------------------|----------------|
+    |   18              |     18         |
+    |   19              |     19         |
+    |   20              |     19         |
+    |   21              |     20         |
+    |   22              |     20         |
+    |   23              |     21         |
+    |   24              |     21         |
+    |   25              |     22         |
+    |   26              |     22         |
+    |   27              |     23         |
+    |   28              |     23         |
+    |   29              |     24         |
+    |   30              |     24         |
+
+  - The final mark can be adjusted by taking the oral part, which is then *optional*. The oral exam can **add or subtract** up to 10 points from the written score.
   - The oral part consists into questions about:
     - Definitions and basics about Relational Theory
     - **Proofs** of theorems in Relational Theory
     - Physical Organization
-    - Concurrency
+<!--     - Concurrency -->
   - The oral examination **usually** takes place one week after the written test. **However**, this highly depends on the time needed to mark all the written exams, which is subject to variations, due to my ongoing duties and the number of students taking the exam themselves.
-- A passed written examination can be carried forward in the same session, so for example, if you pass the written part in January you can carry it forward and access the oral part in February.
+<!--- A passed written examination can be carried forward in the same session, so for example, if you pass the written part in January you can carry it forward and access the oral part in February.
 - Between different sessions, you cannot carry forward any passed written part (e.g., you cannot carry forward the written part passed in February to take the oral part in June)
-- Students are no longer allowed to sit the exam from remote.
+- Students are no longer allowed to sit the exam from remote.-->
 
 
 #### Exam transcription (Please **read carefully**)

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Basi di Dati 
-description: A.A. 2023-24
+description: A.A. 2024-25
 importance: 2
-category: past
+category: current
 ---
 
  - **Docente**: Giuseppe Perelli
- - **[Google Classroom](https://classroom.google.com/c/NjMzNTU2MTY4NjQz?cjc=7s3zywu)**: Iscriviti per restare aggiornato sul corso.
- - **[Canale M-Z](https://sites.google.com/a/di.uniroma1.it/basidati-modulo1-mz/home-page)**: da qui è possibile accedere al sito del corso per il canale M-Z, della [Prof.ssa De Marsico](https://sites.google.com/a/di.uniroma1.it/maria-de-marsico/), contenente ulteriori informazioni e materiale didattico.
- - **Codice OPIS**: AK17360H ([vademecum](https://www.uniroma1.it/sites/default/files/field_file_allegati/vademecum_per_studenti_opis_2023_24_1.pdf))
+ - **[Google Classroom](https://classroom.google.com/c/NzExMDI4ODk5NTAw?cjc=uph5u4s)**: Iscriviti per restare aggiornato sul corso.
+<!--  - **[Canale M-Z](https://sites.google.com/a/di.uniroma1.it/basidati-modulo1-mz/home-page)**: da qui è possibile accedere al sito del corso per il canale M-Z, della [Prof.ssa De Marsico](https://sites.google.com/a/di.uniroma1.it/maria-de-marsico/), contenente ulteriori informazioni e materiale didattico. -->
+<!--  - **Codice OPIS**: AK17360H ([vademecum](https://www.uniroma1.it/sites/default/files/field_file_allegati/vademecum_per_studenti_opis_2023_24_1.pdf)) -->
  
 ------
 
@@ -29,14 +29,14 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 
 ##### **Orario**
 
-  Le Lezioni si terranno in **Aula III** del **Dipartimento di Chimica, edificio Caglioti (CU032)** a partire da Mercoledì 27 Settembre secondo il seguende calendario.
+  Le Lezioni si terranno in **Aula da Definire** a partire da Lunedì 23 Settembre secondo il seguende calendario.
 
-- **Mercoledì**: dalle **14:00** alle **17:00** (a partire dal 18 Ottobre, le lezioni inizieranno alle 14:30 e avranno una sola pausa di 15 minuti nel mezzo)
-- **Giovedì**: dalle **15:00** alle **17:00** (occasionalmente, si procederà fino alle 16:30 senza effettuare pause nel mezzo)
+- **Lunedì**: dalle **13:00** alle **15:00**
+- **Giovedì**: dalle **13:00** alle **16:00**
 
 ##### **<span style="color:red"> Ricevimento </span>**
 
-Il ricevimento è **<span style="color:red">previo appuntamento</span>**. Inizierà Venerdì 27 Ottobre in orario e data come segue. 
+Il ricevimento è **<span style="color:red">previo appuntamento</span>**. Inizierà Venerdì 11 Ottobre in orario e data come segue.
 
 - Venerdì: dalle 16:00 alle 18:00 al Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.
 
@@ -51,27 +51,47 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
   - Concetti di base: dominio, attributo, relazione, n-upla, schema. I linguaggi di interrogazione (algebra relazionale, linguaggi relazionalmente completi). Teoria della normalizzazione Dipendenze funzionali. Chiave di una relazione Terza forma normale. Assiomi di Armstrong e chiusura di un insieme di dipendenze. Chiusura di un insieme di attributi. Copertura minimale di un insieme di dipendenze. Scomposizioni che hanno un join senza perdita. Scomposizioni che preservano le dipendenze.
 - L’organizzazione fisica dei dati
   - La memoria secondaria. Record fisici e record logici. Puntatori. Blocchi. File heap. File hash. File con indice (ISAM). B-tree
-- La gestione della concorrenza
-  - Transazioni. Schedule seriale. Serializzabilità. Modelli di transazioni e meccanismi di locking. Livelock e deadlock. Protocolli a due fasi. Protocolli conservativi e aggressivi. Dati “sporchi”. Rollback a cascata. Timestamp.
+<!--- La gestione della concorrenza
+  - Transazioni. Schedule seriale. Serializzabilità. Modelli di transazioni e meccanismi di locking. Livelock e deadlock. Protocolli a due fasi. Protocolli conservativi e aggressivi. Dati “sporchi”. Rollback a cascata. Timestamp.-->
 
 
 
 
 #### Modalità d'esame (**Leggere attentamente**)
 
-- Per superare il Modulo 1 è necessario superare una parte scritta e una parte orale, entrambi **obbligatori**.
-  - La parte scritta (circa 2 ore) consiste in tre sezioni di esercizi su: Algebra Relazionale, Teoria Relazionale, Organizzazione Fisica.
-  - La parte scritta è superata se **tutte** le sezioni sono valutate con un punteggio sufficiente (6/10) ed è obbligatorio per accedere alla parte orale
+- L'esame del Modulo 1 consiste in una parte scritta e una parte orale.
+  - La parte scritta (circa 2 ore e mezza) consiste in una sezione di domande a risposta multipla sulla teoria e una sezione di tre esercizi su: Algebra Relazionale, Teoria Relazionale, Organizzazione Fisica.
+    - Per le domande a risposta multipla, ad ogni risposta corretta si aggiunge un punto, per ogni risposta sbagliata, si sottrae mezzo punto. È necessario raggiungere **almeno** 6 punti su 10 per considerare questa sezione superata.
+    - Gli esercizi della seconda sezione sono valutati 10 punti. Se **tutti** gli esercizi sono valutati con un punteggio sufficiente (6/10), la sezione viene considerata superata.
+    - Se la prova scritta è superata, viene assegnato un voto secondo la seguente tabella
+
+    | **Voto Scritto** | **Voto Finale** |
+    |------------------|-----------------|
+    |   18             |     18          |
+    |   19             |     19          |
+    |   20             |     19          |
+    |   21             |     20          |
+    |   22             |     20          |
+    |   23             |     21          |
+    |   24             |     21          |
+    |   25             |     22          |
+    |   26             |     22          |
+    |   27             |     23          |
+    |   28             |     23          |
+    |   29             |     24          |
+    |   30             |     24          |
+
+
+  - Il voto finale può essere aggiustato sostenendo un *orale facoltativo*. L'esame orale può **aggiungere o sottrarre** fino a 10 punti dal voto dello scritto.
   - La parte orale consiste in domande su:
     - Definizioni e nozioni di base sulla Teoria Relazionale
     - Dimostrazioni di teoremi in Teoria Relazionale
     - Organizzazione fisica
-    - Concorrenza
+<!--     - Concorrenza -->
   - L'esame orale si svolge **solitamente** una settimana dopo la prova scritta. Tuttavia, questo dipende molto dal tempo necessario per correggere tutte le prove scritte, che è soggetto a variazioni, a causa dei miei impegni e del numero di studenti che sostengono l'esame.
-- Uno scritto superato può essere *conservato* soltanto durante la stessa *sessione d'esami*. Per esempio, se lo scritto è superato nell'appello di Gennaio, questo è valido anche per l'appello di Febbraio, ma non per quello di Giugno.
-- Tuttavia, se lo studente non supera l'orale, lo scritto **non** è più conservato.
-- Le lezioni si svolgono **in presenza** e non sono registrate.
-- Gli esami si svolgono *esclusivamente* in presenza. Non è più consentito svolgere esami da remoto.
+
+<!--- Le lezioni si svolgono **in presenza** e non sono registrate.
+- Gli esami si svolgono *esclusivamente* in presenza. Non è più consentito svolgere esami da remoto.-->
 
 
 #### Verbalizzazione (**Leggere attentamente**)
