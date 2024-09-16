@@ -29,8 +29,8 @@ category: current
 
 Classes will start on Tuesday 24th September according to the following calendar:
 
-- **Mondays**: from **14:00** to **17:00** at **Aula De Lollis 1**
-- **Thursdays**: from **16:00** to **18:00** at **Aula De Lollis 1**
+- **Mondays**: from **14:00** to **17:00** at **Aula De Lollis 3**
+- **Thursdays**: from **16:00** to **18:00** at **Aula De Lollis 3**
 
 ##### **<span style="color:red"> Office hour </span>**
 

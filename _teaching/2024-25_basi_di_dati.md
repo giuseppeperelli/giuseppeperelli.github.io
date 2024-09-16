@@ -29,7 +29,7 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 
 ##### **Orario**
 
-  Le Lezioni si terranno in **Aula da Definire** a partire da Lunedì 23 Settembre secondo il seguende calendario.
+  Le Lezioni si terranno in **Aula De Lollis 4** a partire da Lunedì 23 Settembre secondo il seguende calendario.
 
 - **Lunedì**: dalle **13:00** alle **15:00**
 - **Giovedì**: dalle **13:00** alle **16:00**
