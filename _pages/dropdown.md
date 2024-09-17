@@ -1,15 +1,14 @@
 ---
 layout: page
-title: submenus
-nav: false
-nav_order: 8
+title: Teaching
+nav: true
+nav_order: 6
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
-  - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: Basi di Dati
+    permalink: /teaching/basi_di_dati
+  - title: Data Management and Analysis
+    permalink: /teaching/data_management_and_analysis
   - title: divider
   - title: blog
     permalink: /blog/
