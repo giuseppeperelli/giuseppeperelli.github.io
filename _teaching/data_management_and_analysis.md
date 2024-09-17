@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Management and Analysis 
-description: A.A. 2023-24
+description: CdS Applied Computer Science and Artificial Intelligence
 importance: 2
 category: current
 ---
@@ -94,3 +94,12 @@ Whenever needed, I can meet students out of the office hours.
 - Due to administrative reasons, the students passing Unit 1 who did not yet pass Unit 2, will be recorded as *rinuncia* on the verbale. At the same time, they will receive an email from the instructor, confirming they passed the exam, together with date and final mark.
 - **Erasmus students**: unfortunately, Data Management and Analysis is a 12 credits course split into 2 units across 2 semesters, and we cannot record the first (or second) half of the course only. **However**, it is possible to record a single unit in your transcript of records. All you need to do is to mention this to me after you passed the exam. I will then communicate the result to the Erasmus office in Sapienza, which will take care of the official transcription.
 
+------
+
+#### Previous Editions
+
+- **A.A. 2023-24**
+  - **[Google Classroom](https://classroom.google.com/c/NjIzNTcyNDQ1OTk5?cjc=w2alm6o)**: Enroll to stay updated about the course.
+
+- **A.A. 2022-23**
+  - **[Google Classroom](https://classroom.google.com/c/NTM4NjE5NTc0NDYx?cjc=f6gyif7)**: Enroll to stay updated about the course.

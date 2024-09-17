@@ -3,7 +3,7 @@ layout: page
 title: Games on Graphs
 description: Attività Formative Complementari
 importance: 1
-category: current
+category: past
 ---
 
  - **Instructor**: Giuseppe Perelli

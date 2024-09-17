@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Basi di Dati 
-description: A.A. 2024-25
+description: CdS Informatica
 importance: 2
 category: current
 ---
@@ -101,4 +101,12 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
 
 
 
+------
 
+#### Edizioni Precedenti
+
+- **A.A. 2023-24**
+  - **[Google Classroom](https://classroom.google.com/c/NjMzNTU2MTY4NjQz?cjc=7s3zywu)**: Iscriviti per restare aggiornato sul corso.
+
+- **A.A. 2022-23**
+  - **[Google Classroom](https://classroom.google.com/c/NTI2MzczNjQ2NzQw?cjc=o37fjh7)**: Iscriviti per restare aggiornato sul corso.

@@ -10,6 +10,11 @@ children:
   - title: Data Management and Analysis
     permalink: /teaching/data_management_and_analysis
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Geometria
+    permalink: /teaching/geometria
+  - title: Informatica
+    permalink: /teaching/informatica
+  - title: divider
+  - title: All teaching
+    permalink: /teaching
 ---
