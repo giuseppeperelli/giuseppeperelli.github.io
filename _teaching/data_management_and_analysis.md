@@ -34,9 +34,9 @@ Classes will start on Tuesday 24th September according to the following calendar
 
 ##### **<span style="color:red"> Office hour </span>**
 
-Office hour meetings **<span style="color:red">must be agreed by appointment before hand</span>**. They will start on Friday 11th October at the following time.
+Office hour meetings **<span style="color:red">must be agreed by appointment before hand</span>**. They will start on Wednesday 9th October at the following time.
 
-- Friday: from 16:00 to 18:00 at Department of Computer Science, Edificio E, Viale Regina Elena, 295.
+- Wednesdays: from 16:00 to 18:00 at Department of Computer Science, Edificio E, Viale Regina Elena, 295.
 
 Whenever needed, I can meet students out of the office hours.
 
