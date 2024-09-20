@@ -27,12 +27,23 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 - [Tracce esami precedenti](https://drive.google.com/drive/folders/1oM1vfoahHk9_7yUsAkjScHhQ43AUx-8T?usp=sharing)
 - [Simulazioni d'esame](https://drive.google.com/drive/folders/1pS9mx_8nD_AJ3J4s7EcgOYSkfVucxWcm?usp=sharing)
 
+
+##### **<span style="color:red"> ATTENZIONE </span>**
+
+A causa di alcuni ritardi dovuti a lavori in corso, le lezioni della prima settimana si terranno in un'aula diversa da quella allocata per tutto il resto del corso.
+
+ - La prima lezione del corso, prevista per **Lunedì 23 Settembre** alle **13:00** si terrà in **Aula 204** dell'edificio **Marco Polo** (Viale dello Scalo San Lorenzo, 82)
+
+ - La seconda lezione del corso, prevista per **Giovedì 26 Settembre** alle **13:00** si terrà in **Aula Archeologia Ed. Lettere**.
+
+Si prega ti monitorare gli aggiornamenti sul sito del CdS, alla pagina Frequentare, nella tabella "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/29923/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/29923/programmazione)
+
 ##### **Orario**
 
-  Le Lezioni si terranno in **Aula De Lollis 4** a partire da Lunedì 23 Settembre secondo il seguende calendario.
+  Le Lezioni si terranno a partire da Lunedì 23 Settembre secondo il seguende calendario.
 
-- **Lunedì**: dalle **13:00** alle **15:00**
-- **Giovedì**: dalle **13:00** alle **16:00**
+- **Lunedì**: dalle **13:00** alle **15:00**: **Aula De Lollis 4** (Attenzione, leggere l'avviso sopra sulle aule!)
+- **Giovedì**: dalle **13:00** alle **16:00**: **Aula De Lollis 4** (Attenzione, leggere l'avviso sopra sulle aule!)
 
 ##### **<span style="color:red"> Ricevimento </span>**
 

@@ -24,13 +24,23 @@ category: current
 - [Exam simulations](https://drive.google.com/drive/folders/1OoCmqzMN04iTN4foI8suPfceJRLaTjlc?usp=sharing)
 - [Past exams sheets](https://drive.google.com/drive/folders/1eHVjiabSOjRHNqRuM7ooAwpi0-hKfHcG?usp=sharing)
 
+##### **<span style="color:red"> WARNING </span>**
+
+Due to some work in progress, the first week's lectures will take place in a different location from the rest of the course.
+
+ - The first lecture, will take place on **Tuesday 24 September** on **14:00** at **Aula A** of **Pietro Benedetti** Building (RM027 Neuropsichiatria infantile, Via dei Sabelli 108)
+
+ - The second lecture, will take place on **Thursday 26 September** on **13:00** at **Aula A** of **Pietro Benedetti** Building (RM027 Neuropsichiatria infantile, Via dei Sabelli 108).
+
+You are all invited to monitor the updates on the webpage of the course, at page Frequentare, under the tab "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione)
+
 
 #### **Timetable**
 
 Classes will start on Tuesday 24th September according to the following calendar:
 
-- **Mondays**: from **14:00** to **17:00** at **Aula De Lollis 3**
-- **Thursdays**: from **16:00** to **18:00** at **Aula De Lollis 3**
+- **Mondays**: from **14:00** to **17:00** at **Aula De Lollis 3** (Warning! Read the news about rooms above!)
+- **Thursdays**: from **16:00** to **18:00** at **Aula De Lollis 3** (Warning! Read the news about rooms above!)
 
 ##### **<span style="color:red"> Office hour </span>**
 
