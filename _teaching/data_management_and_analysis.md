@@ -30,7 +30,7 @@ Due to some work in progress, the first week's lectures will take place in a dif
 
  - The first lecture, will take place on **Tuesday 24 September** on **14:00** at **Aula A** of **Pietro Benedetti** Building (RM027 Neuropsichiatria infantile, Via dei Sabelli 108)
 
- - The second lecture, will take place on **Thursday 26 September** on **13:00** at **Aula A** of **Pietro Benedetti** Building (RM027 Neuropsichiatria infantile, Via dei Sabelli 108).
+ - The second lecture, will take place on **Thursday 26 September** on **16:00** at **Aula A** of **Pietro Benedetti** Building (RM027 Neuropsichiatria infantile, Via dei Sabelli 108).
 
 You are all invited to monitor the updates on the webpage of the course, at page Frequentare, under the tab "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione)
 
