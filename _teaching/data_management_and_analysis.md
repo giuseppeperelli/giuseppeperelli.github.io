@@ -35,6 +35,16 @@ Due to some work in progress, the first week's lectures will take place in a dif
 You are all invited to monitor the updates on the webpage of the course, at page Frequentare, under the tab "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione)
 
 
+--------
+
+
+Due to delays in the renovation of the classrooms dedicated to the course, next week's lessons (*from September 30th to October 4th*) will be held **ONLINE**.
+
+Below you will find the link to the Zoom room that I opened for the lesson. To connect you must use your Sapienza account.
+
+[https://uniroma1.zoom.us/j/87151615100](https://uniroma1.zoom.us/j/87151615100)
+
+
 #### **Timetable**
 
 Classes will start on Tuesday 24th September according to the following calendar:

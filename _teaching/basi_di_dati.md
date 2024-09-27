@@ -38,6 +38,16 @@ A causa di alcuni ritardi dovuti a lavori in corso, le lezioni della prima setti
 
 Si prega ti monitorare gli aggiornamenti sul sito del CdS, alla pagina Frequentare, nella tabella "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/29923/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/29923/programmazione)
 
+
+-------
+
+
+A causa dei ritardi nella ristrutturazione delle aule dedicate al corso, le lezioni della settimana prossima (*dal 30 Settembre al 4 Ottobre*) si faranno **ONLINE**.
+
+Qui sotto troverete il link alla stanza Zoom che ho aperto per la lezione. Per collegarsi è necessario utilizzare il proprio account Sapienza.
+
+[https://uniroma1.zoom.us/j/84021213956](https://uniroma1.zoom.us/j/84021213956)
+
 ##### **Orario**
 
   Le Lezioni si terranno a partire da Lunedì 23 Settembre secondo il seguende calendario.
