@@ -28,21 +28,22 @@ category: current
 
 Due to some work in progress, the first week's lectures will take place in a different location from the rest of the course.
 
- - The first lecture, will take place on **Tuesday 24 September** on **14:00** at **Aula A** of **Pietro Benedetti** Building (RM027 Neuropsichiatria infantile, Via dei Sabelli 108)
+ - The lecture of **Tuesday 24 September** on **14:00** will take place at **Aula A** of **Pietro Benedetti** Building (RM027 Neuropsichiatria infantile, Via dei Sabelli 108).
 
- - The second lecture, will take place on **Thursday 26 September** on **16:00** at **Aula A** of **Pietro Benedetti** Building (RM027 Neuropsichiatria infantile, Via dei Sabelli 108).
+ - The lecture of **Thursday 26 September** on **16:00** will take place at **Aula A** of **Pietro Benedetti** Building (RM027 Neuropsichiatria infantile, Via dei Sabelli 108).
+
+ - The lecture of **Tuesday 1 October** on **14:00** will take place **Online** at the following Zoom link: [https://uniroma1.zoom.us/j/87151615100](https://uniroma1.zoom.us/j/87151615100).
+
+ - The lecture of **Thursday 3 October** on **16:00** will take place **Online** at the following Zoom link: [https://uniroma1.zoom.us/j/87151615100](https://uniroma1.zoom.us/j/87151615100).
+
+ - The lecture of **Tuesday 8 October** on **14:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
+
+ - The lecture of **Thursday 10 October** on **16:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
 
 You are all invited to monitor the updates on the webpage of the course, at page Frequentare, under the tab "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione)
 
 
 --------
-
-
-Due to delays in the renovation of the classrooms dedicated to the course, next week's lessons (*from September 30th to October 4th*) will be held **ONLINE**.
-
-Below you will find the link to the Zoom room that I opened for the lesson. To connect you must use your Sapienza account.
-
-[https://uniroma1.zoom.us/j/87151615100](https://uniroma1.zoom.us/j/87151615100)
 
 
 #### **Timetable**
