@@ -20,6 +20,7 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 - Testi consigliati:
   - [B1] J. D. Ullman: Principles of Database & Knowledge-Base Systems, Vol. 1: Classical Database Systems
   - [B2] Lemahieu, W., vanden Broucke, S., & Baesens, B. (2018). Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data. Cambridge University Press
+  - [B3] [A. Albano, G. Ghelli, R. Orsini: Fondamenti di Basi di Dati](https://www.fondamentidibasididati.it/) **Testo gratuito**
 
 - [Slides](https://drive.google.com/drive/folders/1EoE2JC2embpKOCacUkikDAZfpXmFami8?usp=sharing) **ATTENZIONE**: le slide sono in Inglese poiché condivise con il corso di Data Management and Analysis del CdS in Applied Computer Science and Artificial Intelligence (ACSAI).
 - [Appunti](https://drive.google.com/drive/folders/12YOdTpneBSp8hhmSqzJwPvkqhAgsVBSE?usp=sharing) **ATTENZIONE**: potete segnalare eventuali errori inviandomi una email.

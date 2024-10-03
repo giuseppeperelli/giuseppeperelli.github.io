@@ -17,6 +17,7 @@ category: current
 - Books:
   - [B1] J. D. Ullman: Principles of Database & Knowledge-Base Systems, Vol. 1: Classical Database Systems
   - [B2] Lemahieu, W., vanden Broucke, S., & Baesens, B. (2018). Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data. Cambridge University Press
+  - [B3] [A. Albano: Databases Essentials](https://www.fondamentidibasididati.it/) **Free book**
 
 - [Slides](https://drive.google.com/drive/folders/1w_x8EK4SN6WiPuuDG8XtrqjxfVCga3f9?usp=sharing)
 - [Hand notes](https://drive.google.com/drive/folders/12YOdTpneBSp8hhmSqzJwPvkqhAgsVBSE?usp=sharing) **WARNING**: the notes might contain mistakes. You can report them by sending me an email.
