@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle:
 
@@ -12,8 +12,8 @@ profile:
     <p><i class="material-icons">work</i>Dept. of Computer Science, Sapienza University of Rome</p>
     <p>Building E, Room E106</p>
     <p> Viale Regina Elena 295, 00161 Roma (RM)</p>
-    <p><i class="material-icons">email</i> <a href="mailto:perelli@di.uniroma1.it">perelli@di.uniroma1.it</a></p>
-    <p><i class="material-icons">phone</i> <a href="tel:+390649255470">+39.06.49255.470</a></p>
+    <!--<p><i class="material-icons">email</i> <a href="mailto:perelli@di.uniroma1.it">perelli@di.uniroma1.it</a></p>
+    <p><i class="material-icons">phone</i> <a href="tel:+390649255470">+39.06.49255.470</a></p>-->
     
 
 news: true  # includes a list of news items
@@ -25,12 +25,14 @@ social: false  # includes social icons at the bottom of the page
 I am <em>Assistant Professor</em> ([RTD-B](https://academicpositions.com/career-advice/italian-academic-job-titles)) at [Dipartimento di Informatica](http://www.di.uniroma1.it/), Universit&agrave; di Roma, La Sapienza.
 
 My research interests regard many aspects of **Formal Methods for Artificial Intelligence**. In particular, I work on verification and synthesis for multi-agent systems, knowledge representation, strategic reasoning, logics, games, and automata theory.
+
 In 2023, I received the ["Marco Somalvico" Young Researcher Award](https://www.di.uniroma1.it/it/notizie/riconoscimenti/premio-marco-somalvico-giuseppe-perelli) from the Italian Association for Artificial Intelligence as best under 37 Italian researchers who autonomously contributed to advance the state-of-the-art in the field.
+
 In 2012, I received the 3+2 Award from the Italian Association for Logics and its Applications, for Best Master Thesis in Logics.
 
 <!-- For further details about my research, please, visit the [research](/research) page. -->
 
-### Research
+<!--### Research
 
 ##### Logic and Automata
 During my PhD, I focused on the study of Logics for the Verification and Synthesis of strategic behavior in multi-agent systems. In particular, I gave my decisive contribution to the development of Strategy Logic: a language now widely applied in AI and formal methods to reason about strategies and actions in multi-agent systems.
@@ -42,7 +44,7 @@ During my years as a research associate at the University of Oxford, University 
 I focused on defining and solving synthesis variants of finite temporal specifications. The problem has direct applications in the areas of planning, business process management, as well as robotics, where agents tasks are assumed to be of finite duration.
 
 ##### Normative Systems
-My recent focus has been on Normative Systems, concerning the problem of regulating MAS by means of norms and other formally defined machineries, employed to guarantee correct-by-construction behaviour of systems from a global/designer point of view.
+My recent focus has been on Normative Systems, concerning the problem of regulating MAS by means of norms and other formally defined machineries, employed to guarantee correct-by-construction behaviour of systems from a global/designer point of view.-->
 
 
 

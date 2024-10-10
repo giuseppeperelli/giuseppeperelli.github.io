@@ -5,7 +5,7 @@ permalink: /research/
 subtitle:
     
 description:
-nav: false
+nav: true
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
