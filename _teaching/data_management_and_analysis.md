@@ -27,7 +27,7 @@ category: current
 
 ##### **<span style="color:red"> WARNING </span>**
 
-Due to some work in progress, the first week's lectures will take place in a different location from the rest of the course.
+Due to some work in progress, the first lectures will take place in a different location from the rest of the course.
 
  - The lecture of **Tuesday 24 September** on **14:00** will take place at **Aula A** of **Pietro Benedetti** Building (RM027 Neuropsichiatria infantile, Via dei Sabelli 108).
 
@@ -40,6 +40,10 @@ Due to some work in progress, the first week's lectures will take place in a dif
  - The lecture of **Tuesday 8 October** on **14:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
 
  - The lecture of **Thursday 10 October** on **16:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
+
+ - The lecture of **Tuesday 15 October** on **14:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
+
+ - The lecture of **Thursday 17 October** on **16:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
 
 You are all invited to monitor the updates on the webpage of the course, at page Frequentare, under the tab "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione)
 
