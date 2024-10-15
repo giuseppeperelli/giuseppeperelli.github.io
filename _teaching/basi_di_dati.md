@@ -33,21 +33,21 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 
 A causa di alcuni ritardi dovuti a lavori in corso, le prime lezioni del corso si terranno in un'aula diversa da quella allocata per tutto il resto del corso.
 
- - La lezione di **Lunedì 23 Settembre** alle **13:00** si terrà in **Aula 204** dell'edificio **Marco Polo** (Viale dello Scalo San Lorenzo, 82)
+ - La lezione di **Lunedì 23 Settembre** alle **13:00** si terrà in **Aula 204** dell'edificio **Marco Polo** (Viale dello Scalo San Lorenzo, 82).
 
  - La lezione di **Giovedì 26 Settembre** alle **13:00** si terrà in **Aula Archeologia Ed. Lettere**.
 
- - La lezione di **Lunedì 30 Settembre** alle **13:00** si terrà **Online** sulla piattaforma Zoom al link: [https://uniroma1.zoom.us/j/84021213956](https://uniroma1.zoom.us/j/84021213956)
+ - La lezione di **Lunedì 30 Settembre** alle **13:00** si terrà **Online** sulla piattaforma Zoom al link: [https://uniroma1.zoom.us/j/84021213956](https://uniroma1.zoom.us/j/84021213956).
 
- - La lezione di **Giovedì 3 Ottobre** alle **13:00** si terrà **Online** sulla piattaforma Zoom al link: [https://uniroma1.zoom.us/j/84021213956](https://uniroma1.zoom.us/j/84021213956)
+ - La lezione di **Giovedì 3 Ottobre** alle **13:00** si terrà **Online** sulla piattaforma Zoom al link: [https://uniroma1.zoom.us/j/84021213956](https://uniroma1.zoom.us/j/84021213956).
 
- - La lezione di **Lunedì 7 Ottobre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 82)
+ - La lezione di **Lunedì 7 Ottobre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
 
- - La lezione di **Giovedì 10 Ottobre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 82).
+ - La lezione di **Giovedì 10 Ottobre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
 
- - La lezione di **Lunedì 14 Ottobre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 82)
+ - La lezione di **Lunedì 14 Ottobre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
 
- - La lezione di **Giovedì 17 Ottobre** alle **13:00** si terrà in **Aula DA DEFINIRE**.
+ - La lezione di **Giovedì 17 Ottobre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
 
 Si prega ti monitorare gli aggiornamenti sul sito del CdS, alla pagina Frequentare, nella tabella "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/29923/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/29923/programmazione)
 
