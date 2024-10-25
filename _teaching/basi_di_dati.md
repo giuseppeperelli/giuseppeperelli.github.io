@@ -49,6 +49,14 @@ A causa di alcuni ritardi dovuti a lavori in corso, le prime lezioni del corso s
 
  - La lezione di **Giovedì 17 Ottobre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
 
+ - La lezione di **Lunedì 21 Ottobre** è annullata.
+
+ - La lezione di **Giovedì 24 Ottobre** è annullata.
+
+ - La lezione di **Lunedì 28 Ottobre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
+
+ - La lezione di **Giovedì 31 Ottobre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
+
 Si prega ti monitorare gli aggiornamenti sul sito del CdS, alla pagina Frequentare, nella tabella "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/29923/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/29923/programmazione)
 
 
