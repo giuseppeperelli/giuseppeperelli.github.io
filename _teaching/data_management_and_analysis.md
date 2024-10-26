@@ -45,6 +45,14 @@ Due to some work in progress, the first lectures will take place in a different 
 
  - The lecture of **Thursday 17 October** on **16:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
 
+ - The lecture of **Tuesday 22 October** is cancelled.
+
+ - The lecture of **Thursday 24 October** is cancelled.
+
+ - The lecture of **Tuesday 29 October** on **14:00** will take place at **Aula A2 Luigi Capozzi** of Department [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL009 Via Caserta, 6).
+
+ - The lecture of **Thursday 31 October** on **16:00** will take place at **Aula 301** of **Building D - Regina Elena** (RM112-E01P03L009 Viale Regina Elena, 295).
+
 You are all invited to monitor the updates on the webpage of the course, at page Frequentare, under the tab "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione)
 
 
