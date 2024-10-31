@@ -29,7 +29,7 @@ category: current
 
 Due to some work in progress, the first lectures will take place in a different location from the rest of the course.
 
- - The lecture of **Tuesday 24 September** on **14:00** will take place at **Aula A** of **Pietro Benedetti** Building (RM027 Neuropsichiatria infantile, Via dei Sabelli 108).
+<!-- - The lecture of **Tuesday 24 September** on **14:00** will take place at **Aula A** of **Pietro Benedetti** Building (RM027 Neuropsichiatria infantile, Via dei Sabelli 108).
 
  - The lecture of **Thursday 26 September** on **16:00** will take place at **Aula A** of **Pietro Benedetti** Building (RM027 Neuropsichiatria infantile, Via dei Sabelli 108).
 
@@ -47,7 +47,7 @@ Due to some work in progress, the first lectures will take place in a different 
 
  - The lecture of **Tuesday 22 October** is cancelled.
 
- - The lecture of **Thursday 24 October** is cancelled.
+ - The lecture of **Thursday 24 October** is cancelled.-->
 
  - The lecture of **Tuesday 29 October** on **14:00** will take place at **Aula A2 Luigi Capozzi** of Department [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL009 Via Caserta, 6).
 
@@ -85,6 +85,17 @@ Whenever needed, I can meet students out of the office hours.
   - Data redundancy, insertion, update, and deletion anomalies. Relational theory definitions: schema, tuple instance, functional dependency, legal instance, closure of F. Trivial dependencies, properties of functional dependencies. Armstrong's axioms. Rules: decomposition, union, pseudotransitivity, with Theorem and demonstration. Closure of X and first lemma on the closure (with proofs). Theorem F+=FA with proof. Third normal form, formal definition and alternative definition. Algorithm for computing X+, correctness theorem and proof. Key definition, practical ways to find the keys of a schema, uniqueness check. Decomposition of a schema, definition. Projection of F on the decomposition of a schema, definition. Equivalence between two sets of functional dependencies, definition. Lemma on the closures of two sets of functional dependencies, with proof. Decomposition preserving F, definition. Algorithm for checking if F is preserved. Algorithm for computing X+G. Decomposition with lossless join, definition. Algorithm for checking if a decomposition has a lossless join, with proof. Minimal cover, definition, and steps to compute it. Decomposition algorithm, with extra step for lossless join, and proof.
 - Physical organization of a database
   - Heap, sequential, random (hash). Index sequential access method (ISAM) organization. Tree organizations: b-trees
+
+#### Course diary
+
+ - **26-09-2024** - Relational Model: basic concepts and definitions
+ - **01-10-2024** - Relational Algebra: Projection, Selection, Union Compatible operations, Cartesian Product, Natural Join, theta-Join
+ - **03-10-2024** - Relational Algebra: Universal Quantification
+ - **08-10-2024** - Relational Algebra: Exercises
+ - **10-10-2024** - Relational Theory: relation schemas, instances, functional dependences, closure, keys
+ - **15-10-2024** - Relational Theory: Armstrong's Axioms, closure of X, equivalence F+ = FA
+ - **17-10-2024** - Relational Theory: 3NF
+ - **29-10-2024** - Relational Theory: 3NF and BCNF. Exercises on Relational Algebra
 
 #### Examination rules (Please **read carefully**)
 - The exam for Unit 1 consists to a written part and an oral part.

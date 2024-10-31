@@ -33,7 +33,7 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 
 A causa di alcuni ritardi dovuti a lavori in corso, le prime lezioni del corso si terranno in un'aula diversa da quella allocata per tutto il resto del corso.
 
- - La lezione di **Lunedì 23 Settembre** alle **13:00** si terrà in **Aula 204** dell'edificio **Marco Polo** (Viale dello Scalo San Lorenzo, 82).
+<!-- - La lezione di **Lunedì 23 Settembre** alle **13:00** si terrà in **Aula 204** dell'edificio **Marco Polo** (Viale dello Scalo San Lorenzo, 82).
 
  - La lezione di **Giovedì 26 Settembre** alle **13:00** si terrà in **Aula Archeologia Ed. Lettere**.
 
@@ -51,7 +51,7 @@ A causa di alcuni ritardi dovuti a lavori in corso, le prime lezioni del corso s
 
  - La lezione di **Lunedì 21 Ottobre** è annullata.
 
- - La lezione di **Giovedì 24 Ottobre** è annullata.
+ - La lezione di **Giovedì 24 Ottobre** è annullata.-->
 
  - La lezione di **Lunedì 28 Ottobre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
 
@@ -87,10 +87,20 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
   - Concetti di base: dominio, attributo, relazione, n-upla, schema. I linguaggi di interrogazione (algebra relazionale, linguaggi relazionalmente completi). Teoria della normalizzazione Dipendenze funzionali. Chiave di una relazione Terza forma normale. Assiomi di Armstrong e chiusura di un insieme di dipendenze. Chiusura di un insieme di attributi. Copertura minimale di un insieme di dipendenze. Scomposizioni che hanno un join senza perdita. Scomposizioni che preservano le dipendenze.
 - L’organizzazione fisica dei dati
   - La memoria secondaria. Record fisici e record logici. Puntatori. Blocchi. File heap. File hash. File con indice (ISAM). B-tree
-<!--- La gestione della concorrenza
-  - Transazioni. Schedule seriale. Serializzabilità. Modelli di transazioni e meccanismi di locking. Livelock e deadlock. Protocolli a due fasi. Protocolli conservativi e aggressivi. Dati “sporchi”. Rollback a cascata. Timestamp.-->
+<!-- La gestione della concorrenza -->
+<!--   - Transazioni. Schedule seriale. Serializzabilità. Modelli di transazioni e meccanismi di locking. Livelock e deadlock. Protocolli a due fasi. Protocolli conservativi e aggressivi. Dati “sporchi”. Rollback a cascata. Timestamp.-->
 
+#### Diario del corso
 
+ - **23-09-2024** - Il modello relazionale di una base di dati
+ - **26-09-2024** - Algebra Relazionale: Proiezione, Selezione, operazioni Union Compatibili, Prodotto Cartesiano, Join Naturale
+ - **30-09-2024** - Algebra Relazionale: Prodotto Cartesiano, Join naturale, theta-Join, Quantificazione Universale
+ - **03-10-2024** - Algebra Relazionale: Esercitazione
+ - **07-10-2024** - Algebra Relazionale: Esercitazione - Teoria Relazionale: ridondanza e anomalie di gestione
+ - **10-10-2024** - Teoria Relazionale: schemi relazionali, tuple, istanze, dipendenze funzionali, chiusura di F, chiavi
+ - **14-10-2024** - Teoria Relazionale: Assiomi di Armstrong, chiusura di X, equivalenza F+=FA
+ - **17-10-2024** - Teoria Relazionale: 3NF
+ - **28-10-2024** - Teoria Relazionale: 3NF e BCNF. Esercitazione di Algebra Relazionale
 
 
 #### Modalità d'esame (**Leggere attentamente**)
