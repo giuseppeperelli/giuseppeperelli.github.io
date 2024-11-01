@@ -53,6 +53,10 @@ Due to some work in progress, the first lectures will take place in a different 
 
  - The lecture of **Thursday 31 October** on **16:00** will take place at **Aula 301** of **Building D - Regina Elena** (RM112-E01P03L009 Viale Regina Elena, 295).
 
+ - The lecture of **Tuesday 5 November** on **14:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
+
+ - The lecture of **Thursday 7 November** on **16:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
+
 You are all invited to monitor the updates on the webpage of the course, at page Frequentare, under the tab "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione)
 
 
@@ -96,6 +100,7 @@ Whenever needed, I can meet students out of the office hours.
  - **15-10-2024** - Relational Theory: Armstrong's Axioms, closure of X, equivalence F+ = FA
  - **17-10-2024** - Relational Theory: 3NF
  - **29-10-2024** - Relational Theory: 3NF and BCNF. Exercises on Relational Algebra
+ - **31-10-2024** - Relational Theory: Computing the closure of X
 
 #### Examination rules (Please **read carefully**)
 - The exam for Unit 1 consists to a written part and an oral part.

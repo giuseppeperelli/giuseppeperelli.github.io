@@ -57,6 +57,11 @@ A causa di alcuni ritardi dovuti a lavori in corso, le prime lezioni del corso s
 
  - La lezione di **Giovedì 31 Ottobre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
 
+ - La lezione di **Lunedì 4 Novembre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
+
+ - La lezione di **Giovedì 7 Novembre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
+
+
 Si prega ti monitorare gli aggiornamenti sul sito del CdS, alla pagina Frequentare, nella tabella "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/29923/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/29923/programmazione)
 
 
@@ -101,6 +106,7 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
  - **14-10-2024** - Teoria Relazionale: Assiomi di Armstrong, chiusura di X, equivalenza F+=FA
  - **17-10-2024** - Teoria Relazionale: 3NF
  - **28-10-2024** - Teoria Relazionale: 3NF e BCNF. Esercitazione di Algebra Relazionale
+ - **31-10-2024** - Teoria Relazionale: Chiusura di X, calcolo delle chiavi e verifica della 3NF, esercitazione su chiavi e 3NF
 
 
 #### Modalità d'esame (**Leggere attentamente**)
