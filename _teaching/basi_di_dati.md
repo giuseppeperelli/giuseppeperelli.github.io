@@ -107,6 +107,7 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
  - **17-10-2024** - Teoria Relazionale: 3NF
  - **28-10-2024** - Teoria Relazionale: 3NF e BCNF. Esercitazione di Algebra Relazionale
  - **31-10-2024** - Teoria Relazionale: Chiusura di X, calcolo delle chiavi e verifica della 3NF, esercitazione su chiavi e 3NF
+ - **04-11-2024** - Teoria Relazionale: Esercitazione sulla ricerca di chiavi e verifica della 3NF
 
 
 #### Modalità d'esame (**Leggere attentamente**)
