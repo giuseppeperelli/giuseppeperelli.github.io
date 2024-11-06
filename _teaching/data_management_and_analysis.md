@@ -84,9 +84,9 @@ Whenever needed, I can meet students out of the office hours.
 - Introduction to DBMS
 - The relational model
 - Relational algebra
-  - unary operators: projection, selection. Binary operators: union, difference, intersection, Cartesian production, natural join, θ-join. Negation, universal and existence quantification.
+  - unary operators: projection, selection. Binary operators: union, difference, intersection, Cartesian production, natural join, \\(\theta-join\\). Negation, universal and existence quantification.
 - Database design and normalization
-  - Data redundancy, insertion, update, and deletion anomalies. Relational theory definitions: schema, tuple instance, functional dependency, legal instance, closure of F. Trivial dependencies, properties of functional dependencies. Armstrong's axioms. Rules: decomposition, union, pseudotransitivity, with Theorem and demonstration. Closure of X and first lemma on the closure (with proofs). Theorem F+=FA with proof. Third normal form, formal definition and alternative definition. Algorithm for computing X+, correctness theorem and proof. Key definition, practical ways to find the keys of a schema, uniqueness check. Decomposition of a schema, definition. Projection of F on the decomposition of a schema, definition. Equivalence between two sets of functional dependencies, definition. Lemma on the closures of two sets of functional dependencies, with proof. Decomposition preserving F, definition. Algorithm for checking if F is preserved. Algorithm for computing X+G. Decomposition with lossless join, definition. Algorithm for checking if a decomposition has a lossless join, with proof. Minimal cover, definition, and steps to compute it. Decomposition algorithm, with extra step for lossless join, and proof.
+  - Data redundancy, insertion, update, and deletion anomalies. Relational theory definitions: schema, tuple instance, functional dependency, legal instance, closure of \\(F\\). Trivial dependencies, properties of functional dependencies. Armstrong's axioms. Rules: decomposition, union, pseudotransitivity, with Theorem and demonstration. Closure of \\(X\\) and first lemma on the closure (with proofs). Theorem \\(F^+ = F^A\\) with proof. Third normal form, formal definition and alternative definition. Algorithm for computing \\(X^+\\), correctness theorem and proof. Key definition, practical ways to find the keys of a schema, uniqueness check. Decomposition of a schema, definition. Projection of \\(F\\) on the decomposition of a schema, definition. Equivalence between two sets of functional dependencies, definition. Lemma on the closures of two sets of functional dependencies, with proof. Decomposition preserving \\(F\\), definition. Algorithm for checking if \\(F\\) is preserved. Algorithm for computing \\(X^{+}_{G}\\). Decomposition with lossless join, definition. Algorithm for checking if a decomposition has a lossless join, with proof. Minimal cover, definition, and steps to compute it. Decomposition algorithm, with extra step for lossless join, and proof.
 - Physical organization of a database
   - Heap, sequential, random (hash). Index sequential access method (ISAM) organization. Tree organizations: b-trees
 
@@ -101,6 +101,7 @@ Whenever needed, I can meet students out of the office hours.
  - **17-10-2024** - Relational Theory: 3NF
  - **29-10-2024** - Relational Theory: 3NF and BCNF. Exercises on Relational Algebra
  - **31-10-2024** - Relational Theory: Computing the closure of X
+ - **06-11-2024** - Relational Theory: Checking Keys and 3NF. Dependence preservation.
 
 #### Examination rules (Please **read carefully**)
 - The exam for Unit 1 consists to a written part and an oral part.
