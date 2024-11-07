@@ -101,7 +101,7 @@ Whenever needed, I can meet students out of the office hours.
  - **17-10-2024** - Relational Theory: 3NF
  - **29-10-2024** - Relational Theory: 3NF and BCNF. Exercises on Relational Algebra
  - **31-10-2024** - Relational Theory: Computing the closure of X
- - **06-11-2024** - Relational Theory: Checking Keys and 3NF. Dependence preservation.
+ - **05-11-2024** - Relational Theory: Checking Keys and 3NF. Dependence preservation.
 
 #### Examination rules (Please **read carefully**)
 - The exam for Unit 1 consists to a written part and an oral part.
