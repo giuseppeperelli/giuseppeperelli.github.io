@@ -29,33 +29,13 @@ category: current
 
 Due to some work in progress, the first lectures will take place in a different location from the rest of the course.
 
-<!-- - The lecture of **Tuesday 24 September** on **14:00** will take place at **Aula A** of **Pietro Benedetti** Building (RM027 Neuropsichiatria infantile, Via dei Sabelli 108).
-
- - The lecture of **Thursday 26 September** on **16:00** will take place at **Aula A** of **Pietro Benedetti** Building (RM027 Neuropsichiatria infantile, Via dei Sabelli 108).
-
- - The lecture of **Tuesday 1 October** on **14:00** will take place **Online** at the following Zoom link: [https://uniroma1.zoom.us/j/87151615100](https://uniroma1.zoom.us/j/87151615100).
-
- - The lecture of **Thursday 3 October** on **16:00** will take place **Online** at the following Zoom link: [https://uniroma1.zoom.us/j/87151615100](https://uniroma1.zoom.us/j/87151615100).
-
- - The lecture of **Tuesday 8 October** on **14:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
-
- - The lecture of **Thursday 10 October** on **16:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
-
- - The lecture of **Tuesday 15 October** on **14:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
-
- - The lecture of **Thursday 17 October** on **16:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
-
- - The lecture of **Tuesday 22 October** is cancelled.
-
- - The lecture of **Thursday 24 October** is cancelled.-->
-
- - The lecture of **Tuesday 29 October** on **14:00** will take place at **Aula A2 Luigi Capozzi** of Department [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL009 Via Caserta, 6).
-
- - The lecture of **Thursday 31 October** on **16:00** will take place at **Aula 301** of **Building D - Regina Elena** (RM112-E01P03L009 Viale Regina Elena, 295).
-
  - The lecture of **Tuesday 5 November** on **14:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
 
  - The lecture of **Thursday 7 November** on **16:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
+
+ - The lecture of **Tuesday 12 November** on **14:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
+
+ - The lecture of **Thursday 14 November** on **16:00** will take place at **TBA**.
 
 You are all invited to monitor the updates on the webpage of the course, at page Frequentare, under the tab "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione)
 
