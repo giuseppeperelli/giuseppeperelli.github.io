@@ -35,7 +35,7 @@ Due to some work in progress, the first lectures will take place in a different 
 
  - The lecture of **Tuesday 12 November** on **14:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
 
- - The lecture of **Thursday 14 November** on **16:00** will take place at **TBA**.
+ - The lecture of **Thursday 14 November** on **16:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
 
 You are all invited to monitor the updates on the webpage of the course, at page Frequentare, under the tab "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione)
 
@@ -82,6 +82,8 @@ Whenever needed, I can meet students out of the office hours.
  - **29-10-2024** - Relational Theory: 3NF and BCNF. Exercises on Relational Algebra
  - **31-10-2024** - Relational Theory: Computing the closure of X
  - **05-11-2024** - Relational Theory: Checking Keys and 3NF. Dependence preservation.
+ - **07-11-2024** - Relational Theory: Dependence preservation, Computing X+_G from F.
+ - **12-11-2024** - Relational Theory: Exercises on checking that a given decomposition preserves F. Lossless join
 
 #### Examination rules (Please **read carefully**)
 - The exam for Unit 1 consists to a written part and an oral part.

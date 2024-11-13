@@ -39,7 +39,7 @@ A causa di alcuni ritardi dovuti a lavori in corso, alcune lezioni del corso si 
 
  - La lezione di **Lunedì 11 Novembre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
 
- - La lezione di **Giovedì 14 Novembre** alle **13:00** si terrà in **Aula ancora da definire**.
+ - La lezione di **Giovedì 14 Novembre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
 
 
 Si prega ti monitorare gli aggiornamenti sul sito del CdS, alla pagina Frequentare, nella tabella "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/29923/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/29923/programmazione)
@@ -88,6 +88,8 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
  - **28-10-2024** - Teoria Relazionale: 3NF e BCNF. Esercitazione di Algebra Relazionale
  - **31-10-2024** - Teoria Relazionale: Chiusura di X, calcolo delle chiavi e verifica della 3NF, esercitazione su chiavi e 3NF
  - **04-11-2024** - Teoria Relazionale: Esercitazione sulla ricerca di chiavi e verifica della 3NF
+ - **07-11-2024** - Teoria Relazionale: decomposizioni che preservano F. Calcolo di X+_G tramite F. Verifica  che una decomposizione preserva F
+ - **11-11-2024** - Teoria Relazionale: eserizi sulla verifica che una decomposizione preserva F
 
 
 #### Modalità d'esame (**Leggere attentamente**)
