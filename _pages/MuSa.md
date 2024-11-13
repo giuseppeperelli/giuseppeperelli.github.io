@@ -50,7 +50,7 @@ Beside this, within the Big Band, a number of small ensembles - from duo to sept
 Stay in touch with MuSa Jazz Orchestra activities by following the social profiles!
 
 
-##### Events
+## Events
 
 ###### 2025
 
@@ -59,6 +59,9 @@ Stay in touch with MuSa Jazz Orchestra activities by following the social profil
 **13/03/2025** - TBA
 
 **12/01/2025** - [Happy New Jazz Year! - Accademia Nazionale dei Lincei](http://www.villafarnesina.it/wp-content/uploads/2024/10/MuSa_2024.jpg)
+
+
+------------
 
 ###### 2024
 
@@ -77,6 +80,8 @@ Stay in touch with MuSa Jazz Orchestra activities by following the social profil
 **14/04/2024** - [Accademia dei Lincei](https://www.instagram.com/p/C5N2avPqEGz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 **08/02/2024** - [MuSa in Maschera](https://www.sapienzacrea.uniroma1.it/node/5858#:~:text=Tempo%20di%20musica%20e%20di,di%20Sapienza%20Universit%C3%A0%20di%20Roma.)
+
+------------
 
 ###### 2023
 
