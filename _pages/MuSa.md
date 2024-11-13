@@ -44,8 +44,43 @@ More inforomation and contact available to the [official page of the project](ht
 
 Founded in 2006 and directed by M. Silverio Cortesi until 2023, MuSa Jazz is the orchestral ensemble dedicated to all areas of Jazz.
 
-Currently under the direction of [M. Roberto Spadoni](https://www.robertospadoni.com/), its main activity revolves around the Big Band ensemble, made by around 20 members, including a brass section, a woodwinds section, rythmic section and the support of singers and vocalists.
-Beside this, within the Big Band, a number of small ensembles - from duo to sextet - can perform in most intimate situations.
+Currently under the direction of [M. Roberto Spadoni](https://www.robertospadoni.com/), its main activity revolves around the Big Band ensemble, made by around 30 members, including a brass section, a woodwinds section, rythmic section and the support of singers and vocalists.
+Beside this, within the Big Band, a number of small ensembles - from duo to septet - can perform in most intimate situations.
 
 Stay in touch with MuSa Jazz Orchestra activities by following the social profiles!
+
+
+##### Events
+
+###### 2025
+
+**08/05/2025** - TBA
+
+**13/03/2025** - TBA
+
+**12/01/2025** - [Happy New Jazz Year! - Accademia Nazionale dei Lincei](http://www.villafarnesina.it/wp-content/uploads/2024/10/MuSa_2024.jpg)
+
+###### 2024
+
+**18/12/2024** - TBA
+
+**05/12/2024** - TBA
+
+**18/06/2024** - [Classica al Tramonto](https://www.sapienzacrea.uniroma1.it/node/5858#:~:text=Tempo%20di%20musica%20e%20di,di%20Sapienza%20Universit%C3%A0%20di%20Roma.) - [YouTube Live](https://www.youtube.com/live/j01LP3yl5EQ) - [Radio 3 Broadcast](https://www.raiplaysound.it/audio/2024/11/Radio3-Suite---Il-Cartellone-del-12112024-ebb4c38a-0f55-4314-93a4-2e0181d06ebc.html)
+
+**02/05/2024** - [International Jazz Day 2024](https://news.uniroma1.it/02052024_1830)
+
+**23/04/2024** - [Sapienza, 721° Anniversario dalla Fondazione](https://news.uniroma1.it/23042024_1130#:~:text=Sapienza%2C%20721%C2%B0%20anniversario%20dalla%20fondazione%20dello%20Studium%20Urbis,-Facebook%20Twitter%20instagram&text=Sar%C3%A0%20una%20giornata%20importante%20quella,VIII%20(20%20aprile%201303).) - [YouTube Live](https://www.youtube.com/watch?v=LYoBUfrygbk)
+
+**21/04/2024** - [Jazz Idea Festival](https://conservatoriosantacecilia.it/evento/jazz-idea-2024-festival/)
+
+**14/04/2024** - [Accademia dei Lincei](https://www.instagram.com/p/C5N2avPqEGz/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+**08/02/2024** - [MuSa in Maschera](https://www.sapienzacrea.uniroma1.it/node/5858#:~:text=Tempo%20di%20musica%20e%20di,di%20Sapienza%20Universit%C3%A0%20di%20Roma.)
+
+###### 2023
+
+**10/12/2023** - [Accademia dei Lincei](https://www.instagram.com/p/C0i3QJKtlIa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+**25/11/2023** - [Musei in Musica](https://www.uniroma1.it/it/notizia/musei-musica-2023#:~:text=Sabato%2025%20novembre%202023%20torna,organizzativo%20di%20Z%C3%A8tema%20progetto%20cultura.)
 
