@@ -78,19 +78,20 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
 
 #### Diario del corso
 
- - **23-09-2024** - Il modello relazionale di una base di dati
- - **26-09-2024** - Algebra Relazionale: Proiezione, Selezione, operazioni Union Compatibili, Prodotto Cartesiano, Join Naturale
- - **30-09-2024** - Algebra Relazionale: Prodotto Cartesiano, Join naturale, theta-Join, Quantificazione Universale
- - **03-10-2024** - Algebra Relazionale: Esercitazione
- - **07-10-2024** - Algebra Relazionale: Esercitazione - Teoria Relazionale: ridondanza e anomalie di gestione
- - **10-10-2024** - Teoria Relazionale: schemi relazionali, tuple, istanze, dipendenze funzionali, chiusura di F, chiavi
- - **14-10-2024** - Teoria Relazionale: Assiomi di Armstrong, chiusura di X, equivalenza F+=FA
- - **17-10-2024** - Teoria Relazionale: 3NF
- - **28-10-2024** - Teoria Relazionale: 3NF e BCNF. Esercitazione di Algebra Relazionale
- - **31-10-2024** - Teoria Relazionale: Chiusura di X, calcolo delle chiavi e verifica della 3NF, esercitazione su chiavi e 3NF
- - **04-11-2024** - Teoria Relazionale: Esercitazione sulla ricerca di chiavi e verifica della 3NF
- - **07-11-2024** - Teoria Relazionale: decomposizioni che preservano F. Calcolo di X+_G tramite F. Verifica  che una decomposizione preserva F
- - **11-11-2024** - Teoria Relazionale: eserizi sulla verifica che una decomposizione preserva F
+ - **23-09-2024** - Il modello relazionale di una base di dati.
+ - **26-09-2024** - Algebra Relazionale: Proiezione, Selezione, operazioni Union Compatibili, Prodotto Cartesiano, Join Naturale.
+ - **30-09-2024** - Algebra Relazionale: Prodotto Cartesiano, join naturale, \\(\theta\\)-join, Quantificazione Universale.
+ - **03-10-2024** - Algebra Relazionale: Esercitazione.
+ - **07-10-2024** - Algebra Relazionale: Esercitazione - Teoria Relazionale: ridondanza e anomalie di gestione.
+ - **10-10-2024** - Teoria Relazionale: schemi relazionali, tuple, istanze, dipendenze funzionali, chiusura di \\(F\\), chiavi.
+ - **14-10-2024** - Teoria Relazionale: Assiomi di Armstrong, chiusura di \\(X\\), equivalenza \\(F^+=F^A\\).
+ - **17-10-2024** - Teoria Relazionale: 3NF.
+ - **28-10-2024** - Teoria Relazionale: 3NF e BCNF. Esercitazione di Algebra Relazionale.
+ - **31-10-2024** - Teoria Relazionale: Chiusura di \\(X\\), calcolo delle chiavi e verifica della 3NF, esercitazione su chiavi e 3NF.
+ - **04-11-2024** - Teoria Relazionale: Esercitazione sulla ricerca di chiavi e verifica della 3NF.
+ - **07-11-2024** - Teoria Relazionale: decomposizioni che preservano \\(F\\). Calcolo di \\(X^{+}_{G}\\) tramite \\(F\\). Verifica  che una decomposizione preserva \\(F\\).
+ - **11-11-2024** - Teoria Relazionale: eserizi sulla verifica che una decomposizione preserva \\(F\\).
+ - **14-11-2024** - Teoria Relazionale: Join Senza Perdita, definizione e algoritmo di verifica.
 
 
 #### Modalità d'esame (**Leggere attentamente**)

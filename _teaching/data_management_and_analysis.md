@@ -72,18 +72,19 @@ Whenever needed, I can meet students out of the office hours.
 
 #### Course diary
 
- - **26-09-2024** - Relational Model: basic concepts and definitions
- - **01-10-2024** - Relational Algebra: Projection, Selection, Union Compatible operations, Cartesian Product, Natural Join, theta-Join
- - **03-10-2024** - Relational Algebra: Universal Quantification
- - **08-10-2024** - Relational Algebra: Exercises
- - **10-10-2024** - Relational Theory: relation schemas, instances, functional dependences, closure, keys
- - **15-10-2024** - Relational Theory: Armstrong's Axioms, closure of X, equivalence F+ = FA
- - **17-10-2024** - Relational Theory: 3NF
- - **29-10-2024** - Relational Theory: 3NF and BCNF. Exercises on Relational Algebra
- - **31-10-2024** - Relational Theory: Computing the closure of X
+ - **26-09-2024** - Relational Model: basic concepts and definitions.
+ - **01-10-2024** - Relational Algebra: Projection, Selection, Union Compatible operations, Cartesian Product, natural join, \\(\theta-join\\).
+ - **03-10-2024** - Relational Algebra: Universal Quantification.
+ - **08-10-2024** - Relational Algebra: Exercises.
+ - **10-10-2024** - Relational Theory: relation schemas, instances, functional dependences, closure, keys.
+ - **15-10-2024** - Relational Theory: Armstrong's Axioms, closure of \\(X\\), equivalence \\(F^+ = F^A\\).
+ - **17-10-2024** - Relational Theory: Third normal form (3NF).
+ - **29-10-2024** - Relational Theory: 3NF and BCNF. Exercises on Relational Algebra.
+ - **31-10-2024** - Relational Theory: Computing the closure of \\(X\\).
  - **05-11-2024** - Relational Theory: Checking Keys and 3NF. Dependence preservation.
- - **07-11-2024** - Relational Theory: Dependence preservation, Computing X+_G from F.
- - **12-11-2024** - Relational Theory: Exercises on checking that a given decomposition preserves F. Lossless join
+ - **07-11-2024** - Relational Theory: Dependence preservation, Computing \\(X^{+}_{G}\\) from \\(F\\).
+ - **12-11-2024** - Relational Theory: Exercises on checking that a given decomposition preserves \\(F\\). Lossless join.
+ - **14-11-2024** - Relational Theory: Checking Lossless Join Decompositions (Algorithm).
 
 #### Examination rules (Please **read carefully**)
 - The exam for Unit 1 consists to a written part and an oral part.
