@@ -29,13 +29,13 @@ category: current
 
 Due to some work in progress, the first lectures will take place in a different location from the rest of the course.
 
- - The lecture of **Tuesday 5 November** on **14:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
-
- - The lecture of **Thursday 7 November** on **16:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
-
  - The lecture of **Tuesday 12 November** on **14:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
 
  - The lecture of **Thursday 14 November** on **16:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
+
+ - The lecture of **Tuesday 19 November** on **14:00** will take place at **<span style="color:red"> TBA </span>**.
+
+ - The lecture of **Thursday 21 November** on **16:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
 
 You are all invited to monitor the updates on the webpage of the course, at page Frequentare, under the tab "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione)
 
