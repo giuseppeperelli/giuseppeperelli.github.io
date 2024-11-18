@@ -88,14 +88,12 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 **25/11/2023** - [Musei in Musica](https://www.uniroma1.it/it/notizia/musei-musica-2023#:~:text=Sabato%2025%20novembre%202023%20torna,organizzativo%20di%20Z%C3%A8tema%20progetto%20cultura.)
 
 
-------------
-
 {::nomarkdown}
 <h2 class="mb-4">Photo gallery</h2>
 <!-- <hr class="my-4"> -->
 {% for gallery in site.data.musa-gallery %}
     <h3 id="musa">{{ gallery.name }}</h3>
-    <div id="carousel-{{ gallery.folder }}" class="carousel slide">
+    <div id="carousel-{{ gallery.folder }}" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
         {% assign counter = 0 %}
         {% for image in site.static_files %}
@@ -128,14 +126,14 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
             {% endif %}
         {% endfor %}
     </div>
- <!--   <a class="carousel-control-prev" href="#carousel-{{ gallery.folder }}" role="button" data-slide="prev">
+    <a class="carousel-control-prev" href="#carousel-{{ gallery.folder }}" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
     </a>
     <a class="carousel-control-next" href="#carousel-{{ gallery.folder }}" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
-    </a>-->
+    </a>
     </div>
     <div align=center>
         <br>
