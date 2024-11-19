@@ -33,7 +33,7 @@ Due to some work in progress, the first lectures will take place in a different 
 
  - The lecture of **Thursday 14 November** on **16:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
 
- - The lecture of **Tuesday 19 November** on **14:00** will take place at **<span style="color:red"> TBA </span>**.
+ - The lecture of **Tuesday 19 November** on **14:00** is **<span style="color:red"> CANCELLED </span>**.
 
  - The lecture of **Thursday 21 November** on **16:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
 
