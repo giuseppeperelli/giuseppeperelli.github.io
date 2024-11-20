@@ -91,7 +91,7 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 {::nomarkdown}
 <h2 class="mb-4">Photo gallery</h2>
 <!-- <hr class="my-4"> -->
-{% for gallery in site.data.musa-gallery %}
+{% for gallery in site.data.gallery %}
     <h3 id="musa">{{ gallery.name }}</h3>
     <div id="carousel-{{ gallery.folder }}" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
