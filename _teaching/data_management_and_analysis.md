@@ -85,6 +85,7 @@ Whenever needed, I can meet students out of the office hours.
  - **07-11-2024** - Relational Theory: Dependence preservation, Computing \\(X^{+}_{G}\\) from \\(F\\).
  - **12-11-2024** - Relational Theory: Exercises on checking that a given decomposition preserves \\(F\\). Lossless join.
  - **14-11-2024** - Relational Theory: Checking Lossless Join Decompositions (Algorithm).
+ - **21-11-2024** - Relational Theory: Checking Lossless Join Decompositions (Exercises).
 
 #### Examination rules (Please **read carefully**)
 - The exam for Unit 1 consists to a written part and an oral part.

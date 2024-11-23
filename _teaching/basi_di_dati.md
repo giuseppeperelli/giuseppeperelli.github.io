@@ -92,6 +92,8 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
  - **07-11-2024** - Teoria Relazionale: decomposizioni che preservano \\(F\\). Calcolo di \\(X^{+}_{G}\\) tramite \\(F\\). Verifica  che una decomposizione preserva \\(F\\).
  - **11-11-2024** - Teoria Relazionale: eserizi sulla verifica che una decomposizione preserva \\(F\\).
  - **14-11-2024** - Teoria Relazionale: Join Senza Perdita, definizione e algoritmo di verifica.
+ - **18-11-2024** - Teoria Relazionale: esercitazione sulla verifica che che una decomposizione preserva \\(F\\) o abbia un join senza perdita.
+ - **21-11-2024** - Teoria Relazionale: Copertura minimale. Calcolo di una copertura minimale.
 
 
 #### Modalità d'esame (**Leggere attentamente**)
