@@ -94,6 +94,7 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
  - **14-11-2024** - Teoria Relazionale: Join Senza Perdita, definizione e algoritmo di verifica.
  - **18-11-2024** - Teoria Relazionale: esercitazione sulla verifica che che una decomposizione preserva \\(F\\) o abbia un join senza perdita.
  - **21-11-2024** - Teoria Relazionale: Copertura minimale. Calcolo di una copertura minimale.
+ - **25-11-2024** - Teoria Relazionale: Calcolo di una decomposizione. Esercizi sul calcolo di una decoposizione.
 
 
 #### Modalità d'esame (**Leggere attentamente**)
