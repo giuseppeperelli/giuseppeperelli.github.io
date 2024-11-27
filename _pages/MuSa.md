@@ -65,7 +65,7 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 **07/12/2024** - TBA
 
-**05/12/2024** - TBA
+**05/12/2024** - [Honorary Doctorate to Alberto Angela](https://news.uniroma1.it/node/11805)
 
 **18/06/2024** - [Classica al Tramonto](https://www.sapienzacrea.uniroma1.it/node/5858#:~:text=Tempo%20di%20musica%20e%20di,di%20Sapienza%20Universit%C3%A0%20di%20Roma.) - [YouTube Live](https://www.youtube.com/live/j01LP3yl5EQ) - [Radio 3 Broadcast](https://www.raiplaysound.it/audio/2024/11/Radio3-Suite---Il-Cartellone-del-12112024-ebb4c38a-0f55-4314-93a4-2e0181d06ebc.html)
 
