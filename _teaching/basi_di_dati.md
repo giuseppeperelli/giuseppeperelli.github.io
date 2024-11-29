@@ -29,32 +29,12 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 - [Simulazioni d'esame](https://drive.google.com/drive/folders/1pS9mx_8nD_AJ3J4s7EcgOYSkfVucxWcm?usp=sharing)
 
 
-##### **<span style="color:red"> ATTENZIONE </span>**
-
-A causa di alcuni ritardi dovuti a lavori in corso, alcune lezioni del corso si terranno in un'aula diversa da quella allocata per tutto il resto del corso.
-
-
- - La lezione di **Lunedì 11 Novembre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
-
- - La lezione di **Giovedì 14 Novembre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
-
- - La lezione di **Lunedì 18 Novembre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
-
- - La lezione di **Giovedì 21 Novembre** alle **13:00** si terrà in **Aula A1 Luigi Capozzi** del dipartimento di [SOMF](https://somaf.web.uniroma1.it/it/dove-siamo) (RM101-E01PTEL008 Via Caserta, 6).
-
-
-Si prega ti monitorare gli aggiornamenti sul sito del CdS, alla pagina Frequentare, nella tabella "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/29923/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/29923/programmazione)
-
-
--------
-
-
 ##### **Orario**
 
   Le Lezioni si terranno a partire da Lunedì 23 Settembre secondo il seguende calendario.
 
-- **Lunedì**: dalle **13:00** alle **15:00**: **Aula De Lollis 4** (Attenzione, leggere l'avviso sopra sulle aule!)
-- **Giovedì**: dalle **13:00** alle **16:00**: **Aula De Lollis 4** (Attenzione, leggere l'avviso sopra sulle aule!)
+- **Lunedì**: dalle **13:00** alle **15:00**: **Aula De Lollis 4**
+- **Giovedì**: dalle **13:00** alle **16:00**: **Aula De Lollis 4**
 
 ##### **<span style="color:red"> Ricevimento </span>**
 
@@ -95,6 +75,7 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
  - **18-11-2024** - Teoria Relazionale: esercitazione sulla verifica che che una decomposizione preserva \\(F\\) o abbia un join senza perdita.
  - **21-11-2024** - Teoria Relazionale: Copertura minimale. Calcolo di una copertura minimale.
  - **25-11-2024** - Teoria Relazionale: Calcolo di una decomposizione. Esercizi sul calcolo di una decoposizione.
+ - **28-11-2024** - Organizzazione Fisica: Metodi Heap, Sequenziale e Hashing.
 
 
 #### Modalità d'esame (**Leggere attentamente**)

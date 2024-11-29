@@ -25,30 +25,14 @@ category: current
 - [Exam simulations](https://drive.google.com/drive/folders/1OoCmqzMN04iTN4foI8suPfceJRLaTjlc?usp=sharing)
 - [Past exams sheets](https://drive.google.com/drive/folders/1eHVjiabSOjRHNqRuM7ooAwpi0-hKfHcG?usp=sharing)
 
-##### **<span style="color:red"> WARNING </span>**
-
-Due to some work in progress, the first lectures will take place in a different location from the rest of the course.
-
- - The lecture of **Tuesday 12 November** on **14:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
-
- - The lecture of **Thursday 14 November** on **16:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
-
- - The lecture of **Tuesday 19 November** on **14:00** is **<span style="color:red"> CANCELLED </span>**.
-
- - The lecture of **Thursday 21 November** on **16:00** will take place at **Aula 101** of **Building D - Regina Elena** (RM112-E01P01L005 Viale Regina Elena, 295).
-
-You are all invited to monitor the updates on the webpage of the course, at page Frequentare, under the tab "Orario delle lezioni": [https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione](https://corsidilaurea.uniroma1.it/it/corso/2024/30786/programmazione)
-
-
---------
 
 
 #### **Timetable**
 
 Classes will start on Tuesday 24th September according to the following calendar:
 
-- **Mondays**: from **14:00** to **17:00** at **Aula De Lollis 3** (Warning! Read the news about rooms above!)
-- **Thursdays**: from **16:00** to **18:00** at **Aula De Lollis 3** (Warning! Read the news about rooms above!)
+- **Mondays**: from **14:00** to **17:00** at **Aula De Lollis 3**
+- **Thursdays**: from **16:00** to **18:00** at **Aula De Lollis 3**
 
 ##### **<span style="color:red"> Office hour </span>**
 
@@ -87,6 +71,7 @@ Whenever needed, I can meet students out of the office hours.
  - **14-11-2024** - Relational Theory: Checking Lossless Join Decompositions (Algorithm).
  - **21-11-2024** - Relational Theory: Checking Lossless Join Decompositions (Exercises).
  - **26-11-2024** - Relational Theory: Minimal covers and Decompositions.
+ - **28-11-2024** - Relational Theory: Finding a decomposition of a relational schema.
 
 #### Examination rules (Please **read carefully**)
 - The exam for Unit 1 consists to a written part and an oral part.
@@ -123,7 +108,7 @@ Whenever needed, I can meet students out of the office hours.
 - Students are no longer allowed to sit the exam from remote.-->
 
 
-#### Exam transcription (Please **read carefully**)
+#### Exam recording (Please **read carefully**)
 
 - The course is the first unit of a 2 units 12 credits course "Data Management and Analysis", the second unit will be taught in semester 2 by [Prof. Walter Quattrociocchi](https://walterquattrociocchi.site.uniroma1.it/).
 - To pass the 12 credits course, you have to pass 2 separate examinations, one for unit 1 and one for unit 2; only after passing both examinations you will get the 12 credits; there can be no exception to this, so you cannot take unit 1 only, or unit 2 only and receive 6 credits, that is not possible (for Erasmus students, please see below).
