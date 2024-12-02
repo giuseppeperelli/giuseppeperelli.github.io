@@ -62,9 +62,17 @@
     },
     {
       "name": "Sapienza University of Rome, Department of Computer Science",
-      "position": "(Tenure-Track) Assistant Professor",
+      "position": "Assistant Professor (RTD-B)",
       "url": "https://www.di.uniroma1.it/it/docenti/perelli-giuseppe",
       "startDate": "2021-12",
+      "endDate": "2024-11",
+      "summary": ""
+    },
+    {
+      "name": "Sapienza University of Rome, Department of Computer Science",
+      "position": "Associate Professor",
+      "url": "https://www.di.uniroma1.it/it/docenti/perelli-giuseppe",
+      "startDate": "2024-12",
       "endDate": "Present",
       "summary": ""
     }
