@@ -175,16 +175,32 @@
       "name": "Programme Committee",
       "conference": [
         {
+          "title": "IJCAI-25, ",
+          "url": "https://2025.ijcai.org"
+        },
+        {
+          "title": "AAMAS-24, ",
+          "url": "https://www.aamas2024-conference.auckland.ac.nz"
+        },
+        {
+          "title": "IJCAI-24, ",
+          "url": "https://ijcai24.org"
+        },
+        {
           "title": "ECAI-23, ",
           "url": "https://www.ecai2023.eu/"
         },
         {
-          "title": "KR-23, ",
-          "url": "https://kr.org/KR2023"
+          "title": "IJCAI-23, ",
+          "url": "https://ijcai-23.org/"
         },
         {
           "title": "LAMAS&SR-23, ",
           "url": "https://vadimmalvone.github.io/lamas-sr-2023"
+        },
+        {
+          "title": "KR-23, ",
+          "url": "https://kr.org/KR2023"
         },
         {
           "title": "AAMAS-22, ",
