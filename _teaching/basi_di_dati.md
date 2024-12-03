@@ -28,6 +28,10 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 - [Tracce esami precedenti](https://drive.google.com/drive/folders/1oM1vfoahHk9_7yUsAkjScHhQ43AUx-8T?usp=sharing)
 - [Simulazioni d'esame](https://drive.google.com/drive/folders/1pS9mx_8nD_AJ3J4s7EcgOYSkfVucxWcm?usp=sharing)
 
+##### **<span style="color:red"> Attenzione </span>**
+
+Come annunciato nei giorni scorsi in aula, **la lezione di Giovedì 5 Dicembre è <span style="color:red">ANNULLATA</span>**. Le lezioni riprenderanno regolarmente da Lunedì 9 Dicembre, come di consueto.
+
 
 ##### **Orario**
 
@@ -76,6 +80,7 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
  - **21-11-2024** - Teoria Relazionale: Copertura minimale. Calcolo di una copertura minimale.
  - **25-11-2024** - Teoria Relazionale: Calcolo di una decomposizione. Esercizi sul calcolo di una decoposizione.
  - **28-11-2024** - Organizzazione Fisica: Metodi Heap, Sequenziale e Hashing.
+ - **02-12-2024** - Organizzazione Fisica: Organizzazione a indice (ISAM).
 
 
 #### Modalità d'esame (**Leggere attentamente**)
