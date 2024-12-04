@@ -72,6 +72,7 @@ Whenever needed, I can meet students out of the office hours.
  - **21-11-2024** - Relational Theory: Checking Lossless Join Decompositions (Exercises).
  - **26-11-2024** - Relational Theory: Minimal covers and Decompositions.
  - **28-11-2024** - Relational Theory: Finding a decomposition of a relational schema.
+ - **03-12-2024** - Relational Physical Organization: Heap, Sequential, and Hash files.
 
 #### Examination rules (Please **read carefully**)
 - The exam for Unit 1 consists to a written part and an oral part.
