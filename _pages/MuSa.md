@@ -61,9 +61,9 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 #### 2024
 
-**18/12/2024** - TBA
+**20/12/2024** - TBA
 
-**07/12/2024** - TBA
+**07/12/2024** - [Musei in Musica 2024](https://www.uniroma1.it/it/notizia/musei-musica-2024)
 
 **05/12/2024** - [Honorary Doctorate to Alberto Angela](https://news.uniroma1.it/node/11805)
 
