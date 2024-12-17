@@ -81,6 +81,9 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
  - **25-11-2024** - Teoria Relazionale: Calcolo di una decomposizione. Esercizi sul calcolo di una decoposizione.
  - **28-11-2024** - Organizzazione Fisica: Metodi Heap, Sequenziale e Hashing.
  - **02-12-2024** - Organizzazione Fisica: Organizzazione a indice (ISAM).
+ - **09-12-2024** - Organizzazione Fisica: Organizzazione B-tree.
+ - **12-12-2024** - Organizzazione Fisica: Esercitazione.
+ - **16-12-2024** - Teoria Relazionale: rivisitazione del teorema \\(F^+=F^A\\).
 
 
 #### Modalità d'esame (**Leggere attentamente**)
