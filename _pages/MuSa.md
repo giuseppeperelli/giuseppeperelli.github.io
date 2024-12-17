@@ -61,7 +61,7 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 #### 2024
 
-**20/12/2024** - TBA
+**20/12/2024** - [Auguri della Rettrice](https://news.uniroma1.it/node/11862)
 
 **07/12/2024** - [Musei in Musica 2024](https://www.uniroma1.it/it/notizia/musei-musica-2024)
 
