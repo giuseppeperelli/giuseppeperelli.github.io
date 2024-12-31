@@ -84,7 +84,7 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
  - **09-12-2024** - Organizzazione Fisica: Organizzazione B-tree.
  - **12-12-2024** - Organizzazione Fisica: Esercitazione.
  - **16-12-2024** - Teoria Relazionale: rivisitazione del teorema \\(F^+=F^A\\).
-
+ - **19-12-2024** - Simulazione della prova scritta.
 
 #### Modalità d'esame (**Leggere attentamente**)
 

@@ -77,6 +77,7 @@ Whenever needed, I can meet students out of the office hours.
  - **10-12-2024** - Physical Organization: B-trees.
  - **12-12-2024** - Physical Organization: Exercises on file organizations.
  - **17-12-2024** - Exam Simulation.
+ - **19-12-2024** - Relational Theory: Recap on decomposition preserving dependencies.
 
 #### Examination rules (Please **read carefully**)
 - The exam for Unit 1 consists to a written part and an oral part.
