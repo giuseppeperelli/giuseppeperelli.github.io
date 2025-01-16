@@ -44,7 +44,11 @@ Beside this, within the Big Band, a number of small ensembles - from duo to sept
 
 Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](https://www.facebook.com/profile.php?id=100063580660807) and [Instagram](https://www.instagram.com/musa_jazz_orchestra)!
 
+## Photo Gallery
 
+**12/01/2025** - [Happy New Jazz Year! - Accademia Nazionale dei Lincei - Antonella Pagani](https://www.antonellapagani.it/musa_jazz_orchestra_happy_new_jazz_year-p30657)
+
+**21/04/2024** - [Jazz Idea Festival - Antonella Pagani](https://www.antonellapagani.it/musa_jazz_orchestra-p29626)
 
 ## Events
 
@@ -88,10 +92,10 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 **25/11/2023** - [Musei in Musica](https://www.uniroma1.it/it/notizia/musei-musica-2023#:~:text=Sabato%2025%20novembre%202023%20torna,organizzativo%20di%20Z%C3%A8tema%20progetto%20cultura.)
 
 
-{::nomarkdown}
+<!--{::nomarkdown}
 <h2 class="mb-4">Photo gallery</h2>
 <!-- <hr class="my-4"> -->
-{% for gallery in site.data.gallery %}
+<!--{% for gallery in site.data.gallery %}
     <h3 id="musa">{{ gallery.name }}</h3>
     <div id="carousel-{{ gallery.folder }}" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
@@ -139,6 +143,6 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
         <br>
         <h3>Photo Credits: {{gallery.credits}}</h3>
     </div>
-    <hr class="my-4">
-{% endfor %}
-{:/}
+    <hr class="my-4">-->
+<!-- {% endfor %} -->
+<!-- {:/}-->
