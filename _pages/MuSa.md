@@ -44,11 +44,7 @@ Beside this, within the Big Band, a number of small ensembles - from duo to sept
 
 Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](https://www.facebook.com/profile.php?id=100063580660807) and [Instagram](https://www.instagram.com/musa_jazz_orchestra)!
 
-## Photo Gallery
 
-**12/01/2025** - [Happy New Jazz Year! - Accademia Nazionale dei Lincei - Antonella Pagani](https://www.antonellapagani.it/musa_jazz_orchestra_happy_new_jazz_year-p30657)
-
-**21/04/2024** - [Jazz Idea Festival - Antonella Pagani](https://www.antonellapagani.it/musa_jazz_orchestra-p29626)
 
 ## Events
 
@@ -90,3 +86,59 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 **10/12/2023** - [Accademia dei Lincei](https://www.instagram.com/p/C0i3QJKtlIa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 **25/11/2023** - [Musei in Musica](https://www.uniroma1.it/it/notizia/musei-musica-2023#:~:text=Sabato%2025%20novembre%202023%20torna,organizzativo%20di%20Z%C3%A8tema%20progetto%20cultura.)
+
+
+{::nomarkdown}
+<h2 class="mb-4">Photo gallery</h2>
+<!-- <hr class="my-4"> -->
+{% for gallery in site.data.gallery %}
+    <h3 id="musa">{{ gallery.name }}</h3>
+    <div id="carousel-{{ gallery.folder }}" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+        {% assign counter = 0 %}
+        {% for image in site.static_files %}
+            {% assign path = 'images/gallery/' | append: gallery.folder %}
+            {% if image.path contains path %}
+                {% if counter == 0 %}
+                    <li data-target="#carousel-{{ gallery.folder }}" data-slide-to="{{ counter }}"></li>
+                {% else %}
+                    <li data-target="#carousel-{{ gallery.folder }}" data-slide-to="{{ counter }}"></li>
+                {% endif %}
+                {% assign counter = counter | plus: 1 %}
+            {% endif %}
+        {% endfor %}
+    </ol>
+    <div class="carousel-inner">
+        {% assign counter = 0 %}
+        {% for image in site.static_files %}
+            {% assign path = 'images/gallery/' | append: gallery.folder %}
+            {% if image.path contains path %}
+                {% if counter == 0 %}
+                <div class="carousel-item active">
+                    <img src="{{ site.baseurl }}{{ image.path }}" class="d-block w-100" alt="...">
+                </div>
+                {% else %}
+                    <div class="carousel-item">
+                    <img src="{{ site.baseurl }}{{ image.path }}" class="d-block w-100" alt="...">
+                </div>
+                {% endif %}
+                {% assign counter = counter | plus: 1 %}
+            {% endif %}
+        {% endfor %}
+    </div>
+    <a class="carousel-control-prev" href="#carousel-{{ gallery.folder }}" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carousel-{{ gallery.folder }}" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+    </div>
+    <div align=center>
+        <br>
+        <h3>Photo Credits: {{gallery.credits}}</h3>
+    </div>
+    <hr class="my-4">
+{% endfor %}
+{:/}
