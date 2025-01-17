@@ -10,7 +10,7 @@ nav_order: 8
 profile:
   align: right
   logo:
-  image: Piano_vertical.jpg
+  image: Piano_lincei.jpg
   address: >
     <p><i class="material-icons">photo</i>Ph Credits: <a href="https://www.antonellapagani.it/portfolio-p">Antonella Pagani</a></p>
 

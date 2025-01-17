@@ -61,6 +61,13 @@ img {
   max-width: 90vw;
 }
 
+.musa{
+img {
+  max-width: 90vw;
+  width: 120%
+  }
+}
+
 blockquote {
   background: var(--global-bg-color);
   border-left: 5px solid var(--global-theme-color);
@@ -191,10 +198,56 @@ ul.task-list input[type="checkbox"] {
   color: var(--global-theme-color);
 }
 
+// Musa
+
+.musa{
+  width: 90%;
+
+  .more-info {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: monospace;
+
+    p {
+      display: inline-block;
+      margin: 0;
+    }
+  }
+  .address {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: monospace;
+    p {
+      display: inline-block;
+      margin: 0;
+    }
+  }
+}
+
+.musa.float-right {
+  margin-left: 1rem;
+}
+
+.musa.float-left {
+  margin-right: 1rem;
+}
+
+@media (min-width: 576px) {
+  .musa {
+    width: 35%;
+
+    .address {
+      p {
+        display: block;
+      }
+    }
+  }
+}
+
 // Profile
 
 .profile {
-  width: 100%;
+  width: 90%;
 
   .more-info {
     margin-bottom: 5px;
