@@ -1,0 +1,178 @@
+"Abate":
+  - firstname: ["Alessandro", "A."]
+    url: https://www.cs.ox.ac.uk/people/alessandro.abate/
+    
+"Abd Alrahman":
+  - firstname: ["Yehia", "Y."]
+    url: https://lazkany.bitbucket.io/
+    
+"Alechina":
+  - firstname: ["Natasha", "N."]
+    url: https://webspace.science.uu.nl/~alech001/
+    
+"Almagor":
+  - firstname: ["Shaull", "S."]
+    url: https://shaull.cswp.cs.technion.ac.il/
+
+"Bottoni":
+  - firstname: ["Paolo", "P."]
+    url: https://www.di.uniroma1.it/it/docenti/bottoni-paolo
+
+"Bouyer":
+  - firstname: ["Patricia", "P."]
+    url: http://www.lsv.fr/~bouyer/
+
+"Bozzelli":
+  - firstname: ["Laura", "L."]
+    url: https://www.docenti.unina.it/laura.bozzelli
+
+"Dastani":
+  - firstname: ["Mehdi", "M.", "M. M."]
+    url: https://www.uu.nl/staff/mmdastani
+
+"De Giacomo": 
+  - firstname: ["Giuseppe", "G."]
+    url: http://www.diag.uniroma1.it//degiacom/
+    
+"Di Stasio": 
+  - firstname: ["Antonio", "A."]
+    url: https://antoniodistasio.github.io/
+    
+"Felli": 
+  - firstname: ["Paolo", "P."]
+    url: https://www.pfelli.xyz/
+    
+"Fernandez-Gil":
+  - firstname: ["Oliver", "O."]
+    url: https://lat.inf.tu-dresden.de/~fernandez/
+    
+"Fontaine": 
+  - firstname: ["Gaelle", "G."]
+    url: https://dblp.org/pid/51/399.html
+    
+"Gutierrez": 
+  - firstname: ["Julian", "J."]
+    url: https://profiles.sussex.ac.uk/p640350-julian-gutierrez
+    
+"Hammond": 
+  - firstname: ["Lewis", "L."]
+    url: https://www.lewishammond.com/
+    
+"Harrenstein": 
+  - firstname: ["Paul", "P.", "P. B."]
+    url: https://www.cs.ox.ac.uk/people/paul.harrenstein/
+
+"Hyland":
+  - firstname: ["David", "D."]
+    url: https://www.cs.ox.ac.uk/people/david.hyland/
+
+"Jamroga":
+  - firstname: ["Wojtek", "W."]
+    url: https://home.ipipan.waw.pl/w.jamroga/
+    
+"Kraus": 
+  - firstname: ["Sarit", "P."]
+    url: https://u.cs.biu.ac.il/~krauss/
+    
+"Kwiatkowska": 
+  - firstname: ["Marta", "M.", "M. Z."]
+    url: https://www.cs.ox.ac.uk/people/marta.kwiatkowska/
+    
+"Kupferman": 
+  - firstname: ["Orna", "O."]
+    url: https://www.cs.huji.ac.il/~ornak/
+
+"Labella":
+  - firstname: ["Anna", "A."]
+    url: http://wwwusers.di.uniroma1.it/~labella/
+
+"Logan":
+  - firstname: ["Brian", "B."]
+    url: https://alechina-logan.net/brian/
+
+"Marchioni":
+  - firstname: ["Enrico", "E."]
+    url: https://www.ecs.soton.ac.uk/people/em1g17
+    
+"Markey":
+  - firstname: ["Nicolas", "M."]
+    url: http://people.irisa.fr/Nicolas.Markey/
+    
+"Maubert":
+  - firstname: ["Bastien", "B."]
+    url: http://www.bastien-maubert.fr/
+"Mittelmann":
+  - firstname: ["Munyque", "M."]
+    url: https://sites.google.com/view/mittelmann
+    
+"Mogavero":
+  - firstname: ["Fabio", "F."]
+    url: https://www.fabiomogavero.com/
+
+"Molinari":
+  - firstname: ["Alberto", "A."]
+    url: https://dblp.org/pid/167/9613.html
+    
+"Montali":
+  - firstname: ["Marco", "M."]
+    url: http://www.inf.unibz.it/~montali/
+    
+"Montanari":
+  - firstname: ["Angelo", "A."]
+    url: https://users.dimi.uniud.it/~angelo.montanari/index.php
+    
+"Murano":
+  - firstname: ["Aniello", "A."]
+    url: http://people.na.infn.it/~murano/
+    
+"Najib":
+  - firstname: ["Muhammad", "M."]
+    url: https://valvestate.github.io/
+    
+"Patrizi":
+  - firstname: ["Fabio", "F."]
+    url: http://www.diag.uniroma1.it//~patrizi/
+    
+"Peron":
+  - firstname: ["Adriano", "A."]
+    url: https://www.docenti.unina.it/adriano.peron2
+
+"Piterman":
+  - firstname: ["Nir", "N."]
+    url: http://www.cse.chalmers.se/~piterman/
+    
+"Rubin":
+  - firstname: ["Sasha", "S."]
+    url: https://sasharubin.github.io/
+    
+"Sorrentino":
+  - firstname: ["Loredana", "L."]
+    url: https://dblp.org/pid/138/6933.html
+    
+"Steeples":
+  - firstname: ["Thomas", "T."]
+    url: https://www.thomassteeples.co.uk/
+
+"Toumi":
+  - firstname: ["Alexis", "A."]
+    url: https://alexis.toumi.xyz/
+
+"Turhan":
+  - firstname: ["Anni-Yasmin", "Anni", "A.", "A-Y", "A. Y."]
+    url: https://www.uni-paderborn.de/en/person/104470
+    
+"Vardi":
+  - firstname: ["Moshe", "M.", "M. Y."]
+    url: https://www.cs.rice.edu/~vardi/
+
+"Varricchione":
+  - firstname: ["Giovanni", "G."]
+    url: https://giovannivarr.github.io/
+    
+"Wooldridge":
+  - firstname: ["Michael", "M.", "M. J."]
+    url: https://www.cs.ox.ac.uk/people/michael.wooldridge/
+    
+"Zhu":
+  - firstname: ["Shufang", "S."]
+    url: https://shufang-zhu.github.io/

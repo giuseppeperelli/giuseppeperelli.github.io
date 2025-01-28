@@ -1,0 +1,309 @@
+{
+  "basics": {
+    "name": "Giuseppe Perelli",
+    "label": "",
+    "image": "",
+    "email": "perelli@di.uniroma1.it",
+    "phone": "+390649255470",
+    "url": "https://giuseppeperelli.github.io/",
+    "summary": "",
+    "location": {
+      "address": "Viale Regina Elena, 295",
+      "postalCode": "00161",
+      "city": "Roma",
+      "countryCode": "Italy",
+      "region": "Italy"
+    }
+  },
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Proficiency",
+      "icon": ""
+    }
+  ],
+  "work": [
+    {
+      "name": "University of Oxford, Department of Computer Science",
+      "position": "Research Assistant",
+      "url": "https://www.cs.ox.ac.uk/projects/RACE/index.html",
+      "startDate": "2015-04",
+      "endDate": "2018-05",
+      "summary": ""
+    },
+    {
+      "name": "University of Leicester, Department of Informatics",
+      "position": "Research Associate",
+      "url": "https://dsynma.bitbucket.io",
+      "startDate": "2019-07",
+      "endDate": "2019-12",
+      "summary": ""
+    },
+    {
+      "name": "Chalmers/University of Göteborg, Department of Computer Science and Engineering",
+      "position": "Postdoktor",
+      "url": "https://dsynma.bitbucket.io//",
+      "startDate": "2019-07",
+      "endDate": "2019-12",
+      "summary": ""
+    },
+    {
+      "name": "Sapienza Universityof Rome, Department of Computer, Control, and Business Engineering",
+      "position": "Senior Research Associate",
+      "url": "https://whitemech.github.io/people",
+      "startDate": "2020-01",
+      "endDate": "2021-11",
+      "summary": ""
+    },
+    {
+      "name": "Sapienza University of Rome, Department of Computer Science",
+      "position": "Assistant Professor (RTD-B)",
+      "url": "https://www.di.uniroma1.it/it/docenti/perelli-giuseppe",
+      "startDate": "2021-12",
+      "endDate": "2024-11",
+      "summary": ""
+    },
+    {
+      "name": "Sapienza University of Rome, Department of Computer Science",
+      "position": "Associate Professor",
+      "url": "https://www.di.uniroma1.it/it/docenti/perelli-giuseppe",
+      "startDate": "2024-12",
+      "endDate": "Present",
+      "summary": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "Young Researcher 'Marco Somalvico' Award",
+      "date": "2023-11-08",
+      "awarder": "AIxIA: Italian Association for Artificial Intelligence",
+      "url": "https://aixia.it/premi/premio-intelligenza-artificiale-marco-somalvico-biennale/",
+      "summary": "The prize is awarded to the 'best under 37 Italian researcher who autonomously contributed to advance the state-of-the-art in Artificial Intelligence.'"
+    },
+    {
+      "title": "3+2 Award",
+      "date": "2012",
+      "awarder": "AILA: Italian Association for Logics and its Applications",
+      "url": "https://www.ailalogica.it/pdf/premi/relazione3+2-2012.pdf",
+      "summary": "The prize is awarded to the 'best master theses in logics in the Academic Year 2011-12.'"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Naples 'Federico II'",
+      "location": "Naples, Italy",
+      "url": "",
+      "studyType": "Bs in Mathematics",
+      "startDate": "2005",
+      "endDate": "2008",
+      "score": ""
+    },
+    {
+      "institution": "University of Naples 'Federico II'",
+      "location": "Naples, Italy",
+      "url": "",
+      "studyType": "Ms in Mathematics",
+      "startDate": "2008",
+      "endDate": "2011",
+      "score": ""
+    },
+    {
+      "institution": "University of Naples 'Federico II'",
+      "location": "Naples, Italy",
+      "url": "",
+      "area": "Formal Methods for Artificial Intelligence",
+      "studyType": "PhD in Computer Science",
+      "startDate": "2012",
+      "endDate": "2015",
+      "score": ""
+    }
+  ],
+  "service": [
+    {
+      "name": "Chair",
+      "conference": [
+        {
+          "title": "RADICAL-23, ",
+          "url": "https://sites.google.com/site/radicalconcur/"
+        },
+        {
+          "title": "LAMAS&SR-21, ",
+          "url": "https://lamassr.github.io/editions/2021"
+        },
+        {
+          "title": "RADICAL-19.",
+          "url": "https://sites.google.com/site/radicalconcur/"
+        }
+      ]
+    },
+    {
+      "name": "Proceedings Chair",
+      "conference": [
+        {
+          "title": "ICPM-23.",
+          "url": "https://icpmconference.org/2023"
+        }
+      ]
+    },
+    {
+      "name": "Senior Programme Committee",
+      "conference": [
+        {
+          "title": "ECAI-25, ",
+          "url": "https://www.ecai2025.eu/"
+        },
+        {
+          "title": "AAMAS-25, ",
+          "url": "https://aamas2025.org/"
+        },
+        {
+          "title": "ECAI-24, ",
+          "url": "https://www.ecai2024.eu/"
+        },
+        {
+          "title": "AAMAS-23, ",
+          "url": "https://aamas2023.soton.ac.uk/"
+        },
+        {
+          "title": "IJCAI-21.",
+          "url": "https://ijcai-21.org"
+        }
+      ]
+    },
+    {
+      "name": "Programme Committee",
+      "conference": [
+        {
+          "title": "IJCAI-25, ",
+          "url": "https://2025.ijcai.org"
+        },
+        {
+          "title": "AAMAS-24, ",
+          "url": "https://www.aamas2024-conference.auckland.ac.nz"
+        },
+        {
+          "title": "IJCAI-24, ",
+          "url": "https://ijcai24.org"
+        },
+        {
+          "title": "ECAI-23, ",
+          "url": "https://www.ecai2023.eu/"
+        },
+        {
+          "title": "IJCAI-23, ",
+          "url": "https://ijcai-23.org/"
+        },
+        {
+          "title": "LAMAS&SR-23, ",
+          "url": "https://vadimmalvone.github.io/lamas-sr-2023"
+        },
+        {
+          "title": "KR-23, ",
+          "url": "https://kr.org/KR2023"
+        },
+        {
+          "title": "AAMAS-22, ",
+          "url": "https://aamas2022-conference.auckland.ac.nz"
+        },
+        {
+          "title": "AAAI-22, ",
+          "url": "https://aaai.org/Conferences/AAAI-22"
+        },
+        {
+          "title": "AAAI-21, ",
+          "url": "https://aaai.org/Conferences/AAAI-21"
+        },
+        {
+          "title": "AAMAS-21, ",
+          "url": "https://aamas2021.soton.ac.uk"
+        },
+        {
+          "title": "IJCAI-20, ",
+          "url": "https://ijcai20.org"
+        },
+        {
+          "title": "EUMAS-20, ",
+          "url": "https://eumas2020.csd.auth.gr/eumas2020"
+        },
+        {
+          "title": "AAMAS-20, ",
+          "url": "https://aamas2020.conference.auckland.ac.nz"
+        },
+        {
+          "title": "ECAI-20, ",
+          "url": "http://ecai2020.eu"
+        },
+        {
+          "title": "IJCAI-19, ",
+          "url": "https://ijcai19.org"
+        },
+        {
+          "title": "AAMAS-19, ",
+          "url": "http://aamas2019.encs.concordia.ca"
+        },
+        {
+          "title": "EUMAS-18, ",
+          "url": "https://eumas2018.w.uib.no"
+        },
+        {
+          "title": "IJCAI-18, ",
+          "url": "https://ijcai-18.org"
+        },
+        {
+          "title": "AAMAS-18, ",
+          "url": "http://celweb.vuse.vanderbilt.edu/aamas18/home"
+        },
+        {
+          "title": "AAAI-18, ",
+          "url": "http://aaai.org/Conferences/AAAI/aaai18.php"
+        },
+        {
+          "title": "EUMAS-17, ",
+          "url": "https://eumas2017.ibisc.univ-evry.fr"
+        },
+        {
+          "title": "SR-17, ",
+          "url": "http://sr2017.csc.liv.ac.uk"
+        },
+        {
+          "title": "CILC-17, ",
+          "url": "http://cilc2017.unina.it/"
+        },
+        {
+          "title": "IJCAI-17, ",
+          "url": "https://ijcai-17.org"
+        },
+        {
+          "title": "IJCAI-16, ",
+          "url": "http://ijcai-16.org"
+        },
+        {
+          "title": "AAMAS-16.",
+          "url": "https://sis.smu.edu.sg/aamas2016/"
+        }
+      ]
+    },
+    {
+      "name": "Organizing Committee",
+      "conference": [
+        {
+          "title": "SR-15, ",
+          "url": "https://sites.google.com/site/sr2015homepage"
+        },
+        {
+          "title": "SR-13, ",
+          "url": "http://www.strategicreasoning.net/editions/2013/"
+        },
+        {
+          "title": "GAMES-12.",
+          "url": "(http://www.games.unina.it"
+        }
+      ]
+    }
+  ]
+}
