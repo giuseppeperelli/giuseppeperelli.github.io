@@ -56,9 +56,11 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 **08/05/2025** - TBA
 
-**13/03/2025** - TBA
+**10/04/2025** - TBA
 
-**27/02/2025** - Inverviewed at Radio Vaticana - [Part 1](https://www.vaticannews.va/it/podcast/radio-vaticana-musica/zoom/2025/02/zoom-27-02-2025.html) - [Part 2](https://www.vaticannews.va/it/podcast/radio-vaticana-musica/zoom/2025/02/zoom-28-02-2025.html)
+**13/03/2025** - [MuSa Jazz Meets: Refice Jazz ensemble](https://news.uniroma1.it/node/12131)
+
+**27/02/2025** - Inverview at Radio Vaticana - [Part 1](https://www.vaticannews.va/it/podcast/radio-vaticana-musica/zoom/2025/02/zoom-27-02-2025.html) - [Part 2](https://www.vaticannews.va/it/podcast/radio-vaticana-musica/zoom/2025/02/zoom-28-02-2025.html)
 
 **12/01/2025** - [Happy New Jazz Year! - Accademia Nazionale dei Lincei](http://www.villafarnesina.it/wp-content/uploads/2024/10/MuSa_2024.jpg)
 
