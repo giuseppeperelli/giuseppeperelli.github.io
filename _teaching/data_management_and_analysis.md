@@ -2,6 +2,7 @@
 layout: page
 title: Data Management and Analysis 
 description: CdS Applied Computer Science and Artificial Intelligence
+img: assets/img/database.jpg
 importance: 2
 category: current
 ---

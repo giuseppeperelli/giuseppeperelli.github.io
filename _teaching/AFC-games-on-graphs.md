@@ -2,6 +2,7 @@
 layout: page
 title: Games on Graphs
 description: Attività Formative Complementari
+img: assets/img/graphs.png
 importance: 1
 category: past
 ---

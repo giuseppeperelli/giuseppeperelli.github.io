@@ -2,6 +2,7 @@
 layout: page
 title: Basi di Dati 
 description: CdS Informatica
+img: assets/img/database.png
 importance: 2
 category: current
 ---
