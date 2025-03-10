@@ -8,3 +8,5 @@ category: phd
 redirect: https://essai.si/game-theoretic-approach-to-planning-and-synthesis/
 ---
 
+
+#### You are about to be redirected in a few seconds. Please wait.

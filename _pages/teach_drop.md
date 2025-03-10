@@ -5,6 +5,9 @@ nav: true
 nav_order: 6
 dropdown: true
 children:
+  - title: Theses
+    permalink: /theses
+  - title: divider
   - title: Mathematical Logics for Computer Science
     permalink: /teaching/mathematical_logics_for_computer_science
   - title: Basi di Dati
