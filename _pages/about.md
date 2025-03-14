@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  logo: di-inline-transparent.png
+  logo: di-vertical-transparent.png
   image: OxChair.jpg
   address: >
     <p><i class="material-icons">work</i>Dept. of Computer Science, Sapienza University of Rome</p>
@@ -20,7 +20,6 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-<!--<img src="assets/img/di-inline-transparent.png" class="logo"  alt="logo of Sapienza University">-->
 
 Welcome to my Website! I am an **Associate Professor** at [Dipartimento di Informatica](http://www.di.uniroma1.it/), Universit&agrave; di Roma, La Sapienza.
 
