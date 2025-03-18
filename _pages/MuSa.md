@@ -46,6 +46,8 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 ## Photo Gallery
 
+**13/03/2025** - [MuSa Jazz Meets: Refice Jazz ensemble - Antonella Pagani](https://www.antonellapagani.it/musa_jazz_meets-p30847)
+
 **12/01/2025** - [Happy New Jazz Year! - Accademia Nazionale dei Lincei - Antonella Pagani](https://www.antonellapagani.it/musa_jazz_orchestra_happy_new_jazz_year-p30657)
 
 **21/04/2024** - [Jazz Idea Festival - Antonella Pagani](https://www.antonellapagani.it/musa_jazz_orchestra-p29626)
