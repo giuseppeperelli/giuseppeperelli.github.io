@@ -129,7 +129,7 @@
       "conference": [
         {
           "title": "RADICAL-23, ",
-          "url": "https://sites.google.com/site/radicalconcur/"
+          "url": "https://sites.google.com/site/radicalconcur/previous-editions/radical-2023"
         },
         {
           "title": "LAMAS&SR-21, ",
@@ -137,7 +137,7 @@
         },
         {
           "title": "RADICAL-19.",
-          "url": "https://sites.google.com/site/radicalconcur/"
+          "url": "https://sites.google.com/site/radicalconcur/previous-editions/radical-2019"
         }
       ]
     },
@@ -178,6 +178,10 @@
     {
       "name": "Programme Committee",
       "conference": [
+        {
+          "title": "RADICAL-25, ",
+          "url": "https://sites.google.com/site/radicalconcur/Home"
+        },
         {
           "title": "IJCAI-25, ",
           "url": "https://2025.ijcai.org"
