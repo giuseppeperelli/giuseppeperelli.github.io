@@ -23,17 +23,18 @@ social: false  # includes social icons at the bottom of the page
 > (Duke Ellington)
 
 Besides my research and teaching activities, I am a huge passionate about [jazz](https://en.wikipedia.org/wiki/Jazz).
-In October 2023, I joined [MuSa Jazz Orchestra](https://www.sapienzacrea.uniroma1.it/strutture/musa-jazz) as a *Pianist*.
+In October 2023, I joined [MuSa Jazz Orchestra](https://sapienzacrea.web.uniroma1.it/musa-jazz) as a *Pianist*.
 
 
 ##### MuSa - Musica Sapienza
 
-MuSa is the acronym for Musica Sapienza, a project born in 2006 to promote solidarity and culture through music. Its members include students, teachers and technical-administrative staff of this University, who thanks to MuSa can combine their commitment to study or work with their passion for music.
+MuSa is the acronym for Musica Sapienza, a project born in 2006 under [Sapienza CREA](https://sapienzacrea.web.uniroma1.it/) to promote solidarity and culture through music. Its members include students, faculty, and administrative staff of this University, who thanks to MuSa can combine their commitment to study or work with their passion for music.
 
 It offers the chance to amateurs and professional musicians within the Sapienza community to join different orchestral or choral ensembles.
 
-MuSa performs in its own musical season ("I venerdì di Musa") and organizes musical parties for the University community on the occasion of Christmas, Carnival and institutional or celebratory events. It can also be requested to provide a musical setting for inaugural or convivial moments of conferences or other events organized by Departments or external institutions.
-More inforomation and contact available to the [official page of the project](https://www.sapienzacrea.uniroma1.it/strutture).
+MuSa performs in its own musical season and organizes partakes events for the University community on the occasion of Christmas, Carnival and institutional or celebratory events.
+It can also be requested to provide a musical setting for inaugural or convivial moments of conferences or other events organized by Departments or external institutions.
+More inforomation and contact available to the [official page of the project](https://sapienzacrea.web.uniroma1.it/musa).
 
 ##### MuSa Jazz Orchestra
 
