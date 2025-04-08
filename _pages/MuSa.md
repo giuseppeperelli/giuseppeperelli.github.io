@@ -58,7 +58,7 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 **08/05/2025** - TBA
 
-**10/04/2025** - TBA
+**10/04/2025** - [MuSa Jazz Meets: Conservatorio Santa Cecilia](https://news.uniroma1.it/node/12298)
 
 **13/03/2025** - [MuSa Jazz Meets: Refice Jazz ensemble](https://news.uniroma1.it/node/12131)
 
