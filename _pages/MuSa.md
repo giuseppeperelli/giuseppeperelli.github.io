@@ -59,9 +59,9 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 **08/05/2025** - TBA
 
-**10/04/2025** - [MuSa Jazz Meets: Conservatorio Santa Cecilia](https://news.uniroma1.it/node/12298)
+**10/04/2025** - [MuSa Jazz Meets: Conservatorio Santa Cecilia](https://sapienzacrea.web.uniroma1.it/it/i-giovedi-della-musa-musa-jazz-meets-10-aprile-2025)
 
-**13/03/2025** - [MuSa Jazz Meets: Refice Jazz ensemble](https://news.uniroma1.it/node/12131)
+**13/03/2025** - [MuSa Jazz Meets: Refice Jazz ensemble](https://sapienzacrea.web.uniroma1.it/it/i-giovedi-della-musa-musa-jazz-meets-13-marzo-2025)
 
 **27/02/2025** - Inverview at Radio Vaticana - [Part 1](https://www.vaticannews.va/it/podcast/radio-vaticana-musica/zoom/2025/02/zoom-27-02-2025.html) - [Part 2](https://www.vaticannews.va/it/podcast/radio-vaticana-musica/zoom/2025/02/zoom-28-02-2025.html)
 
