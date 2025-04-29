@@ -57,7 +57,11 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 #### 2025
 
-**08/05/2025** - TBA
+**30/06/2025** - TBA
+
+**25/05/2025** - TBA
+
+**08/05/2025** - [Musa Jazz Meets: Polyband Zurich](https://sapienzacrea.web.uniroma1.it/it/musa-jazz-meets-musa-jazz-orchestra-e-polyband-la-giornata-internazionale-del-jazz-8-maggio-2025)
 
 **10/04/2025** - [MuSa Jazz Meets: Conservatorio Santa Cecilia](https://sapienzacrea.web.uniroma1.it/it/i-giovedi-della-musa-musa-jazz-meets-10-aprile-2025)
 
