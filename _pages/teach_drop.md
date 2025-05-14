@@ -9,7 +9,7 @@ children:
     permalink: /theses
   - title: divider
   - title: Game Theoretic Approach to Synthesis
-    permalink: teaching/phd_game-theoretic-approach.md
+    permalink: /teaching/phdDI_game_theoretic_approach
   - title: divider
   - title: Mathematical Logics for Computer Science
     permalink: /teaching/mathematical_logics_for_computer_science
