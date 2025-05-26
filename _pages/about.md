@@ -25,11 +25,16 @@ Welcome to my Website! I am an **Associate Professor** at [Dipartimento di Infor
 
 My [research interests](/research) regard many aspects of **Formal Methods for Artificial Intelligence**. In particular, I work on verification and synthesis for multi-agent systems, knowledge representation, strategic reasoning, logics, games, and automata theory.
 
+##### Awards
 In 2023, I received the **["Marco Somalvico" Young Researcher Award](https://www.di.uniroma1.it/it/notizie/riconoscimenti/premio-marco-somalvico-giuseppe-perelli)** from the Italian Association for Artificial Intelligence as best under 37 Italian researchers who autonomously contributed to advance the state-of-the-art in the field.
 
 In 2012, I received the **[3+2 Award](https://www.ailalogica.it/pdf/premi/relazione3+2-2012.pdf)** from the Italian Association for Logics and its Applications, for Best Master Thesis in Logics.
 
-My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1034313&target=189017)
+##### Memberships
+
+- I am member of [AIxIA](https://aixia.it/), Italian Association for Artificial Intelligence.
+- I am member of [GNCS](https://www.altamatematica.it/gncs), Italian Association for Scientific Calculus.
+- I support [CLAIRE](https://claire-ai.org/).
 
 
 ##### Short Bio
@@ -40,3 +45,4 @@ On April 2015, I joined [University of Oxford](http://www.cs.ox.ac.uk/) as <em>P
 On July 2018, I moved to [University of Leicester](https://le.ac.uk/) and then, in June 2019, [Chalmers](https://www.chalmers.se/)&nbsp;/ [University of Gothenburg](https://www.gu.se/) to work with [Prof. Nir Piterman](http://www.cse.chalmers.se/~piterman/) as <em>Research Associate</em> on his Consolidator ERC project [dSynMA](https://dsynmaerc.bitbucket.io/).
 From January 2020 to November 2021, I have been at [Dipartimento di Ingegneria Informatica, Automatica e Gestionale](http://www.diag.uniroma1.it/) at Universit&agrave; di Roma, La Sapienza as <em>Research Associate</em>, working with [Prof. Giuseppe de Giacomo](http://www.dis.uniroma1.it/degiacom/) on his Advanced ERC project [WhiteMech](https://whitemech.github.io/).
 
+My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is [3](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1034313&target=189017)

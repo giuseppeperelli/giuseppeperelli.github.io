@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Info
+title: Short CV
 permalink: /info/
 nav: true
 nav_order: 2
