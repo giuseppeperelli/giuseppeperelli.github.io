@@ -5,7 +5,7 @@ permalink: /musajazz/
 subtitle:
 
 nav: true
-nav_order: 8
+nav_order: 7
 
 profile:
   align: right
@@ -57,9 +57,9 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 #### 2025
 
-**30/06/2025** - TBA
+**30/06/2025** - Classica al Tramonto (TBA)
 
-**25/05/2025** - TBA
+**25/05/2025** - [De Rossi Music Festival](https://www.instagram.com/p/DJlvAe9Nccw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 **08/05/2025** - [Musa Jazz Meets: Polyband Zurich](https://sapienzacrea.web.uniroma1.it/it/musa-jazz-meets-musa-jazz-orchestra-e-polyband-la-giornata-internazionale-del-jazz-8-maggio-2025)
 
