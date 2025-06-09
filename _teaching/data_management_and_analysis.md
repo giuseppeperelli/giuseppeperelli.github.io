@@ -110,9 +110,6 @@ Whenever needed, I can meet students out of the office hours.
     - Physical Organization
 <!--     - Concurrency -->
   - The oral examination **usually** takes place one week after the written test. **However**, this highly depends on the time needed to mark all the written exams, which is subject to variations, due to my ongoing duties and the number of students taking the exam themselves.
-<!--- A passed written examination can be carried forward in the same session, so for example, if you pass the written part in January you can carry it forward and access the oral part in February.
-- Between different sessions, you cannot carry forward any passed written part (e.g., you cannot carry forward the written part passed in February to take the oral part in June)
-- Students are no longer allowed to sit the exam from remote.-->
 
 
 #### Exam recording (Please **read carefully**)
@@ -120,7 +117,7 @@ Whenever needed, I can meet students out of the office hours.
 - The course is the first unit of a 2 units 12 credits course "Data Management and Analysis", the second unit will be taught in semester 2 by [Prof. Walter Quattrociocchi](https://walterquattrociocchi.site.uniroma1.it/).
 - To pass the 12 credits course, you have to pass 2 separate examinations, one for unit 1 and one for unit 2; only after passing both examinations you will get the 12 credits; there can be no exception to this, so you cannot take unit 1 only, or unit 2 only and receive 6 credits, that is not possible (for Erasmus students, please see below).
 - Due to administrative reasons, the students passing Unit 1 who did not yet pass Unit 2, will be recorded as *rinuncia* on the verbale. At the same time, they will receive an email from the instructor, confirming they passed the exam, together with date and final mark.
-- **Erasmus students**: unfortunately, Data Management and Analysis is a 12 credits course split into 2 units across 2 semesters, and we cannot record the first (or second) half of the course only. **However**, it is possible to record a single unit in your transcript of records. All you need to do is to mention this to me after you passed the exam. I will then communicate the result to the Erasmus office in Sapienza, which will take care of the official transcription.
+- **Erasmus students**: unfortunately, Data Management and Analysis is a 12 credits course split into 2 units across 2 semesters, and we cannot record the first (or second) half of the course only.
 
 ------
 
