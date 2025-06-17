@@ -34,7 +34,7 @@ In 2012, I received the **[3+2 Award](https://www.ailalogica.it/pdf/premi/relazi
 
 - I am member of [AIxIA](https://aixia.it/), Italian Association for Artificial Intelligence.
 - I am member of [GNCS](https://www.altamatematica.it/gncs), Italian Association for Scientific Calculus.
-- I support [CLAIRE](https://claire-ai.org/).
+- I support [CAIRNE](https://cairne.eu/).
 
 
 ##### Short Bio
