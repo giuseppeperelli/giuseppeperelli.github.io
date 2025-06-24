@@ -57,7 +57,7 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 #### 2025
 
-**30/06/2025** - Classica al Tramonto (TBA)
+**30/06/2025** - [Classica al Tramonto](https://news.uniroma1.it/node/12683)
 
 **25/05/2025** - [De Rossi Music Festival](https://www.instagram.com/p/DJlvAe9Nccw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
