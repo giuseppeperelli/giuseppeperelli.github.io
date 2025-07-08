@@ -112,10 +112,12 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
     |   30             |     24          |
 
 
-  - Il voto finale può essere aggiustato sostenendo un *orale facoltativo*. L'esame orale può **aggiungere o sottrarre** fino a 10 punti dal voto dello scritto.
+  - Il voto finale può essere aggiustato sostenendo un *orale facoltativo*.
+  L'esame orale può **aggiungere o sottrarre** fino a 10 punti dal voto dello scritto.
+  - **<span style="color:red">ATTENZIONE</span>**: sebbene opzionale, **mi riservo il diritto di convocare alcuni studenti alla prova orale** ogni volta che lo *ritenga opportuno*.
   - La parte orale consiste in domande su:
     - Definizioni e nozioni di base sulla Teoria Relazionale
-    - Dimostrazioni di teoremi in Teoria Relazionale
+    - **Dimostrazioni** di teoremi in Teoria Relazionale
     - Organizzazione fisica
 <!--     - Concorrenza -->
   - L'esame orale si svolge **solitamente** una settimana dopo la prova scritta. Tuttavia, questo dipende molto dal tempo necessario per correggere tutte le prove scritte, che è soggetto a variazioni, a causa dei miei impegni e del numero di studenti che sostengono l'esame.

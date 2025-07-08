@@ -104,12 +104,13 @@ Whenever needed, I can meet students out of the office hours.
     |   30              |     24         |
 
   - The final mark can be adjusted by taking the oral part, which is then *optional*. The oral exam can **add or subtract** up to 10 points from the written score.
+  - **<span style="color:red">WARNING</span>**: although optional, **I reserve the right to call some students to the oral exam** whenever I *deem it appropriate*.
   - The oral part consists into questions about:
     - Definitions and basics about Relational Theory
     - **Proofs** of theorems in Relational Theory
     - Physical Organization
 <!--     - Concurrency -->
-  - The oral examination **usually** takes place one week after the written test. **However**, this highly depends on the time needed to mark all the written exams, which is subject to variations, due to my ongoing duties and the number of students taking the exam themselves.
+  - The oral examination *usually* takes place one week after the written test. **However**, this highly depends on the time needed to mark all the written exams, which is subject to variations, due to my ongoing duties and the number of students taking the exam themselves.
 
 
 #### Exam recording (Please **read carefully**)
