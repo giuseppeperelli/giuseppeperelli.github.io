@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   logo: di-vertical-transparent.png
-  image: OxChair.jpg
+  image: DIChair.jpg
   address: >
     <p><i class="material-icons">work</i>Dept. of Computer Science, Sapienza University of Rome</p>
     <p>Building E, Room E106</p>
