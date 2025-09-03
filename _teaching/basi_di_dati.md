@@ -8,9 +8,9 @@ category: current
 ---
 
  - **Docente**: Giuseppe Perelli
- - **[Google Classroom](https://classroom.google.com/c/NzExMDI4ODk5NTAw?cjc=uph5u4s)**: Iscriviti per restare aggiornato sul corso.
+ - **[Google Classroom](https://classroom.google.com/c/MjE2NTE2ODM2NDNa?cjc=y4ttfq5k)**: Iscriviti per restare aggiornato sul corso.
 <!--  - **[Canale M-Z](https://sites.google.com/a/di.uniroma1.it/basidati-modulo1-mz/home-page)**: da qui è possibile accedere al sito del corso per il canale M-Z, della [Prof.ssa De Marsico](https://sites.google.com/a/di.uniroma1.it/maria-de-marsico/), contenente ulteriori informazioni e materiale didattico. -->
-  - **Codice OPIS**: 6RDTX5S6 ([Vademecum](https://www.uniroma1.it/it/pagina/rilevazione-opinioni-studenti-opis))
+<!--   - **Codice OPIS**: 6RDTX5S6 ([Vademecum](https://www.uniroma1.it/it/pagina/rilevazione-opinioni-studenti-opis)) -->
  
 ------
 
@@ -29,25 +29,24 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 - [Tracce esami precedenti](https://drive.google.com/drive/folders/1oM1vfoahHk9_7yUsAkjScHhQ43AUx-8T?usp=sharing)
 - [Simulazioni d'esame](https://drive.google.com/drive/folders/1pS9mx_8nD_AJ3J4s7EcgOYSkfVucxWcm?usp=sharing)
 
-##### **<span style="color:red"> Attenzione </span>**
+##### **<span style="color:red"> Annunci importanti </span>**
 
-Come annunciato nei giorni scorsi in aula, **la lezione di Giovedì 5 Dicembre è <span style="color:red">ANNULLATA</span>**. Le lezioni riprenderanno regolarmente da Lunedì 9 Dicembre, come di consueto.
+ - TBA
 
 
-##### **Orario**
+##### Aule e Orario delle lezioni
 
-  Le Lezioni si terranno a partire da Lunedì 23 Settembre secondo il seguende calendario.
+ - TBA
 
-- **Lunedì**: dalle **13:00** alle **15:00**: **Aula De Lollis 4**
-- **Giovedì**: dalle **13:00** alle **16:00**: **Aula De Lollis 4**
+##### Ricevimento
 
-##### **<span style="color:red"> Ricevimento </span>**
+ - TBA
 
-Il ricevimento è **<span style="color:red">previo appuntamento</span>**. Inizierà Mercoledì 9 Ottobre in orario e data come segue.
+<!--Il ricevimento è **<span style="color:red">previo appuntamento</span>**. Inizierà Mercoledì 9 Ottobre in orario e data come segue.
 
 - Mercoledì: dalle 16:00 alle 18:00 al Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.
 
-In caso di necessità, si può concordare un appuntamento fuori dall'orario di ricevimento.
+In caso di necessità, si può concordare un appuntamento fuori dall'orario di ricevimento.-->
  
 #### Programma
 
@@ -63,37 +62,39 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
 
 #### Diario del corso
 
- - **23-09-2024** - Il modello relazionale di una base di dati.
- - **26-09-2024** - Algebra Relazionale: Proiezione, Selezione, operazioni Union Compatibili, Prodotto Cartesiano, Join Naturale.
- - **30-09-2024** - Algebra Relazionale: Prodotto Cartesiano, join naturale, \\(\theta\\)-join, Quantificazione Universale.
- - **03-10-2024** - Algebra Relazionale: Esercitazione.
- - **07-10-2024** - Algebra Relazionale: Esercitazione - Teoria Relazionale: ridondanza e anomalie di gestione.
- - **10-10-2024** - Teoria Relazionale: schemi relazionali, tuple, istanze, dipendenze funzionali, chiusura di \\(F\\), chiavi.
- - **14-10-2024** - Teoria Relazionale: Assiomi di Armstrong, chiusura di \\(X\\), equivalenza \\(F^+=F^A\\).
- - **17-10-2024** - Teoria Relazionale: 3NF.
- - **28-10-2024** - Teoria Relazionale: 3NF e BCNF. Esercitazione di Algebra Relazionale.
- - **31-10-2024** - Teoria Relazionale: Chiusura di \\(X\\), calcolo delle chiavi e verifica della 3NF, esercitazione su chiavi e 3NF.
- - **04-11-2024** - Teoria Relazionale: Esercitazione sulla ricerca di chiavi e verifica della 3NF.
- - **07-11-2024** - Teoria Relazionale: decomposizioni che preservano \\(F\\). Calcolo di \\(X^{+}_{G}\\) tramite \\(F\\). Verifica  che una decomposizione preserva \\(F\\).
- - **11-11-2024** - Teoria Relazionale: eserizi sulla verifica che una decomposizione preserva \\(F\\).
- - **14-11-2024** - Teoria Relazionale: Join Senza Perdita, definizione e algoritmo di verifica.
- - **18-11-2024** - Teoria Relazionale: esercitazione sulla verifica che che una decomposizione preserva \\(F\\) o abbia un join senza perdita.
- - **21-11-2024** - Teoria Relazionale: Copertura minimale. Calcolo di una copertura minimale.
- - **25-11-2024** - Teoria Relazionale: Calcolo di una decomposizione. Esercizi sul calcolo di una decoposizione.
- - **28-11-2024** - Organizzazione Fisica: Metodi Heap, Sequenziale e Hashing.
- - **02-12-2024** - Organizzazione Fisica: Organizzazione a indice (ISAM).
- - **09-12-2024** - Organizzazione Fisica: Organizzazione B-tree.
- - **12-12-2024** - Organizzazione Fisica: Esercitazione.
- - **16-12-2024** - Teoria Relazionale: rivisitazione del teorema \\(F^+=F^A\\).
- - **19-12-2024** - Simulazione della prova scritta.
+ - TBA
 
-#### Modalità d'esame (**Leggere attentamente**)
+<!--  - **23-09-2024** - Il modello relazionale di una base di dati. -->
+<!--  - **26-09-2024** - Algebra Relazionale: Proiezione, Selezione, operazioni Union Compatibili, Prodotto Cartesiano, Join Naturale. -->
+<!--  - **30-09-2024** - Algebra Relazionale: Prodotto Cartesiano, join naturale, \\(\theta\\)-join, Quantificazione Universale. -->
+<!--  - **03-10-2024** - Algebra Relazionale: Esercitazione. -->
+<!--  - **07-10-2024** - Algebra Relazionale: Esercitazione - Teoria Relazionale: ridondanza e anomalie di gestione. -->
+<!--  - **10-10-2024** - Teoria Relazionale: schemi relazionali, tuple, istanze, dipendenze funzionali, chiusura di \\(F\\), chiavi. -->
+<!--  - **14-10-2024** - Teoria Relazionale: Assiomi di Armstrong, chiusura di \\(X\\), equivalenza \\(F^+=F^A\\). -->
+<!--  - **17-10-2024** - Teoria Relazionale: 3NF. -->
+<!--  - **28-10-2024** - Teoria Relazionale: 3NF e BCNF. Esercitazione di Algebra Relazionale. -->
+<!--  - **31-10-2024** - Teoria Relazionale: Chiusura di \\(X\\), calcolo delle chiavi e verifica della 3NF, esercitazione su chiavi e 3NF. -->
+<!--  - **04-11-2024** - Teoria Relazionale: Esercitazione sulla ricerca di chiavi e verifica della 3NF. -->
+<!--  - **07-11-2024** - Teoria Relazionale: decomposizioni che preservano \\(F\\). Calcolo di \\(X^{+}_{G}\\) tramite \\(F\\). Verifica  che una decomposizione preserva \\(F\\). -->
+<!--  - **11-11-2024** - Teoria Relazionale: eserizi sulla verifica che una decomposizione preserva \\(F\\). -->
+<!--  - **14-11-2024** - Teoria Relazionale: Join Senza Perdita, definizione e algoritmo di verifica. -->
+<!--  - **18-11-2024** - Teoria Relazionale: esercitazione sulla verifica che che una decomposizione preserva \\(F\\) o abbia un join senza perdita. -->
+<!--  - **21-11-2024** - Teoria Relazionale: Copertura minimale. Calcolo di una copertura minimale. -->
+<!--  - **25-11-2024** - Teoria Relazionale: Calcolo di una decomposizione. Esercizi sul calcolo di una decoposizione. -->
+<!--  - **28-11-2024** - Organizzazione Fisica: Metodi Heap, Sequenziale e Hashing. -->
+<!--  - **02-12-2024** - Organizzazione Fisica: Organizzazione a indice (ISAM). -->
+<!--  - **09-12-2024** - Organizzazione Fisica: Organizzazione B-tree. -->
+<!--  - **12-12-2024** - Organizzazione Fisica: Esercitazione. -->
+<!--  - **16-12-2024** - Teoria Relazionale: rivisitazione del teorema \\(F^+=F^A\\). -->
+<!--  - **19-12-2024** - Simulazione della prova scritta. -->
+
+#### Modalità d'esame
 
 - L'esame del Modulo 1 consiste in una parte scritta e una parte orale.
-  - La parte scritta (circa 2 ore e mezza) consiste in una sezione di domande a risposta multipla sulla teoria e una sezione di tre esercizi su: Algebra Relazionale, Teoria Relazionale, Organizzazione Fisica.
+  - La parte scritta (2 ore e mezza) consiste in una sezione di domande a risposta multipla sulla teoria e una sezione di tre esercizi su: Algebra Relazionale, Teoria Relazionale, Organizzazione Fisica.
     - Per le domande a risposta multipla, ad ogni risposta corretta si aggiunge un punto, per ogni risposta sbagliata, si sottrae mezzo punto. È necessario raggiungere **almeno** 6 punti su 10 per considerare questa sezione superata.
     - Gli esercizi della seconda sezione sono valutati 10 punti. Se **tutti** gli esercizi sono valutati con un punteggio sufficiente (6/10), la sezione viene considerata superata.
-    - Se la prova scritta è superata, viene assegnato un voto secondo la seguente tabella
+    - Se la prova scritta è superata, viene assegnato un voto secondo la seguente tabella di conversione:
 
     | **Voto Scritto** | **Voto Finale** |
     |------------------|-----------------|
@@ -122,11 +123,13 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
 <!--     - Concorrenza -->
   - L'esame orale si svolge **solitamente** una settimana dopo la prova scritta. Tuttavia, questo dipende molto dal tempo necessario per correggere tutte le prove scritte, che è soggetto a variazioni, a causa dei miei impegni e del numero di studenti che sostengono l'esame.
 
-<!--- Le lezioni si svolgono **in presenza** e non sono registrate.
-- Gli esami si svolgono *esclusivamente* in presenza. Non è più consentito svolgere esami da remoto.-->
+##### **Importante**
 
+- Per poter sostenere l'esame, è **obbligatorio registrarsi in tempo** sul verbale di INFOSTUD dedicato, che si chiude sempre 7 giorni prima della data dello scritto.
+- Al momento della prenotazione, *controllate attentamente nelle note* del verbale se questo si riferisce al Modulo 1 o al Modulo 2 (leggere la sezione Verbalizzazione per ulteriori dettagli).
+- Spesso, per facilitare l'organizzazione e il regolare svolgimento dell'esame, al termine delle prenotazioni su INFOSTUD invio un semplice *google form* da **compilare obbligatoriamente** in cui confermate la vostra presenza. Questo mi consente di avere un numero più accurato dei partecipanti all'esame, che mi serve per prenotare le aule giuste, stampare un numero adeguato di tracce, e occasionalmente organizzare lo scritto su più turni, se necessario.
 
-#### Verbalizzazione (**Leggere attentamente**)
+#### Verbalizzazione
 - Il corso è il primo dei due moduli di Basi di Dati. Il secondo modulo è tenuto nel secondo semestre dal [Prof. Toni Mancini](http://tmancini.di.uniroma1.it/index.php).
 - Per verbalizzare l'intero esame da 12 crediti, bisogna superare entrambi i moduli separatamente. Questo vale senza eccezione alcuna, compresi gli studenti Erasmus. Non c'è limite di tempo tra il superamento dei due moduli per la verbalizzazione finale.
 - Per ragioni amministrative, gli studenti che superano il Modulo 1, ma che non hanno ancora superato il Modulo 2, saranno registrati con un *rinuncia* sul verbale. Contestualmente, riceveranno un'email dal docente con la conferma del superamento del modulo, data e valutazione, a garanzia del superamento stesso.
@@ -137,8 +140,9 @@ In caso di necessità, si può concordare un appuntamento fuori dall'orario di r
 
 #### Edizioni Precedenti
 
-- **A.A. 2023-24**
-  - **[Google Classroom](https://classroom.google.com/c/NjMzNTU2MTY4NjQz?cjc=7s3zywu)**: Iscriviti per restare aggiornato sul corso.
 
-- **A.A. 2022-23**
-  - **[Google Classroom](https://classroom.google.com/c/NTI2MzczNjQ2NzQw?cjc=o37fjh7)**: Iscriviti per restare aggiornato sul corso.
+- **A.A. 2024-25 [Google Classroom](https://classroom.google.com/c/NzExMDI4ODk5NTAw?cjc=uph5u4s)**
+
+- **A.A. 2023-24 [Google Classroom](https://classroom.google.com/c/NjMzNTU2MTY4NjQz?cjc=7s3zywu)**
+
+- **A.A. 2022-23 [Google Classroom](https://classroom.google.com/c/NTI2MzczNjQ2NzQw?cjc=o37fjh7)**

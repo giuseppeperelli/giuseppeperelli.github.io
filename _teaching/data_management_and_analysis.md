@@ -8,8 +8,8 @@ category: current
 ---
 
  - **Instructor**: Giuseppe Perelli
- - **[Google Classroom](https://classroom.google.com/c/NzExMDI3NTU1ODMx?cjc=6liexth)**: Enroll to stay updated about the course.
-  - **Codice OPIS**: SN4A9A6Q ([Vademecum](https://www.uniroma1.it/en/pagina/student-opinion-survey-opis))
+ - **[Google Classroom](https://classroom.google.com/c/MjM0ODU1NDU5MzBa?cjc=dheeuwiy)**: Enroll to stay updated about the course.
+<!--   - **Codice OPIS**: SN4A9A6Q ([Vademecum](https://www.uniroma1.it/en/pagina/student-opinion-survey-opis)) -->
 
 ------
 
@@ -26,22 +26,17 @@ category: current
 - [Exam simulations](https://drive.google.com/drive/folders/1OoCmqzMN04iTN4foI8suPfceJRLaTjlc?usp=sharing)
 - [Past exams sheets](https://drive.google.com/drive/folders/1eHVjiabSOjRHNqRuM7ooAwpi0-hKfHcG?usp=sharing)
 
+##### **<span style="color:red"> Important News </span>**
 
+ - TBA
 
-#### **Timetable**
+#### Classroom and Timetable
 
-Classes will start on Tuesday 24th September according to the following calendar:
+ - TBA
 
-- **Mondays**: from **14:00** to **17:00** at **Aula De Lollis 3**
-- **Thursdays**: from **16:00** to **18:00** at **Aula De Lollis 3**
+##### Office hour
 
-##### **<span style="color:red"> Office hour </span>**
-
-Office hour meetings **<span style="color:red">must be agreed by appointment before hand</span>**. They will start on Wednesday 9th October at the following time.
-
-- Wednesdays: from 16:00 to 18:00 at Department of Computer Science, Edificio E, Viale Regina Elena, 295.
-
-Whenever needed, I can meet students out of the office hours.
+ - TBA
 
 
 #### **Course content**
@@ -57,30 +52,32 @@ Whenever needed, I can meet students out of the office hours.
 
 #### Course diary
 
- - **26-09-2024** - Relational Model: basic concepts and definitions.
- - **01-10-2024** - Relational Algebra: Projection, Selection, Union Compatible operations, Cartesian Product, natural join, \\(\theta-join\\).
- - **03-10-2024** - Relational Algebra: Universal Quantification.
- - **08-10-2024** - Relational Algebra: Exercises.
- - **10-10-2024** - Relational Theory: relation schemas, instances, functional dependences, closure, keys.
- - **15-10-2024** - Relational Theory: Armstrong's Axioms, closure of \\(X\\), equivalence \\(F^+ = F^A\\).
- - **17-10-2024** - Relational Theory: Third normal form (3NF).
- - **29-10-2024** - Relational Theory: 3NF and BCNF. Exercises on Relational Algebra.
- - **31-10-2024** - Relational Theory: Computing the closure of \\(X\\).
- - **05-11-2024** - Relational Theory: Checking Keys and 3NF. Dependence preservation.
- - **07-11-2024** - Relational Theory: Dependence preservation, Computing \\(X^{+}_{G}\\) from \\(F\\).
- - **12-11-2024** - Relational Theory: Exercises on checking that a given decomposition preserves \\(F\\). Lossless join.
- - **14-11-2024** - Relational Theory: Checking Lossless Join Decompositions (Algorithm).
- - **21-11-2024** - Relational Theory: Checking Lossless Join Decompositions (Exercises).
- - **26-11-2024** - Relational Theory: Minimal covers and Decompositions.
- - **28-11-2024** - Relational Theory: Finding a decomposition of a relational schema.
- - **03-12-2024** - Physical Organization: Heap, Sequential, and Hash files.
- - **05-12-2024** - Physical Organization: Exercises on file organization.
- - **10-12-2024** - Physical Organization: B-trees.
- - **12-12-2024** - Physical Organization: Exercises on file organizations.
- - **17-12-2024** - Exam Simulation.
- - **19-12-2024** - Relational Theory: Recap on decomposition preserving dependencies.
+ - TBA
 
-#### Examination rules (Please **read carefully**)
+<!--  - **26-09-2024** - Relational Model: basic concepts and definitions. -->
+<!--  - **01-10-2024** - Relational Algebra: Projection, Selection, Union Compatible operations, Cartesian Product, natural join, \\(\theta-join\\). -->
+<!--  - **03-10-2024** - Relational Algebra: Universal Quantification. -->
+<!--  - **08-10-2024** - Relational Algebra: Exercises. -->
+<!--  - **10-10-2024** - Relational Theory: relation schemas, instances, functional dependences, closure, keys. -->
+<!--  - **15-10-2024** - Relational Theory: Armstrong's Axioms, closure of \\(X\\), equivalence \\(F^+ = F^A\\). -->
+<!--  - **17-10-2024** - Relational Theory: Third normal form (3NF). -->
+<!--  - **29-10-2024** - Relational Theory: 3NF and BCNF. Exercises on Relational Algebra. -->
+<!--  - **31-10-2024** - Relational Theory: Computing the closure of \\(X\\). -->
+<!--  - **05-11-2024** - Relational Theory: Checking Keys and 3NF. Dependence preservation. -->
+<!--  - **07-11-2024** - Relational Theory: Dependence preservation, Computing \\(X^{+}_{G}\\) from \\(F\\). -->
+<!--  - **12-11-2024** - Relational Theory: Exercises on checking that a given decomposition preserves \\(F\\). Lossless join. -->
+<!--  - **14-11-2024** - Relational Theory: Checking Lossless Join Decompositions (Algorithm). -->
+<!--  - **21-11-2024** - Relational Theory: Checking Lossless Join Decompositions (Exercises). -->
+<!--  - **26-11-2024** - Relational Theory: Minimal covers and Decompositions. -->
+<!--  - **28-11-2024** - Relational Theory: Finding a decomposition of a relational schema. -->
+<!--  - **03-12-2024** - Physical Organization: Heap, Sequential, and Hash files. -->
+<!--  - **05-12-2024** - Physical Organization: Exercises on file organization. -->
+<!--  - **10-12-2024** - Physical Organization: B-trees. -->
+<!--  - **12-12-2024** - Physical Organization: Exercises on file organizations. -->
+<!--  - **17-12-2024** - Exam Simulation. -->
+<!--  - **19-12-2024** - Relational Theory: Recap on decomposition preserving dependencies. -->
+
+#### Examination rules
 - The exam for Unit 1 consists to a written part and an oral part.
   - The written part (about 2 and half hours) consists in a section of multiple choice questions about theori and a section with three exercises about: Relational Algebra, Relational Theory, Physical Organization.
   - For the multiple choice questions, each correct answer adds a point, each wrong answer subtracts half a point. You need to score **at least** 6 points out of 10 to pass the section.
@@ -103,7 +100,7 @@ Whenever needed, I can meet students out of the office hours.
     |   29              |     24         |
     |   30              |     24         |
 
-  - The final mark can be adjusted by taking the oral part, which is then *optional*. The oral exam can **add or subtract** up to 10 points from the written score.
+  - The final mark can be adjusted by taking an *optional** oral part. The oral exam can **add or subtract** up to 10 points from the written score.
   - **<span style="color:red">WARNING</span>**: although optional, **I reserve the right to call some students to the oral exam** whenever I *deem it appropriate*.
   - The oral part consists into questions about:
     - Definitions and basics about Relational Theory
@@ -112,8 +109,13 @@ Whenever needed, I can meet students out of the office hours.
 <!--     - Concurrency -->
   - The oral examination *usually* takes place one week after the written test. **However**, this highly depends on the time needed to mark all the written exams, which is subject to variations, due to my ongoing duties and the number of students taking the exam themselves.
 
+##### **Important**
 
-#### Exam recording (Please **read carefully**)
+- To take the exam, it is **mandatory to book on time** on INFOSTUD. The registration deadline is alwas 7 days before the written test day.
+- When registering, *carefully check the notes of the verbale* to find whether it is for Unit 1 or Unit 2 of the course (read the Exam recording section for more info).
+- Often, in order to facilitate the organization and progress of the exam, after the registration deadline on INFOSTUD, I will send a simple *google form* to **mandatory fill** just to confirm your attendance. I use this to get the most accurate number of students taking the exam, which I need to book the correct exam room, print an adequate number or tests and, occasionally, organize the exam in more rounds, if needed.
+
+#### Exam recording
 
 - The course is the first unit of a 2 units 12 credits course "Data Management and Analysis", the second unit will be taught in semester 2 by [Prof. Walter Quattrociocchi](https://walterquattrociocchi.site.uniroma1.it/).
 - To pass the 12 credits course, you have to pass 2 separate examinations, one for unit 1 and one for unit 2; only after passing both examinations you will get the 12 credits; there can be no exception to this, so you cannot take unit 1 only, or unit 2 only and receive 6 credits, that is not possible (for Erasmus students, please see below).
@@ -124,8 +126,8 @@ Whenever needed, I can meet students out of the office hours.
 
 #### Previous Editions
 
-- **A.A. 2023-24**
-  - **[Google Classroom](https://classroom.google.com/c/NjIzNTcyNDQ1OTk5?cjc=w2alm6o)**: Enroll to stay updated about the course.
+- **A.A. 2024-25 [Google Classroom](https://classroom.google.com/c/NzExMDI3NTU1ODMx?cjc=6liexth)**
 
-- **A.A. 2022-23**
-  - **[Google Classroom](https://classroom.google.com/c/NTM4NjE5NTc0NDYx?cjc=f6gyif7)**: Enroll to stay updated about the course.
+- **A.A. 2023-24 [Google Classroom](https://classroom.google.com/c/NjIzNTcyNDQ1OTk5?cjc=w2alm6o)**
+
+- **A.A. 2022-23 [Google Classroom](https://classroom.google.com/c/NTM4NjE5NTc0NDYx?cjc=f6gyif7)**
