@@ -79,11 +79,18 @@
   ],
   "awards": [
     {
+      "title": "Special Mention for Best Young Researcher Award in Theoretical Computer Science",
+      "date": "2025-08-30",
+      "awarder": "IC-EATCS: Italian Chapter of the European Association for Theoretical Computer Science",
+      "url": "https://www.eatcs.org/index.php/italian-chapter-awards",
+      "summary": "The prize is awarded to the 'best Young Italian researcher in Theoretical Computer Science.'"
+    },
+    {
       "title": "Young Researcher 'Marco Somalvico' Award",
       "date": "2023-11-08",
       "awarder": "AIxIA: Italian Association for Artificial Intelligence",
       "url": "https://aixia.it/premi/premio-intelligenza-artificiale-marco-somalvico-biennale/",
-      "summary": "The prize is awarded to the 'best under 37 Italian researcher who autonomously contributed to advance the state-of-the-art in Artificial Intelligence.'"
+      "summary": "The prize is awarded to the 'best Young Italian researcher who autonomously contributed to advance the state-of-the-art in Artificial Intelligence.'"
     },
     {
       "title": "3+2 Award",
