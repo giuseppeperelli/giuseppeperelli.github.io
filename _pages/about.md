@@ -32,6 +32,11 @@ In 2023, I received the **["Marco Somalvico" Young Researcher Award](https://aix
 
 In 2012, I received the **[3+2 Award](https://www.ailalogica.it/pdf/premi/relazione3+2-2012.pdf)** from the Italian Association for Logics and its Applications, for Best Master Thesis in Logics.
 
+#### Editorial Work
+
+- Associate Editor of the [ACM AI Letters](https://dl.acm.org/journal/ailet).
+- Topic Editor for [Verifying Autonomy: Formal Methods for Reliable Decision-Making](https://www.frontiersin.org/research-topics/72722/verifying-autonomy-formal-methods-for-reliable-decision-making).
+
 ##### Memberships
 
 - I am member of [AIxIA](https://aixia.it/), Italian Association for Artificial Intelligence.
