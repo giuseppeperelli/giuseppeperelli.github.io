@@ -32,12 +32,18 @@ category: current
 
 #### Classroom and Timetable
 
- - TBA
+Aula De Lollis 3 - RM158-E01PTEL003
+
+ - Monday: 15:00 -- 18:00
+ - Friday: 16:00 -- 18:00
 
 ##### Office hour
 
- - TBA
+Office hour is **<span style="color:red">by appointment</span>**. It will start on Wednesday 24th September as follows.
 
+- Wednesdays: from 10:00 to 12:00 at Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.
+
+It is possible to setup meetings in other time slots, if needed.
 
 #### **Course content**
 
