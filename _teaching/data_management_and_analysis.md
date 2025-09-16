@@ -39,9 +39,9 @@ Aula De Lollis 3 - RM158-E01PTEL003
 
 ##### Office hour
 
-Office hour is **<span style="color:red">by appointment</span>**. It will start on Wednesday 24th September as follows.
+Office hour is **<span style="color:red">by appointment</span>**. It will start on Friday 26th September as follows.
 
-- Wednesdays: from 10:00 to 12:00 at Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.
+- Fridays: from 14:00 to 16:00 at Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.
 
 It is possible to setup meetings in other time slots, if needed.
 
