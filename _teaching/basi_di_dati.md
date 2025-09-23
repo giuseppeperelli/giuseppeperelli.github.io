@@ -31,7 +31,7 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 
 ##### **<span style="color:red"> Annunci importanti </span>**
 
- - TBA
+ - A causa di altri impegni lavorativi, **le lezioni di Lunedì 27 Ottobre e Mercoledì 29 Ottobre sono annullate**. Salvo ulteriori modifiche, le lezioni riprendono Lunedì 3 Novembre.
 
 
 ##### Aule e Orario delle lezioni
@@ -63,9 +63,7 @@ Aula De Lollis 4 - RM158-E01PTEL004
 
 #### Diario del corso
 
- - TBA
-
-<!--  - **23-09-2024** - Il modello relazionale di una base di dati. -->
+ - **22-09-2025** - Il modello relazionale di una base di dati.
 <!--  - **26-09-2024** - Algebra Relazionale: Proiezione, Selezione, operazioni Union Compatibili, Prodotto Cartesiano, Join Naturale. -->
 <!--  - **30-09-2024** - Algebra Relazionale: Prodotto Cartesiano, join naturale, \\(\theta\\)-join, Quantificazione Universale. -->
 <!--  - **03-10-2024** - Algebra Relazionale: Esercitazione. -->

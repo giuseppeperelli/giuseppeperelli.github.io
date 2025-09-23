@@ -28,7 +28,7 @@ category: current
 
 ##### **<span style="color:red"> Important News </span>**
 
- - TBA
+ - Due to other work duties, the **lectures on Monday 27th October and Friday 31st October** are cancelled. Unless otherwise stated, classes will resume on Monday 3rd November.
 
 #### Classroom and Timetable
 
@@ -58,9 +58,7 @@ It is possible to setup meetings in other time slots, if needed.
 
 #### Course diary
 
- - TBA
-
-<!--  - **26-09-2024** - Relational Model: basic concepts and definitions. -->
+ - **22-09-2025** - Relational Model: basic concepts and definitions.
 <!--  - **01-10-2024** - Relational Algebra: Projection, Selection, Union Compatible operations, Cartesian Product, natural join, \\(\theta-join\\). -->
 <!--  - **03-10-2024** - Relational Algebra: Universal Quantification. -->
 <!--  - **08-10-2024** - Relational Algebra: Exercises. -->

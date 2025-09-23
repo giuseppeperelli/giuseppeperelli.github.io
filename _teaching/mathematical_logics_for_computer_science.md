@@ -3,7 +3,7 @@ layout: page
 title: Mathematical Logics for Computer Science
 description: CdS Computer Science
 img: assets/img/mlcs.png
-importance: 2
+importance: 3
 redirect: https://sites.google.com/uniroma1.it/mlcs2324/
 category: current
 ---
