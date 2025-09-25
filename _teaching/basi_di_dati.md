@@ -64,7 +64,7 @@ Aula De Lollis 4 - RM158-E01PTEL004
 #### Diario del corso
 
  - **22-09-2025** - Il modello relazionale di una base di dati.
-<!--  - **26-09-2024** - Algebra Relazionale: Proiezione, Selezione, operazioni Union Compatibili, Prodotto Cartesiano, Join Naturale. -->
+ - **24-09-2025** - Algebra Relazionale: Proiezione, Selezione, operazioni Union Compatibili, Prodotto Cartesiano, Join Naturale.
 <!--  - **30-09-2024** - Algebra Relazionale: Prodotto Cartesiano, join naturale, \\(\theta\\)-join, Quantificazione Universale. -->
 <!--  - **03-10-2024** - Algebra Relazionale: Esercitazione. -->
 <!--  - **07-10-2024** - Algebra Relazionale: Esercitazione - Teoria Relazionale: ridondanza e anomalie di gestione. -->

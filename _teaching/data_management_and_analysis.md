@@ -45,6 +45,13 @@ Office hour is **<span style="color:red">by appointment</span>**. It will start 
 
 It is possible to setup meetings in other time slots, if needed.
 
+##### Tutor
+
+The student from previous year Gianmaria Romano has been assigned as *tutor* for the course. He is available to meet the students to discuss the content of the course in preparation for the exam. This includes both theory and exercises. You can [get in touch](mailto:romano.2105539@studenti.uniroma1.it?subject=Tutoring appointment for Data Management and Analysis) directly with him. Meetngs work by appointment and are generally taking place in the following slot:
+
+- Tuesdays: from 10:00 to 12:00
+
+
 #### **Course content**
 
 - Introduction to DBMS
