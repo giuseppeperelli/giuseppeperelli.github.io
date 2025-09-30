@@ -8,7 +8,7 @@ category: current
 ---
 
  - **Instructor**: Giuseppe Perelli
- - **[Google Classroom](https://classroom.google.com/c/MjM0ODU1NDU5MzBa?cjc=dheeuwiy)**: Enroll to stay updated about the course.
+ - **[Google Classroom](https://classroom.google.com/c/MjM0ODU1NDU5MzBa?cjc=uygvvjxi)**: Enroll to stay updated about the course.
 <!--   - **Codice OPIS**: SN4A9A6Q ([Vademecum](https://www.uniroma1.it/en/pagina/student-opinion-survey-opis)) -->
 
 ------
@@ -66,8 +66,8 @@ The tutor for the course is **Gianmaria Romano**. He is available to meet the st
 #### Course diary
 
  - **22-09-2025** - Relational Model: basic concepts and definitions.
-<!--  - **01-10-2024** - Relational Algebra: Projection, Selection, Union Compatible operations, Cartesian Product, natural join, \\(\theta-join\\). -->
-<!--  - **03-10-2024** - Relational Algebra: Universal Quantification. -->
+ - **26-09-2025** - Relational Algebra: Projection, Selection, Union Compatible operations, Cartesian Product, natural join, \\(\theta-join\\).
+ - **29-09-2025** - Relational Algebra: Universal Quantification. Exercises.
 <!--  - **08-10-2024** - Relational Algebra: Exercises. -->
 <!--  - **10-10-2024** - Relational Theory: relation schemas, instances, functional dependences, closure, keys. -->
 <!--  - **15-10-2024** - Relational Theory: Armstrong's Axioms, closure of \\(X\\), equivalence \\(F^+ = F^A\\). -->

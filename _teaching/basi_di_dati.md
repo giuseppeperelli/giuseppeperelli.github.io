@@ -8,7 +8,7 @@ category: current
 ---
 
  - **Docente**: Giuseppe Perelli
- - **[Google Classroom](https://classroom.google.com/c/MjE2NTE2ODM2NDNa?cjc=y4ttfq5k)**: Iscriviti per restare aggiornato sul corso.
+ - **[Google Classroom](https://classroom.google.com/c/MjE2NTE2ODM2NDNa?cjc=kqhvdk3j)**: Iscriviti per restare aggiornato sul corso.
 <!--  - **[Canale M-Z](https://sites.google.com/a/di.uniroma1.it/basidati-modulo1-mz/home-page)**: da qui è possibile accedere al sito del corso per il canale M-Z, della [Prof.ssa De Marsico](https://sites.google.com/a/di.uniroma1.it/maria-de-marsico/), contenente ulteriori informazioni e materiale didattico. -->
 <!--   - **Codice OPIS**: 6RDTX5S6 ([Vademecum](https://www.uniroma1.it/it/pagina/rilevazione-opinioni-studenti-opis)) -->
  
@@ -65,7 +65,7 @@ Aula De Lollis 4 - RM158-E01PTEL004
 
  - **22-09-2025** - Il modello relazionale di una base di dati.
  - **24-09-2025** - Algebra Relazionale: Proiezione, Selezione, operazioni Union Compatibili, Prodotto Cartesiano, Join Naturale.
-<!--  - **30-09-2024** - Algebra Relazionale: Prodotto Cartesiano, join naturale, \\(\theta\\)-join, Quantificazione Universale. -->
+ - **29-09-2025** - Algebra Relazionale: Prodotto Cartesiano, join naturale, \\(\theta\\)-join, Quantificazione Universale.
 <!--  - **03-10-2024** - Algebra Relazionale: Esercitazione. -->
 <!--  - **07-10-2024** - Algebra Relazionale: Esercitazione - Teoria Relazionale: ridondanza e anomalie di gestione. -->
 <!--  - **10-10-2024** - Teoria Relazionale: schemi relazionali, tuple, istanze, dipendenze funzionali, chiusura di \\(F\\), chiavi. -->
