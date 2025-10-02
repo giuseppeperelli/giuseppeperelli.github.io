@@ -28,6 +28,8 @@ category: current
 
 ##### **<span style="color:red"> Important News </span>**
 
+ - Due to possible transport and other services interruption, as well as to allow everyone to participate to the national strike and demonstrations, **the lecture of Friday 3rd October is cancelled**. Classes will resume regularly on Monday 6th October.
+
  - Due to other work duties, the **lectures on Monday 27th October and Friday 31st October** are cancelled. Unless otherwise stated, classes will resume on Monday 3rd November.
 
 #### Classroom and Timetable
