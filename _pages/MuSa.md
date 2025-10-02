@@ -57,6 +57,10 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 #### 2025
 
+**19/10/2025** - [TBA]()
+
+**12/10/2025** - [The Sapiens Suite - Accademia Nazionale dei Lincei]()
+
 **30/06/2025** - [Classica al Tramonto](https://news.uniroma1.it/node/12683)
 
 **25/05/2025** - [De Rossi Music Festival](https://www.instagram.com/p/DJlvAe9Nccw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
