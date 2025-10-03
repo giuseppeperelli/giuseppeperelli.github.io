@@ -113,7 +113,7 @@ The tutor for the course is **Gianmaria Romano**. He is available to meet the st
     |   29              |     24         |
     |   30              |     24         |
 
-  - The final mark can be adjusted by taking an *optional** oral part. The oral exam can **add or subtract** up to 10 points from the written score.
+  - The final mark can be adjusted by taking an *optional* oral part. The oral exam can **add or subtract** up to 10 points from the written score.
   - **<span style="color:red">WARNING</span>**: although optional, **I reserve the right to call some students to the oral exam** whenever I *deem it appropriate*.
   - The oral part consists into questions about:
     - Definitions and basics about Relational Theory
