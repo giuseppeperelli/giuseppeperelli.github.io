@@ -70,7 +70,7 @@ The tutor for the course is **Gianmaria Romano**. He is available to meet the st
  - **22-09-2025** - Relational Model: basic concepts and definitions.
  - **26-09-2025** - Relational Algebra: Projection, Selection, Union Compatible operations, Cartesian Product, natural join, \\(\theta-join\\).
  - **29-09-2025** - Relational Algebra: Universal Quantification. Exercises.
-<!--  - **08-10-2024** - Relational Algebra: Exercises. -->
+ - **06-10-2025** - Relational Theory: relation schemas, instances, functional dependences, closure, keys.
 <!--  - **10-10-2024** - Relational Theory: relation schemas, instances, functional dependences, closure, keys. -->
 <!--  - **15-10-2024** - Relational Theory: Armstrong's Axioms, closure of \\(X\\), equivalence \\(F^+ = F^A\\). -->
 <!--  - **17-10-2024** - Relational Theory: Third normal form (3NF). -->

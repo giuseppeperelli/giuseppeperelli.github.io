@@ -66,8 +66,8 @@ Aula De Lollis 4 - RM158-E01PTEL004
  - **22-09-2025** - Il modello relazionale di una base di dati.
  - **24-09-2025** - Algebra Relazionale: Proiezione, Selezione, operazioni Union Compatibili, Prodotto Cartesiano, Join Naturale.
  - **29-09-2025** - Algebra Relazionale: Prodotto Cartesiano, join naturale, \\(\theta\\)-join, Quantificazione Universale.
-<!--  - **03-10-2024** - Algebra Relazionale: Esercitazione. -->
-<!--  - **07-10-2024** - Algebra Relazionale: Esercitazione - Teoria Relazionale: ridondanza e anomalie di gestione. -->
+ - **01-10-2025** - Algebra Relazionale: Esercitazione - Teoria Relazionale: ridondanza e anomalie di gestione.
+ - **06-10-2025** - Teoria Relazionale: schemi relazionali, tuple, istanze, dipendenze funzionali, chiusura di F, chiavi.
 <!--  - **10-10-2024** - Teoria Relazionale: schemi relazionali, tuple, istanze, dipendenze funzionali, chiusura di \\(F\\), chiavi. -->
 <!--  - **14-10-2024** - Teoria Relazionale: Assiomi di Armstrong, chiusura di \\(X\\), equivalenza \\(F^+=F^A\\). -->
 <!--  - **17-10-2024** - Teoria Relazionale: 3NF. -->
