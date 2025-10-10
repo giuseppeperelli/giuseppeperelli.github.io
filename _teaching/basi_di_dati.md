@@ -31,7 +31,8 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 
 ##### **<span style="color:red"> Annunci importanti </span>**
 
- - A causa di altri impegni lavorativi, **le lezioni di Lunedì 27 Ottobre e Mercoledì 29 Ottobre sono annullate**. Salvo ulteriori modifiche, le lezioni riprendono Lunedì 3 Novembre.
+ - A causa di altri impegni lavorativi, **le lezioni di Lunedì 27 Ottobre e Mercoledì 29 Ottobre sono annullate**
+ - Per consentire lo svolgimento degli appelli starodinari, **le lezioni di Lunedì 3 Novembre e Mercoledì 5 Novembre sono annullate**. Il corso riprenderà regolarmente da Lunedì 10 Novembre.
 
 
 ##### Aule e Orario delle lezioni
@@ -68,7 +69,7 @@ Aula De Lollis 4 - RM158-E01PTEL004
  - **29-09-2025** - Algebra Relazionale: Prodotto Cartesiano, join naturale, \\(\theta\\)-join, Quantificazione Universale.
  - **01-10-2025** - Algebra Relazionale: Esercitazione - Teoria Relazionale: ridondanza e anomalie di gestione.
  - **06-10-2025** - Teoria Relazionale: schemi relazionali, tuple, istanze, dipendenze funzionali, chiusura di F, chiavi.
-<!--  - **10-10-2024** - Teoria Relazionale: schemi relazionali, tuple, istanze, dipendenze funzionali, chiusura di \\(F\\), chiavi. -->
+ - **08-10-2025** - Teoria Relazionale: Assiomi di Armstrong, chiusura di X. Esercitazione su Algebra Relazionale.
 <!--  - **14-10-2024** - Teoria Relazionale: Assiomi di Armstrong, chiusura di \\(X\\), equivalenza \\(F^+=F^A\\). -->
 <!--  - **17-10-2024** - Teoria Relazionale: 3NF. -->
 <!--  - **28-10-2024** - Teoria Relazionale: 3NF e BCNF. Esercitazione di Algebra Relazionale. -->
