@@ -49,6 +49,26 @@ Aula De Lollis 4 - RM158-E01PTEL004
   - Venerdì: dalle 14:00 alle 16:00 al Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.
 
   In caso di necessità, si può concordare un appuntamento fuori dall'orario di ricevimento.
+
+  <center>
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ1d9MlxvLxrlBg1Mwklw45roPB8BjyPYIr06Toa85h4Oiylubj9wKQAQQS_NOe5i0Joshw15G_q?gv=true',
+      color: '#039BE5',
+      label: 'Prenota un appuntamento',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
+</center>
  
 #### Programma
 

@@ -47,6 +47,27 @@ Office hour is **<span style="color:red">by appointment</span>**. It will start 
 
 It is possible to setup meetings in other time slots, if needed.
 
+<center>
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ1d9MlxvLxrlBg1Mwklw45roPB8BjyPYIr06Toa85h4Oiylubj9wKQAQQS_NOe5i0Joshw15G_q?gv=true',
+      color: '#039BE5',
+      label: 'Book an appointment',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
+</center>
+
+
 ##### Tutor
 
 The tutor for the course is **Gianmaria Romano**. He is available to meet the students to discuss the content of the course in preparation for the exam. This includes both theory and exercises. You can [get in touch](mailto:romano.2105539@studenti.uniroma1.it?subject=Tutoring appointment for Data Management and Analysis) directly with him. Meetngs work by appointment and are generally taking place in the following slot:
