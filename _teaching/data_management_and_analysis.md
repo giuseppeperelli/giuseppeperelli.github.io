@@ -29,8 +29,8 @@ category: current
 ##### **<span style="color:red"> Important News </span>**
 
  - Due to possible transport and other services interruption, as well as to allow everyone to participate to the national strike and demonstrations, **the lecture of Friday 3rd October is cancelled**. Classes will resume regularly on Monday 6th October.
- - Due to other work duties, the **lectures on Monday 27th October and Friday 31st October are cancelled**.
- - To allow the regular carrying out of extraordinary exams, the **lecture on Monday 3rd November is cancelled**. Lectures will resume regularly on Friday 7th November.
+ - Due to other work duties, the **lectures on Friday 24th and Monday 27th October are cancelled**.
+ - To allow the regular carrying out of extraordinary exams, the **lectures on Friday 31st October and Monday 3rd November are cancelled**. Lectures will resume regularly on Friday 7th November.
 
 #### Classroom and Timetable
 
@@ -93,7 +93,7 @@ The tutor for the course is **Gianmaria Romano**. He is available to meet the st
  - **29-09-2025** - Relational Algebra: Universal Quantification. Exercises.
  - **06-10-2025** - Relational Theory: relation schemas, instances, functional dependences, closure, keys.
  - **10-10-2025** - Relational Theory: Armstrong's Axioms, closure of \\(X\\), equivalence \\(F^+ = F^A\\).
-<!--  - **17-10-2024** - Relational Theory: Third normal form (3NF). -->
+ - **13-10-2025** - Relational Theory: Third normal form (3NF).
 <!--  - **29-10-2024** - Relational Theory: 3NF and BCNF. Exercises on Relational Algebra. -->
 <!--  - **31-10-2024** - Relational Theory: Computing the closure of \\(X\\). -->
 <!--  - **05-11-2024** - Relational Theory: Checking Keys and 3NF. Dependence preservation. -->
