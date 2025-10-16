@@ -91,7 +91,7 @@ Aula De Lollis 4 - RM158-E01PTEL004
  - **06-10-2025** - Teoria Relazionale: schemi relazionali, tuple, istanze, dipendenze funzionali, chiusura di F, chiavi.
  - **08-10-2025** - Teoria Relazionale: Assiomi di Armstrong, chiusura di X. Esercitazione su Algebra Relazionale.
  - **13-10-2025** - Teoria Relazionale: equivalenza \\(F^+=F^A\\).
-<!--  - **17-10-2024** - Teoria Relazionale: 3NF. -->
+ - **15-10-2025** - Teoria Relazionale: 3NF e BCNF.
 <!--  - **28-10-2024** - Teoria Relazionale: 3NF e BCNF. Esercitazione di Algebra Relazionale. -->
 <!--  - **31-10-2024** - Teoria Relazionale: Chiusura di \\(X\\), calcolo delle chiavi e verifica della 3NF, esercitazione su chiavi e 3NF. -->
 <!--  - **04-11-2024** - Teoria Relazionale: Esercitazione sulla ricerca di chiavi e verifica della 3NF. -->

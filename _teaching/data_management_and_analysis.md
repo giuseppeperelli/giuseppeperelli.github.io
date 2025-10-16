@@ -72,7 +72,7 @@ It is possible to setup meetings in other time slots, if needed.
 
 The tutor for the course is **Gianmaria Romano**. He is available to meet the students to discuss the content of the course in preparation for the exam. This includes both theory and exercises. You can [get in touch](mailto:romano.2105539@studenti.uniroma1.it?subject=Tutoring appointment for Data Management and Analysis) directly with him. Meetngs work by appointment and are generally taking place in the following slot:
 
-- Tuesdays: from 10:00 to 12:00 Room S1, Department of Computer Science, Viale Regina Elena, 295, Building E
+- Thursdays: from 10:00 to 12:00 Room S1, Department of Computer Science, Viale Regina Elena, 295, Building E
 
 
 #### **Course content**
