@@ -69,7 +69,15 @@ Aula De Lollis 4 - RM158-E01PTEL004
 </script>
 <!-- end Google Calendar Appointment Scheduling -->
 </center>
- 
+
+##### Tutor
+
+La tutor del corso è **Federica Sardo**. La tutor è disponibile per incontrare gli studenti e discutere esercizi e altri contenuti del corso. Potete [scriverle](mailto:sardo.1760539@studenti.uniroma1.it?subject=Appuntamento tutorato per Basi di Dati Modulo 1) direttamente un'email per concordare un appuntamento. Lo slot assegnato per questa attività è come segue:
+
+- Martedì: dalle 11:00 alle 13:00 Aula 1L, Viale del Castro Laurenziano
+
+Fatta eccezione per il 28 Ottobre e 4 Novembre, in cui l'aula è assegnata ad altre attività didattiche.
+
 #### Programma
 
 - Introduzione ai sistemi di gestione di basi di dati
@@ -78,7 +86,7 @@ Aula De Lollis 4 - RM158-E01PTEL004
 - Il modello relazionale
   - Concetti di base: dominio, attributo, relazione, n-upla, schema. I linguaggi di interrogazione (algebra relazionale, linguaggi relazionalmente completi). Teoria della normalizzazione. Dipendenze funzionali. Chiave di una relazione Terza forma normale. Assiomi di Armstrong e chiusura di un insieme di dipendenze. Chiusura di un insieme di attributi. Copertura minimale di un insieme di dipendenze. Scomposizioni che hanno un join senza perdita. Scomposizioni che preservano le dipendenze.
 - L’organizzazione fisica dei dati
-  - La memoria secondaria. Record fisici e record logici. Puntatori. Blocchi. File heap. File hash. File con indice (ISAM). B-tree
+  - La memoria secondaria. Record fisici e record logici. Puntatori. Blocchi. File heap. File hash. File con indice (ISAM). B-tree.
 <!-- La gestione della concorrenza -->
 <!--   - Transazioni. Schedule seriale. Serializzabilità. Modelli di transazioni e meccanismi di locking. Livelock e deadlock. Protocolli a due fasi. Protocolli conservativi e aggressivi. Dati “sporchi”. Rollback a cascata. Timestamp.-->
 
@@ -91,8 +99,8 @@ Aula De Lollis 4 - RM158-E01PTEL004
  - **06-10-2025** - Teoria Relazionale: schemi relazionali, tuple, istanze, dipendenze funzionali, chiusura di F, chiavi.
  - **08-10-2025** - Teoria Relazionale: Assiomi di Armstrong, chiusura di X. Esercitazione su Algebra Relazionale.
  - **13-10-2025** - Teoria Relazionale: equivalenza \\(F^+=F^A\\).
- - **15-10-2025** - Teoria Relazionale: 3NF e BCNF.
-<!--  - **28-10-2024** - Teoria Relazionale: 3NF e BCNF. Esercitazione di Algebra Relazionale. -->
+ - **15-10-2025** - Teoria Relazionale: La terza forma normale (3NF).
+ - **20-10-2025** - Teoria Relazionale: La forma normale di Boyce-Codd (BCNF), Chiusura di \\(X\\).
 <!--  - **31-10-2024** - Teoria Relazionale: Chiusura di \\(X\\), calcolo delle chiavi e verifica della 3NF, esercitazione su chiavi e 3NF. -->
 <!--  - **04-11-2024** - Teoria Relazionale: Esercitazione sulla ricerca di chiavi e verifica della 3NF. -->
 <!--  - **07-11-2024** - Teoria Relazionale: decomposizioni che preservano \\(F\\). Calcolo di \\(X^{+}_{G}\\) tramite \\(F\\). Verifica  che una decomposizione preserva \\(F\\). -->

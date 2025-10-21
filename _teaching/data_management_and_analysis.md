@@ -94,8 +94,8 @@ The tutor for the course is **Gianmaria Romano**. He is available to meet the st
  - **06-10-2025** - Relational Theory: relation schemas, instances, functional dependences, closure, keys.
  - **10-10-2025** - Relational Theory: Armstrong's Axioms, closure of \\(X\\), equivalence \\(F^+ = F^A\\).
  - **13-10-2025** - Relational Theory: Third normal form (3NF).
-<!--  - **29-10-2024** - Relational Theory: 3NF and BCNF. Exercises on Relational Algebra. -->
-<!--  - **31-10-2024** - Relational Theory: Computing the closure of \\(X\\). -->
+ - **17-10-2025** - Relational Theory: 3NF and BCNF.
+ - **20-10-2025** - Relational Theory: Computing the closure of \\(X\\), Checking Keys and 3NF.
 <!--  - **05-11-2024** - Relational Theory: Checking Keys and 3NF. Dependence preservation. -->
 <!--  - **07-11-2024** - Relational Theory: Dependence preservation, Computing \\(X^{+}_{G}\\) from \\(F\\). -->
 <!--  - **12-11-2024** - Relational Theory: Exercises on checking that a given decomposition preserves \\(F\\). Lossless join. -->
