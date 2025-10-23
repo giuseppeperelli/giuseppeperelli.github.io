@@ -101,7 +101,7 @@ Fatta eccezione per il 28 Ottobre e 4 Novembre, in cui l'aula è assegnata ad al
  - **13-10-2025** - Teoria Relazionale: equivalenza \\(F^+=F^A\\).
  - **15-10-2025** - Teoria Relazionale: La terza forma normale (3NF).
  - **20-10-2025** - Teoria Relazionale: La forma normale di Boyce-Codd (BCNF), Chiusura di \\(X\\).
-<!--  - **31-10-2024** - Teoria Relazionale: Chiusura di \\(X\\), calcolo delle chiavi e verifica della 3NF, esercitazione su chiavi e 3NF. -->
+ - **22-10-2025** - Teoria Relazionale: Chiusura di \\(X\\), calcolo delle chiavi e verifica della 3NF, esercitazione su chiavi e 3NF.
 <!--  - **04-11-2024** - Teoria Relazionale: Esercitazione sulla ricerca di chiavi e verifica della 3NF. -->
 <!--  - **07-11-2024** - Teoria Relazionale: decomposizioni che preservano \\(F\\). Calcolo di \\(X^{+}_{G}\\) tramite \\(F\\). Verifica  che una decomposizione preserva \\(F\\). -->
 <!--  - **11-11-2024** - Teoria Relazionale: eserizi sulla verifica che una decomposizione preserva \\(F\\). -->
