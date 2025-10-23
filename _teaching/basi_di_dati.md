@@ -74,7 +74,7 @@ Aula De Lollis 4 - RM158-E01PTEL004
 
 La tutor del corso è **Federica Sardo**. La tutor è disponibile per incontrare gli studenti e discutere esercizi e altri contenuti del corso. Potete [scriverle](mailto:sardo.1760539@studenti.uniroma1.it?subject=Appuntamento tutorato per Basi di Dati Modulo 1) direttamente un'email per concordare un appuntamento. Lo slot assegnato per questa attività è come segue:
 
-- Martedì: dalle 11:00 alle 13:00 Aula 1L, Viale del Castro Laurenziano
+- Giovedì: dalle 9:00 alle 12:00 Aula 2L, Viale del Castro Laurenziano
 
 Fatta eccezione per il 28 Ottobre e 4 Novembre, in cui l'aula è assegnata ad altre attività didattiche.
 
