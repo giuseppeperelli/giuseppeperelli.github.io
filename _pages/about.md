@@ -23,7 +23,7 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome to my Website! I am an **Associate Professor** at [Dipartimento di Informatica](http://www.di.uniroma1.it/), Universit&agrave; di Roma, La Sapienza.
 
-My [research interests](/research) regard many aspects of **Formal Methods for Artificial Intelligence**. In particular, I work on verification and synthesis for multi-agent systems, knowledge representation, strategic reasoning, logics, games, and automata theory.
+My research interests regard many aspects of **Formal Methods for Artificial Intelligence**. In particular, I work on verification and synthesis for multi-agent systems, knowledge representation, strategic reasoning, logics, games, and automata theory.
 
 ##### Awards
 In 2025, I received a Special Mention for [Best Young Researcher Award in Theoretical Computer Science](https://www.eatcs.org/index.php/italian-chapter-awards/) from [IC-EATCS](https://www.eatcs.org/index.php/italian-chapter).
