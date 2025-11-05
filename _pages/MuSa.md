@@ -57,11 +57,15 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 #### 2025
 
-**19/10/2025** - [TBA]()
+**20/12/2025** - [TBA]()
+
+**03/11/2025** - [Cittadinanza digitale e responsabilità](https://www.uniroma1.it/it/notizia/cittadinanza-digitale-e-responsabilita-discorsi-dodio-e-violenza-di-genere-online) - [YouTube Live](https://www.youtube.com/watch?v=7CdBJJ0r71U)
+
+**19/10/2025** - [Refice Jazz Festival](https://www.conservatoriofrosinone.it/cons/index.php/produzione-artistica/eventi/eventdetail/177/-/refice-jazz-festival-19-10-2025)
 
 **12/10/2025** - [The Sapiens Suite - Accademia Nazionale dei Lincei](https://www.associazioneamicilincei.it/domeniche-di-musa-25-26-concerto-the-sapiens-suite-12-10-2025/)
 
-**30/06/2025** - [Classica al Tramonto](https://news.uniroma1.it/node/12683)
+**30/06/2025** - [Classica al Tramonto](https://news.uniroma1.it/node/12683) - [YouTube Live](https://www.youtube.com/watch?v=V3IUh6xCB1E)
 
 **25/05/2025** - [De Rossi Music Festival](https://www.instagram.com/p/DJlvAe9Nccw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
