@@ -33,6 +33,7 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 
  - A causa di altri impegni lavorativi, **le lezioni di Lunedì 27 Ottobre e Mercoledì 29 Ottobre sono annullate**
  - Per consentire lo svolgimento degli appelli starodinari, **le lezioni di Lunedì 3 Novembre e Mercoledì 5 Novembre sono annullate**. Il corso riprenderà regolarmente da Lunedì 10 Novembre.
+ - A causa di altri appuntamenti, **l'orario di ricevimento è stato spostato**. Controllare il nuovo orario nella sezione dedicata.
 
 
 ##### Aule e Orario delle lezioni
@@ -44,9 +45,10 @@ Aula De Lollis 4 - RM158-E01PTEL004
 
 ##### Ricevimento
 
-  Il ricevimento è **<span style="color:red">previo appuntamento</span>**. Inizierà Venerdì 26 Settembre in orario e data come segue.
+  Il ricevimento è **<span style="color:red">previo appuntamento</span>**. <del>Inizierà Venerdì 26 Settembre in orario e data come segue.</del>
 
-  - Venerdì: dalle 14:00 alle 16:00 al Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.
+  - <del>Venerdì: dalle 14:00 alle 16:00 al Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.</del>
+  - Giovedì: dalle 12:00 alle 14:00 al Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.
 
   In caso di necessità, si può concordare un appuntamento fuori dall'orario di ricevimento.
 
@@ -102,9 +104,8 @@ Fatta eccezione per il 28 Ottobre e 4 Novembre, in cui l'aula è assegnata ad al
  - **15-10-2025** - Teoria Relazionale: La terza forma normale (3NF).
  - **20-10-2025** - Teoria Relazionale: La forma normale di Boyce-Codd (BCNF), Chiusura di \\(X\\).
  - **22-10-2025** - Teoria Relazionale: Chiusura di \\(X\\), calcolo delle chiavi e verifica della 3NF, esercitazione su chiavi e 3NF.
-<!--  - **04-11-2024** - Teoria Relazionale: Esercitazione sulla ricerca di chiavi e verifica della 3NF. -->
-<!--  - **07-11-2024** - Teoria Relazionale: decomposizioni che preservano \\(F\\). Calcolo di \\(X^{+}_{G}\\) tramite \\(F\\). Verifica  che una decomposizione preserva \\(F\\). -->
-<!--  - **11-11-2024** - Teoria Relazionale: eserizi sulla verifica che una decomposizione preserva \\(F\\). -->
+ - **10-11-2025** - Teoria Relazionale: decomposizioni che preservano \\(F\\).
+<!--  - **11-11-2024** - Teoria Relazionale:  Calcolo di \\(X^{+}_{G}\\) tramite \\(F\\). Verifica  che una decomposizione preserva \\(F\\). esercizi sulla verifica che una decomposizione preserva \\(F\\). -->
 <!--  - **14-11-2024** - Teoria Relazionale: Join Senza Perdita, definizione e algoritmo di verifica. -->
 <!--  - **18-11-2024** - Teoria Relazionale: esercitazione sulla verifica che che una decomposizione preserva \\(F\\) o abbia un join senza perdita. -->
 <!--  - **21-11-2024** - Teoria Relazionale: Copertura minimale. Calcolo di una copertura minimale. -->

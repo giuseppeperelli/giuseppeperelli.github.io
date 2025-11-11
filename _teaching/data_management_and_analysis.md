@@ -31,6 +31,7 @@ category: current
  - Due to possible transport and other services interruption, as well as to allow everyone to participate to the national strike and demonstrations, **the lecture of Friday 3rd October is cancelled**. Classes will resume regularly on Monday 6th October.
  - Due to other work duties, the **lectures on Friday 24th and Monday 27th October are cancelled**.
  - To allow the regular carrying out of extraordinary exams, the **lectures on Friday 31st October and Monday 3rd November are cancelled**. Lectures will resume regularly on Friday 7th November.
+ - Due to other work constraints, the **office hour time has been moved**. Check the Office hour section for the new schedule.
 
 #### Classroom and Timetable
 
@@ -41,9 +42,10 @@ Aula De Lollis 3 - RM158-E01PTEL003
 
 ##### Office hour
 
-Office hour is **<span style="color:red">by appointment</span>**. It will start on Friday 26th September as follows.
+Office hour is **<span style="color:red">by appointment</span>**. <del>It will start on Friday 26th September as follows</del>.
 
-- Fridays: from 14:00 to 16:00 at Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.
+- <del>Fridays: from 14:00 to 16:00 at Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.</del>
+- Thursdays: from 12:00 to 14:00 at Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.
 
 It is possible to setup meetings in other time slots, if needed.
 
@@ -96,9 +98,9 @@ The tutor for the course is **Gianmaria Romano**. He is available to meet the st
  - **13-10-2025** - Relational Theory: Third normal form (3NF).
  - **17-10-2025** - Relational Theory: 3NF and BCNF.
  - **20-10-2025** - Relational Theory: Computing the closure of \\(X\\), Checking Keys and 3NF.
-<!--  - **05-11-2024** - Relational Theory: Checking Keys and 3NF. Dependence preservation. -->
-<!--  - **07-11-2024** - Relational Theory: Dependence preservation, Computing \\(X^{+}_{G}\\) from \\(F\\). -->
-<!--  - **12-11-2024** - Relational Theory: Exercises on checking that a given decomposition preserves \\(F\\). Lossless join. -->
+ - **07-11-2025** - Relational Theory: Dependence preservation.
+ - **10-11-2024** - Relational Theory: Dependence preservation, Computing \\(X^{+}_{G}\\) from \\(F\\). Exercises on checking that a given decomposition preserves \\(F\\).
+<!--  - **12-11-2024** - Relational Theory: Lossless join. -->
 <!--  - **14-11-2024** - Relational Theory: Checking Lossless Join Decompositions (Algorithm). -->
 <!--  - **21-11-2024** - Relational Theory: Checking Lossless Join Decompositions (Exercises). -->
 <!--  - **26-11-2024** - Relational Theory: Minimal covers and Decompositions. -->
