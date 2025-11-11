@@ -36,7 +36,7 @@
 
 "De Giacomo": 
   - firstname: ["Giuseppe", "G."]
-    url: http://www.diag.uniroma1.it//degiacom/
+    url: https://www.cs.ox.ac.uk/people/giuseppe.degiacomo
     
 "Di Stasio": 
   - firstname: ["Antonio", "A."]
@@ -48,7 +48,7 @@
     
 "Fernandez-Gil":
   - firstname: ["Oliver", "O."]
-    url: https://lat.inf.tu-dresden.de/~fernandez/
+    url: https://lat.inf.tu-dresden.de/~fernandez
     
 "Fontaine": 
   - firstname: ["Gaelle", "G."]
@@ -68,35 +68,35 @@
     
 "Harrenstein": 
   - firstname: ["Paul", "P.", "P. B."]
-    url: https://www.cs.ox.ac.uk/people/paul.harrenstein/
+    url: https://www.cs.ox.ac.uk/people/paul.harrenstein
 
 "Hyland":
   - firstname: ["David", "D."]
-    url: https://www.cs.ox.ac.uk/people/david.hyland/
+    url: https://www.cs.ox.ac.uk/people/david.hyland
 
 "Jamroga":
   - firstname: ["Wojtek", "W."]
-    url: https://home.ipipan.waw.pl/w.jamroga/
+    url: https://home.ipipan.waw.pl/w.jamroga
     
 "Kraus": 
-  - firstname: ["Sarit", "P."]
-    url: https://u.cs.biu.ac.il/~krauss/
+  - firstname: ["Sarit", "S."]
+    url: https://u.cs.biu.ac.il/~krauss
     
 "Kwiatkowska": 
   - firstname: ["Marta", "M.", "M. Z."]
-    url: https://www.cs.ox.ac.uk/people/marta.kwiatkowska/
+    url: https://www.cs.ox.ac.uk/people/marta.kwiatkowska
     
 "Kupferman": 
   - firstname: ["Orna", "O."]
-    url: https://www.cs.huji.ac.il/~ornak/
+    url: https://www.cs.huji.ac.il/~ornak
 
 "Labella":
   - firstname: ["Anna", "A."]
-    url: http://wwwusers.di.uniroma1.it/~labella/
+    url: http://wwwusers.di.uniroma1.it/~labella
 
 "Logan":
   - firstname: ["Brian", "B."]
-    url: https://alechina-logan.net/brian/
+    url: https://alechina-logan.net/brian
 
 "Marchioni":
   - firstname: ["Enrico", "E."]
@@ -104,18 +104,18 @@
     
 "Markey":
   - firstname: ["Nicolas", "M."]
-    url: http://people.irisa.fr/Nicolas.Markey/
+    url: http://people.irisa.fr/Nicolas.Markey
     
 "Maubert":
   - firstname: ["Bastien", "B."]
-    url: http://www.bastien-maubert.fr/
+    url: http://www.bastien-maubert.fr
 "Mittelmann":
   - firstname: ["Munyque", "M."]
     url: https://sites.google.com/view/mittelmann
     
 "Mogavero":
   - firstname: ["Fabio", "F."]
-    url: https://www.fabiomogavero.com/
+    url: https://www.fabiomogavero.com
 
 "Molinari":
   - firstname: ["Alberto", "A."]
@@ -123,7 +123,7 @@
     
 "Montali":
   - firstname: ["Marco", "M."]
-    url: http://www.inf.unibz.it/~montali/
+    url: http://www.inf.unibz.it/~montali
     
 "Montanari":
   - firstname: ["Angelo", "A."]
@@ -131,15 +131,15 @@
     
 "Murano":
   - firstname: ["Aniello", "A."]
-    url: http://people.na.infn.it/~murano/
+    url: http://people.na.infn.it/~murano
     
 "Najib":
   - firstname: ["Muhammad", "M."]
-    url: https://valvestate.github.io/
+    url: https://valvestate.github.io
     
 "Patrizi":
   - firstname: ["Fabio", "F."]
-    url: http://www.diag.uniroma1.it//~patrizi/
+    url: http://www.diag.uniroma1.it//~patrizi
     
 "Peron":
   - firstname: ["Adriano", "A."]
@@ -147,7 +147,7 @@
 
 "Piterman":
   - firstname: ["Nir", "N."]
-    url: http://www.cse.chalmers.se/~piterman/
+    url: http://www.cse.chalmers.se/~piterman
     
 "Rubin":
   - firstname: ["Sasha", "S."]
@@ -159,7 +159,7 @@
     
 "Steeples":
   - firstname: ["Thomas", "T."]
-    url: https://www.thomassteeples.co.uk/
+    url: https://www.thomassteeples.co.uk
 
 "Toumi":
   - firstname: ["Alexis", "A."]
@@ -171,16 +171,16 @@
     
 "Vardi":
   - firstname: ["Moshe", "M.", "M. Y."]
-    url: https://www.cs.rice.edu/~vardi/
+    url: https://www.cs.rice.edu/~vardi
 
 "Varricchione":
   - firstname: ["Giovanni", "G."]
-    url: https://giovannivarr.github.io/
+    url: https://giovannivarr.github.io
     
 "Wooldridge":
   - firstname: ["Michael", "M.", "M. J."]
-    url: https://www.cs.ox.ac.uk/people/michael.wooldridge/
+    url: https://www.cs.ox.ac.uk/people/michael.wooldridge
     
 "Zhu":
   - firstname: ["Shufang", "S."]
-    url: https://shufang-zhu.github.io/
+    url: https://shufang-zhu.github.io
