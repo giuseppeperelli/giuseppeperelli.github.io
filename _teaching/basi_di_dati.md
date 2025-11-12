@@ -105,7 +105,7 @@ Fatta eccezione per il 28 Ottobre e 4 Novembre, in cui l'aula è assegnata ad al
  - **20-10-2025** - Teoria Relazionale: La forma normale di Boyce-Codd (BCNF), Chiusura di \\(X\\).
  - **22-10-2025** - Teoria Relazionale: Chiusura di \\(X\\), calcolo delle chiavi e verifica della 3NF, esercitazione su chiavi e 3NF.
  - **10-11-2025** - Teoria Relazionale: decomposizioni che preservano \\(F\\).
-<!--  - **11-11-2024** - Teoria Relazionale:  Calcolo di \\(X^{+}_{G}\\) tramite \\(F\\). Verifica  che una decomposizione preserva \\(F\\). esercizi sulla verifica che una decomposizione preserva \\(F\\). -->
+ - **12-11-2025** - Teoria Relazionale:  Calcolo di \\(X^{+}_{G}\\) tramite \\(F\\). Verifica  che una decomposizione preserva \\(F\\). esercizi sulla verifica che una decomposizione preserva \\(F\\).
 <!--  - **14-11-2024** - Teoria Relazionale: Join Senza Perdita, definizione e algoritmo di verifica. -->
 <!--  - **18-11-2024** - Teoria Relazionale: esercitazione sulla verifica che che una decomposizione preserva \\(F\\) o abbia un join senza perdita. -->
 <!--  - **21-11-2024** - Teoria Relazionale: Copertura minimale. Calcolo di una copertura minimale. -->
