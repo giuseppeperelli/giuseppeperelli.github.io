@@ -9,8 +9,8 @@ category: current
 
  - **Docente**: Giuseppe Perelli
  - **[Google Classroom](https://classroom.google.com/c/MjE2NTE2ODM2NDNa?cjc=kqhvdk3j)**: Iscriviti per restare aggiornato sul corso.
-<!--  - **[Canale M-Z](https://sites.google.com/a/di.uniroma1.it/basidati-modulo1-mz/home-page)**: da qui è possibile accedere al sito del corso per il canale M-Z, della [Prof.ssa De Marsico](https://sites.google.com/a/di.uniroma1.it/maria-de-marsico/), contenente ulteriori informazioni e materiale didattico. -->
-<!--   - **Codice OPIS**: 6RDTX5S6 ([Vademecum](https://www.uniroma1.it/it/pagina/rilevazione-opinioni-studenti-opis)) -->
+ - **[Canale M-Z](https://sites.google.com/a/di.uniroma1.it/basidati-modulo1-mz/home-page)**: da qui è possibile accedere al sito del corso per il canale M-Z, della [Prof.ssa De Marsico](https://sites.google.com/a/di.uniroma1.it/maria-de-marsico/), contenente ulteriori informazioni e materiale didattico.
+  - **Codice OPIS**: 57WYPQWX ([Vademecum](https://www.uniroma1.it/it/pagina/rilevazione-opinioni-studenti-opis))
  
 ------
 

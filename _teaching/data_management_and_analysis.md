@@ -9,7 +9,7 @@ category: current
 
  - **Instructor**: Giuseppe Perelli
  - **[Google Classroom](https://classroom.google.com/c/MjM0ODU1NDU5MzBa?cjc=uygvvjxi)**: Enroll to stay updated about the course.
-<!--   - **Codice OPIS**: SN4A9A6Q ([Vademecum](https://www.uniroma1.it/en/pagina/student-opinion-survey-opis)) -->
+ - **OPIS Code**: 0XNUNW8Z ([Vademecum](https://www.uniroma1.it/en/pagina/student-opinion-survey-opis))
 
 ------
 
