@@ -21,18 +21,19 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome to my Website! I am an **Associate Professor** at [Dipartimento di Informatica](http://www.di.uniroma1.it/), Universit&agrave; di Roma, La Sapienza.
+Welcome to my Website! I am an **Associate Professor** at [Dipartimento di Informatica](http://www.di.uniroma1.it/), Universit&agrave; di Roma, La Sapienza, where I lead the [AuRALab](https://auralabsapienza.github.io/).
 
 My research interests regard many aspects of **Formal Methods for Artificial Intelligence**. In particular, I work on verification and synthesis for multi-agent systems, knowledge representation, strategic reasoning, logics, games, and automata theory.
 
 ##### Awards
-In 2025, I received a Special Mention for [Best Young Researcher Award in Theoretical Computer Science](https://www.eatcs.org/index.php/italian-chapter-awards/) from [IC-EATCS](https://www.eatcs.org/index.php/italian-chapter).
 
-In 2023, I received the **["Marco Somalvico" Young Researcher Award](https://aixia.it/premi/premio-intelligenza-artificiale-marco-somalvico-biennale/)** from the Italian Association for Artificial Intelligence as best Young Italian researchers who autonomously contributed to advance the state-of-the-art in the field.
+- In 2025, I received a Special Mention for **[Best Young Researcher Award in TCS](https://www.eatcs.org/index.php/italian-chapter-awards/)** from [IC-EATCS](https://www.eatcs.org/index.php/italian-chapter).
 
-In 2012, I received the **[3+2 Award](https://www.ailalogica.it/pdf/premi/relazione3+2-2012.pdf)** from the Italian Association for Logics and its Applications, for Best Master Thesis in Logics.
+- In 2023, I received the **["Marco Somalvico" Young Researcher Award](https://aixia.it/premi/premio-intelligenza-artificiale-marco-somalvico-biennale/)** from the Italian Association for Artificial Intelligence as best Young Italian researchers who autonomously contributed to advance the state-of-the-art in the field.
 
-#### Editorial Work
+- In 2012, I received the **[3+2 Award](https://www.ailalogica.it/pdf/premi/relazione3+2-2012.pdf)** from the Italian Association for Logics and its Applications, for Best Master Thesis in Logics.
+
+##### Editorial Work
 
 - Associate Editor of the [ACM AI Letters](https://dl.acm.org/journal/ailet).
 - Topic Editor for [Verifying Autonomy: Formal Methods for Reliable Decision-Making](https://www.frontiersin.org/research-topics/72722/verifying-autonomy-formal-methods-for-reliable-decision-making).
@@ -40,7 +41,7 @@ In 2012, I received the **[3+2 Award](https://www.ailalogica.it/pdf/premi/relazi
 ##### Memberships
 
 - I am member of [AIxIA](https://aixia.it/), Italian Association for Artificial Intelligence.
-- I am member of [GNCS](https://www.altamatematica.it/gncs), Italian Association for Scientific Calculus.
+<!-- - I am member of [GNCS](https://www.altamatematica.it/gncs), Italian Association for Scientific Calculus. -->
 - I support [CAIRNE](https://cairne.eu/).
 
 
