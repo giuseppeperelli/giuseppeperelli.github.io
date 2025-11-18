@@ -101,7 +101,7 @@ The tutor for the course is **Gianmaria Romano**. He is available to meet the st
  - **07-11-2025** - Relational Theory: Dependence preservation.
  - **10-11-2024** - Relational Theory: Dependence preservation, Computing \\(X^{+}_{G}\\) from \\(F\\). Exercises on checking that a given decomposition preserves \\(F\\).
  - **14-11-2025** - Relational Theory: Lossless join.
-<!--  - **14-11-2024** - Relational Theory: Checking Lossless Join Decompositions (Algorithm). -->
+ - **17-11-2025** - Relational Theory: Checking Lossless Join Decompositions (Algorithm). Exercises on decompositions preserving F and having a lossless join. Exercises on Relational Algebra.
 <!--  - **21-11-2024** - Relational Theory: Checking Lossless Join Decompositions (Exercises). -->
 <!--  - **26-11-2024** - Relational Theory: Minimal covers and Decompositions. -->
 <!--  - **28-11-2024** - Relational Theory: Finding a decomposition of a relational schema. -->
