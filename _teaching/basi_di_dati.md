@@ -34,6 +34,7 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
  - A causa di altri impegni lavorativi, **le lezioni di Lunedì 27 Ottobre e Mercoledì 29 Ottobre sono annullate**
  - Per consentire lo svolgimento degli appelli starodinari, **le lezioni di Lunedì 3 Novembre e Mercoledì 5 Novembre sono annullate**. Il corso riprenderà regolarmente da Lunedì 10 Novembre.
  - A causa di altri appuntamenti, **l'orario di ricevimento è stato spostato**. Controllare il nuovo orario nella sezione dedicata.
+ - La lezione di Mercoledì 26 Novembre è **anticipata a Martedì 25 Novembre dalle 13:00 alle 16:00**. Per questa occasione inizieremo puntuali alle 13:00.
 
 
 ##### Aule e Orario delle lezioni
@@ -107,7 +108,7 @@ Fatta eccezione per il 28 Ottobre e 4 Novembre, in cui l'aula è assegnata ad al
  - **10-11-2025** - Teoria Relazionale: decomposizioni che preservano \\(F\\).
  - **12-11-2025** - Teoria Relazionale:  Calcolo di \\(X^{+}_{G}\\) tramite \\(F\\). Verifica  che una decomposizione preserva \\(F\\). esercizi sulla verifica che una decomposizione preserva \\(F\\).
  - **17-11-2025** - Teoria Relazionale: Join Senza Perdita, definizione e proprietà.
-<!--  - **18-11-2024** - Teoria Relazionale: verifica del Join Senza Perdita. esercitazione sulla verifica che che una decomposizione preserva \\(F\\) o abbia un join senza perdita. -->
+ - **19-11-2025** - Teoria Relazionale: Join Senza Perdita, algoritmo di verifica. Esercitazione sulla verifica che che una decomposizione abbia un JSP.
 <!--  - **21-11-2024** - Teoria Relazionale: Copertura minimale. Calcolo di una copertura minimale. -->
 <!--  - **25-11-2024** - Teoria Relazionale: Calcolo di una decomposizione. Esercizi sul calcolo di una decoposizione. -->
 <!--  - **28-11-2024** - Organizzazione Fisica: Metodi Heap, Sequenziale e Hashing. -->
