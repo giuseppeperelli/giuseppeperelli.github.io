@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome to my Website! I am an **Associate Professor** at [Dipartimento di Informatica](http://www.di.uniroma1.it/), Universit&agrave; di Roma, La Sapienza, where I lead the [AuRALab](https://auralabsapienza.github.io/).
+Welcome to my Website! I am an **Associate Professor** at [Dipartimento di Informatica](http://www.di.uniroma1.it/), Universit&agrave; di Roma, La Sapienza, where I coordinate the [AuRALab](https://auralabsapienza.github.io/).
 
 My research interests regard many aspects of **Formal Methods for Artificial Intelligence**. In particular, I work on verification and synthesis for multi-agent systems, knowledge representation, strategic reasoning, logics, games, and automata theory.
 
