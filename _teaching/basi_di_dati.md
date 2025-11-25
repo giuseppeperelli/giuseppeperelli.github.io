@@ -109,7 +109,7 @@ Fatta eccezione per il 28 Ottobre e 4 Novembre, in cui l'aula è assegnata ad al
  - **12-11-2025** - Teoria Relazionale:  Calcolo di \\(X^{+}_{G}\\) tramite \\(F\\). Verifica  che una decomposizione preserva \\(F\\). esercizi sulla verifica che una decomposizione preserva \\(F\\).
  - **17-11-2025** - Teoria Relazionale: Join Senza Perdita, definizione e proprietà.
  - **19-11-2025** - Teoria Relazionale: Join Senza Perdita, algoritmo di verifica. Esercitazione sulla verifica che che una decomposizione abbia un JSP.
-<!--  - **21-11-2024** - Teoria Relazionale: Copertura minimale. Calcolo di una copertura minimale. -->
+ - **24-11-2025** - Algebra e Teoria Relazionale: Esercitazioni.
 <!--  - **25-11-2024** - Teoria Relazionale: Calcolo di una decomposizione. Esercizi sul calcolo di una decoposizione. -->
 <!--  - **28-11-2024** - Organizzazione Fisica: Metodi Heap, Sequenziale e Hashing. -->
 <!--  - **02-12-2024** - Organizzazione Fisica: Organizzazione a indice (ISAM). -->
