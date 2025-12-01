@@ -104,7 +104,7 @@ The tutor for the course is **Gianmaria Romano**. He is available to meet the st
  - **17-11-2025** - Relational Theory: Checking Lossless Join Decompositions (Algorithm). Exercises on decompositions preserving F and having a lossless join. Exercises on Relational Algebra.
  - **21-11-2025** - Relational Theory: Minimal covers.
  - **24-11-2025** - Relational Theory: Finding Decompositions.
-<!--  - **28-11-2024** - Relational Theory: Finding a decomposition of a relational schema. -->
+ - **28-11-2025** - Relational Theory: Exercises: finding a decomposition of a relational schema.
 <!--  - **03-12-2024** - Physical Organization: Heap, Sequential, and Hash files. -->
 <!--  - **05-12-2024** - Physical Organization: Exercises on file organization. -->
 <!--  - **10-12-2024** - Physical Organization: B-trees. -->
