@@ -105,7 +105,7 @@ The tutor for the course is **Gianmaria Romano**. He is available to meet the st
  - **21-11-2025** - Relational Theory: Minimal covers.
  - **24-11-2025** - Relational Theory: Finding Decompositions.
  - **28-11-2025** - Relational Theory: Exercises: finding a decomposition of a relational schema.
-<!--  - **03-12-2024** - Physical Organization: Heap, Sequential, and Hash files. -->
+ - **01-12-2025** - Physical Organization: Heap, Sequential, and Hash files.
 <!--  - **05-12-2024** - Physical Organization: Exercises on file organization. -->
 <!--  - **10-12-2024** - Physical Organization: B-trees. -->
 <!--  - **12-12-2024** - Physical Organization: Exercises on file organizations. -->
