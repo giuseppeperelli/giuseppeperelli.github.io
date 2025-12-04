@@ -112,7 +112,7 @@ Fatta eccezione per il 28 Ottobre e 4 Novembre, in cui l'aula è assegnata ad al
  - **24-11-2025** - Algebra e Teoria Relazionale: Esercitazioni.
  - **25-11-2025** - Teoria Relazionale: Copertura minimale. Calcolo di una copertura minimale. Calcolo di una decomposizione.
  - **01-12-2025** - Teoria Relazionale: Esercizi sul calcolo di una copertura minimale e di una decoposizione.
-<!--  - **02-12-2024** - Organizzazione Fisica: Organizzazione a indice (ISAM). -->
+ - **03-12-2025** - Organizzazione Fisica: Metodi Heap, Sequenziale e Hashing.
 <!--  - **09-12-2024** - Organizzazione Fisica: Organizzazione B-tree. -->
 <!--  - **12-12-2024** - Organizzazione Fisica: Esercitazione. -->
 <!--  - **16-12-2024** - Teoria Relazionale: rivisitazione del teorema \\(F^+=F^A\\). -->
