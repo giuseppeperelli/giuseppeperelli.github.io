@@ -108,7 +108,7 @@ The tutor for the course is **Gianmaria Romano**. He is available to meet the st
  - **01-12-2025** - Physical Organization: Heap, Sequential, and Hash files.
  - **05-12-2025** - Physical Organization: Indexed files. Exercises on file organization.
  - **12-12-2025** - Physical Organization: B-trees.
-<!--  - **12-12-2024** - Physical Organization: Exercises on file organizations. -->
+ - **15-12-2025** - Exercises on file organizations, relational theory, and relational algebra.
 <!--  - **17-12-2024** - Exam Simulation. -->
 <!--  - **19-12-2024** - Relational Theory: Recap on decomposition preserving dependencies. -->
 
