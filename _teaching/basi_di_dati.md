@@ -115,8 +115,7 @@ Fatta eccezione per il 28 Ottobre e 4 Novembre, in cui l'aula è assegnata ad al
  - **03-12-2025** - Organizzazione Fisica: Metodi Heap, Sequenziale e Hashing.
  - **10-12-2025** - Organizzazione Fisica: Organizzazione a indice (ISAM).
  - **15-12-2024** - Organizzazione Fisica: Organizzazione B-tree.
-<!--  - **16-12-2024** - Teoria Relazionale: rivisitazione del teorema \\(F^+=F^A\\). -->
-<!--  - **19-12-2024** - Simulazione della prova scritta. -->
+ - **17-12-2025** - Esercitazione sui quesiti del compito scritto.
 
 #### Modalità d'esame
 
