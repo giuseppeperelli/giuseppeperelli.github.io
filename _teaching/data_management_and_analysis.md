@@ -109,8 +109,7 @@ The tutor for the course is **Gianmaria Romano**. He is available to meet the st
  - **05-12-2025** - Physical Organization: Indexed files. Exercises on file organization.
  - **12-12-2025** - Physical Organization: B-trees.
  - **15-12-2025** - Exercises on file organizations, relational theory, and relational algebra.
-<!--  - **17-12-2024** - Exam Simulation. -->
-<!--  - **19-12-2024** - Relational Theory: Recap on decomposition preserving dependencies. -->
+ - **19-12-2025** - Relational Theory: Recap on equivalence \\(F^+ = F^A\\).
 
 #### Examination rules
 - The exam for Unit 1 consists to a written part and an oral part.
