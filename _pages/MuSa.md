@@ -55,9 +55,21 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 ## Events
 
+#### 2026
+
+**09/07/2026** - [TBA]()
+
+**04/06/2026** - [TBA]()
+
+**22/04/2026** - [TBA]()
+
+**20/04/2026** - [TBA]()
+
+**02/03/2026** - [TBA]()
+
 #### 2025
 
-**20/12/2025** - [TBA]()
+**20/12/2025** - [Natale sotto l'albero - Auditorium Parco della Musica](https://www.auditorium.com/it/event/musajazz-orchestra/)
 
 **03/11/2025** - [Cittadinanza digitale e responsabilità](https://www.uniroma1.it/it/notizia/cittadinanza-digitale-e-responsabilita-discorsi-dodio-e-violenza-di-genere-online) - [YouTube Live](https://www.youtube.com/watch?v=7CdBJJ0r71U)
 
