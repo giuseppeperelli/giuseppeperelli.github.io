@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   logo: di-inline-transparent.png
-  image: DIChair.jpg
+  image: bistrot.jpg
   address: >
     <p><i class="material-icons">work</i>Dept. of Computer Science, Sapienza University of Rome</p>
     <p>Building E, Room E106</p>
