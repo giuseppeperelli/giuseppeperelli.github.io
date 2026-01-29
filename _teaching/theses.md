@@ -23,7 +23,7 @@ The topics cover several areas of AI, Formal Methods, and Multi-Agent Systems, i
 Below, a list of textbooks to get a more detailed view on these topics:
 
  - [Reasoning about Knowledge](https://mitpress.mit.edu/9780262562003/reasoning-about-knowledge/) \[Fagin, Moses, Halpern, Vardi, 1995\]
- - [Languages Automata and Logic](https://www.irif.fr/~serre/Files/thomas96_handbook.pdf) \[Thomas, 1996\]
+ - [Languages Automata and Logic](https://www.irif.fr/~serre/Files/thomas96_handbook.pdf) \[Thomas, 1996\] (**Free access**)
  - [Infinite Words](https://shop.elsevier.com/books/infinite-words/perrin/978-0-12-532111-2) \[Perrin, Pin, 2002\]
  - [An Introduction to Multi-Agent Systems](https://www.wiley.com/en-be/An+Introduction+to+MultiAgent+Systems%2C+2nd+Edition-p-9780470519462) \[Wooldridge, 2002\]
  - [Artificial Intelligence: a Modern Approach](https://aima.cs.berkeley.edu/) \[Norvig, Russell, 2016\]
@@ -42,7 +42,7 @@ Also, check my [publications](/publications) to find topics of your interest.
 
 #### Bachelor Theses
 
-Due to the **theoretical nature of the topics**, which are typically **not covered** in the undergraduate programmes (both Informatica and ACSAI), I do not recommend taking these subjects for a possible bachelor thesis. However, exceptions are possible if you show a strong interest in these content.
+Due to the **theoretical nature of the topics**, which are typically **not covered** in the undergraduate programmes (both Informatica and ACSAI), I do not recommend taking these subjects for a possible bachelor thesis. However, exceptions are possible if you show a strong interest in the subject.
 
 #### Approach policy
 
@@ -50,5 +50,5 @@ Before contacting me for a possible thesis supervision, please make sure of the 
 
 - You have **no more than 2 exams left to take** before graduation;
 - You have consulted at least one of the *textbooks listed above*, to have a clear idea of the type of work you are going/willing to take. Notice that the last reference is access free;
-- \[desirable but not mandatory\] You already have an idea for a topic.
+- *desirable but not mandatory* You already have an idea for a topic.
 - Notice that I do **not** work in Machine Learning. Please, take a look at the reference list above before contacting me about possible these.
