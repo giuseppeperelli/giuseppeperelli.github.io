@@ -29,6 +29,16 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 - [Tracce esami precedenti](https://drive.google.com/drive/folders/1oM1vfoahHk9_7yUsAkjScHhQ43AUx-8T?usp=sharing)
 - [Simulazioni d'esame](https://drive.google.com/drive/folders/1pS9mx_8nD_AJ3J4s7EcgOYSkfVucxWcm?usp=sharing)
 
+
+##### **<span style="color:red">Risultati Appello Febbraio 2026</span>**
+
+Gli scritti del 5 Febbraio sono stati corretti e i risultati sono consultabili a [questo link](https://drive.google.com/file/d/1cP_Nx_QHSIh0HMcbC-6GoLDq4RZg9Unh/view?usp=sharing).
+
+ - È stata inviata un'email a tutti gli studenti. Coloro che hanno superato lo scritto e vogliono sostenere anche l'orale possono rispondere all'email che hanno ricevuto entro Lunedì 9 Febbraio. Procederò successivamente a stilare il calendario degli orali, che inizieranno il 12 Febbraio e proseguiranno fino a esaurimento.
+
+ - Gli studenti che vogliono visionare il compito possono farlo durante gli orali oppure chiedermi un appuntamento in un altro momento. Vi chiedo però la cortesia di scrivermi **soltanto dopo il 9 Febbraio**, per evitare un sovraccarico di messaggi da leggere e a cui rispondere.
+
+
 ##### **<span style="color:red"> Annunci importanti </span>**
 
  - A causa di altri impegni lavorativi, **le lezioni di Lunedì 27 Ottobre e Mercoledì 29 Ottobre sono annullate**
