@@ -26,6 +26,14 @@ category: current
 - [Exam simulations](https://drive.google.com/drive/folders/1OoCmqzMN04iTN4foI8suPfceJRLaTjlc?usp=sharing)
 - [Past exams sheets](https://drive.google.com/drive/folders/1eHVjiabSOjRHNqRuM7ooAwpi0-hKfHcG?usp=sharing)
 
+
+##### **<span style="color:red"> Exam Calendar for the Session of February 2026 - Exam Reviews</span>**
+
+ - The oral exams for the session of February 2026 will take place on **Tuesday 10th of February at 9:00am** in my office. The list of students who will take the exam is available at [this link](https://drive.google.com/file/d/1iufjN54uF-bthg_c5xG28sVzPQodpZSk/view?usp=sharing)
+
+ - Exam review will take place on **Wednesday 11th of February at 15:00** in my office.
+
+
 ##### **<span style="color:red"> Important News </span>**
 
  - Due to possible transport and other services interruption, as well as to allow everyone to participate to the national strike and demonstrations, **the lecture of Friday 3rd October is cancelled**. Classes will resume regularly on Monday 6th October.
