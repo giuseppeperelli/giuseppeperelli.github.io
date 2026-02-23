@@ -65,7 +65,7 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 **20/04/2026** - [TBA]()
 
-**02/03/2026** - [TBA]()
+**02/03/2026** - [MuSa Jazz Meets: Refice Jazz ensemble](https://www.uniroma1.it/it/notizia/concerto-musa-jazz-meets)
 
 #### 2025
 
