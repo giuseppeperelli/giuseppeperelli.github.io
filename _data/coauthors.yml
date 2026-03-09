@@ -18,6 +18,10 @@
   - firstname: ["Benjamin", "B."]
     url: https://www.semanticscholar.org/author/Benjamin-Aminof/1807298
 
+"Betello":
+  - firstname: ["Filippo", "F."]
+    url: https://scholar.google.com/citations?user=ZjIo22MAAAAJ
+
 "Bottoni":
   - firstname: ["Paolo", "P."]
     url: https://www.di.uniroma1.it/it/docenti/bottoni-paolo
@@ -143,7 +147,7 @@
     
 "Peron":
   - firstname: ["Adriano", "A."]
-    url: https://www.docenti.unina.it/adriano.peron2
+    url: https://scholar.google.com/citations?user=MUYY0vYAAAAJ
 
 "Piterman":
   - firstname: ["Nir", "N."]
@@ -151,7 +155,15 @@
     
 "Rubin":
   - firstname: ["Sasha", "S."]
-    url: https://sasharubin.github.io/
+    url: https://sasharubin.github.io
+
+"Scarcelli":
+  - firstname: ["Domiziano", "D."]
+    url: https://github.com/DomizianoScarcelli
+
+"Silvestri":
+  - firstname: ["Fabrizio", "F."]
+    url: https://sites.google.com/diag.uniroma1.it/fabriziosilvestri/home
     
 "Sorrentino":
   - firstname: ["Loredana", "L."]
@@ -161,9 +173,13 @@
   - firstname: ["Thomas", "T."]
     url: https://www.thomassteeples.co.uk
 
+"Tolomei":
+  - firstname: ["Gabriele", "G."]
+    url: https://gabrieletolomei.netlify.app
+
 "Toumi":
   - firstname: ["Alexis", "A."]
-    url: https://alexis.toumi.xyz/
+    url: https://alexis.toumi.xyz
 
 "Turhan":
   - firstname: ["Anni-Yasmin", "Anni", "A.", "A-Y", "A. Y."]
