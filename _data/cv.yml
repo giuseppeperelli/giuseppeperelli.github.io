@@ -1,0 +1,81 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Giuseppe Perelli
+    - name: Languages
+      value: Italian (native), English (professional proficiency)
+    - name: Email
+      value: perelli@di.uniroma1.it
+      link: mailto:perelli@di.uniroma1.it
+      
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: (Tenure-Track) Assistant Professor
+      institution: Department of Computer Science, Sapienza University of Rome
+      year: 2021 - Present
+    
+    - title: Research Associate
+      institution: Department of Computer, Control, and Business Engineering, Sapienza University of Rome
+      year: 2020 - 2021
+    
+    - title: Postdoktor
+      institution: Department of Computer Science and Engineering Chalmers/University of Gothenburg.
+      year: 2019
+
+    - title: Research Associate
+      institution: Department of Informatics, University of Leicester
+      year: 2018-2019
+
+    - title: Research Assistant
+      institution: Department of Computer Science, University of Oxford
+      year: 2015 - 2018
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science
+      institution: University of Naples
+      year: 2015
+      thesis title: Logics for Multi-Agent Systems Verification
+      supervisor: Prof. Aniello Murano
+    - title: Ms in Mathematics
+      institution: University of Naples
+      year: 2011
+    - title: Bs in Mathematics
+      institution: University of Naples
+      year: 2008
+
+- title: Awards
+  type: time_table
+  contents:
+    - title: Marco Somalvico 2023 Award
+      institution: Italian Association for Artificial Intelligence
+      year: 2023
+      description: Best under 37 Italian researcher who autonomously contributed to advance the state-of-the-art in Artificial Intelligence
+    - title: 3+2 Award
+      institution: Italian Association for Logics and its Applications
+      year: 2012
+      description: Best Master Thesis in logics for the Academic Year 2011-2012
+      
+- title: Selected Talks
+  type: nested_list
+  contents:
+    - title: From Synthesis to Rational Synthesis A Logic-Based Approach to Multi-Agent Systems.
+      items:
+        - 25/05/2023 Seminar Talk, University of Southampton
+        - 14/11/2022 <a href:"https://sites.google.com/diag.uniroma1.it/loc3-seminar-sapienza/home-page">Sapienza LoC3 Seminar</a>, Sapienza University of Rome
+        - 02/09/2022 LMAS Workshop 2022, IRIT – Université Toulouse 1 Capitole
+        - 10/04/2019 Formal Methods for Artificial Intelligence Seminars, Imperial College London
+        - 29/03/2018 Seminar Talk, University of Naples ‘Federico II’
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
