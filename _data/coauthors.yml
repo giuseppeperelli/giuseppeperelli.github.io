@@ -34,6 +34,10 @@
   - firstname: ["Laura", "L."]
     url: https://www.docenti.unina.it/laura.bozzelli
 
+"Calamoneri":
+  - firstname: ["Tiziana", "T."]
+    url: https://calamo.di.uniroma1.it/
+
 "Dastani":
   - firstname: ["Mehdi", "M.", "M. M."]
     url: https://www.uu.nl/staff/mmdastani
@@ -141,6 +145,10 @@
   - firstname: ["Muhammad", "M."]
     url: https://valvestate.github.io
     
+"Paesani":
+  - firstname: ["Giacomo", "G."]
+    url: https://giacomopaesani.github.io/
+
 "Patrizi":
   - firstname: ["Fabio", "F."]
     url: http://www.diag.uniroma1.it//~patrizi
