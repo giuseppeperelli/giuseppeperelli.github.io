@@ -132,6 +132,28 @@
   ],
   "service": [
     {
+      "name": "Associate Editor",
+      "conference": [
+        {
+          "title": "ACM AI Letters, ",
+          "url": "https://dl.acm.org/journal/ailet"
+        },
+        {
+          "title": "Intelligenza Artificiale.",
+          "url": "https://aixia.it/en/rivista/"
+        }
+      ]
+    },
+    {
+      "name": "Topic Editor",
+      "conference": [
+        {
+          "title": "Verifying Autonomy: Formal Methods for Reliable Decision-Making",
+          "url": "https://www.frontiersin.org/research-topics/72722/verifying-autonomy-formal-methods-for-reliable-decision-making"
+        }
+      ]
+    },
+    {
       "name": "Chair",
       "conference": [
         {
@@ -188,10 +210,15 @@
     },
     {
       "name": "Programme Committee",
+
       "conference": [
         {
-          "title": "RADICAL-25, ",
+          "title": "RADICAL-26, ",
           "url": "https://sites.google.com/site/radicalconcur/Home"
+        },
+        {
+          "title": "RADICAL-25, ",
+          "url": "https://sites.google.com/site/radicalconcur/previous-editions/radical-2025"
         },
         {
           "title": "IJCAI-25, ",
