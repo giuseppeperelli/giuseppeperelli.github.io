@@ -35,6 +35,7 @@ My research interests regard many aspects of **Formal Methods for Artificial Int
 
 ##### Editorial Work
 
+- Associate Editor of [Intelligenza Artificiale](https://journals.sagepub.com/editorial-board/INA).
 - Associate Editor of the [ACM AI Letters](https://dl.acm.org/journal/ailet).
 - Topic Editor for [Verifying Autonomy: Formal Methods for Reliable Decision-Making](https://www.frontiersin.org/research-topics/72722/verifying-autonomy-formal-methods-for-reliable-decision-making).
 
