@@ -59,11 +59,11 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 **09/07/2026** - [TBA]()
 
-**04/06/2026** - [TBA]()
+**07/07/2026** - [Il valore della conoscenza: le esperienze della Terza missione in Sapienza](https://www.uniroma1.it/it/node/539540)
 
-**22/04/2026** - [TBA]()
+**22/04/2026** - [MuSa Jazz Meets: Rustica X Band - International Jazz Day](https://news.uniroma1.it/22052026_1900)
 
-**20/04/2026** - [TBA]()
+**20/04/2026** - [Inaugurazione Anno Accademico 2025-2026](https://www.uniroma1.it/it/notizia/inaugurazione-dellanno-accademico-2025-2026) - [YouTube Live](https://www.youtube.com/watch?v=_cV9irm7Gh4)
 
 **02/03/2026** - [MuSa Jazz Meets: Refice Jazz ensemble](https://www.uniroma1.it/it/notizia/concerto-musa-jazz-meets)
 
@@ -82,6 +82,8 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 **25/05/2025** - [De Rossi Music Festival](https://www.instagram.com/p/DJlvAe9Nccw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 **08/05/2025** - [Musa Jazz Meets: Polyband Zurich](https://sapienzacrea.web.uniroma1.it/it/musa-jazz-meets-musa-jazz-orchestra-e-polyband-la-giornata-internazionale-del-jazz-8-maggio-2025)
+
+**14/04/2025** - [Sapienza, 722° Anniversario dalla Fondazione](https://www.uniroma1.it/it/node/534616) - [YouTube Live](https://www.youtube.com/watch?v=UVz6EHHlmjE)
 
 **10/04/2025** - [MuSa Jazz Meets: Conservatorio Santa Cecilia](https://sapienzacrea.web.uniroma1.it/it/i-giovedi-della-musa-musa-jazz-meets-10-aprile-2025)
 
