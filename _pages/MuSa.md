@@ -57,7 +57,7 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 #### 2026
 
-**09/07/2026** - [TBA]()
+**09/07/2026** - [MuSa sotto le stelle](https://news.uniroma1.it/08072027_2100)
 
 **07/07/2026** - [Il valore della conoscenza: le esperienze della Terza missione in Sapienza](https://www.uniroma1.it/it/node/539540)
 
