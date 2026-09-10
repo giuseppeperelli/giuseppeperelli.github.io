@@ -27,6 +27,8 @@ My research interests regard many aspects of **Formal Methods for Artificial Int
 
 ##### Awards
 
+- In 2026, I received the **[Best Young Researcher Award in TCS](https://www.eatcs.org/index.php/italian-chapter-awards/)** from [IC-EATCS](https://www.eatcs.org/index.php/italian-chapter).
+
 - In 2025, I received a Special Mention for **[Best Young Researcher Award in TCS](https://www.eatcs.org/index.php/italian-chapter-awards/)** from [IC-EATCS](https://www.eatcs.org/index.php/italian-chapter).
 
 - In 2023, I received the **["Marco Somalvico" Young Researcher Award](https://aixia.it/premi/premio-intelligenza-artificiale-marco-somalvico-biennale/)** from the Italian Association for Artificial Intelligence as best Young Italian researchers who autonomously contributed to advance the state-of-the-art in the field.
@@ -42,7 +44,7 @@ My research interests regard many aspects of **Formal Methods for Artificial Int
 ##### Memberships
 
 - I am member of [AIxIA](https://aixia.it/), Italian Association for Artificial Intelligence.
-<!-- - I am member of [GNCS](https://www.altamatematica.it/gncs), Italian Association for Scientific Calculus. -->
+- I am member of [EATCS](https://www.eatcs.org/), the European Association for Theoretical Computer Science, and [IT-EATCS](https://www.eatcs.org/index.php/italian-chapter), the Italian Chapter of EATCS.
 - I support [CAIRNE](https://cairne.eu/).
 
 
