@@ -8,14 +8,9 @@ children:
   - title: Theses
     permalink: /theses
   - title: divider
-  - title: Game Theoretic Approach to Synthesis
-    permalink: /teaching/phdDI_game_theoretic_approach
-  - title: divider
   - title: Basi di Dati
     permalink: /teaching/basi_di_dati
-  - title: Data Management and Analysis
-    permalink: /teaching/data_management_and_analysis
-  - title: Mathematical Logics for Computer Science
+  - title: Logics and Reasoning
     permalink: /teaching/mathematical_logics_for_computer_science
   - title: divider
   - title: All teaching

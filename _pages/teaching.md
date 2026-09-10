@@ -5,7 +5,7 @@ permalink: /teaching/
 description:
 nav: false
 nav_order: 6
-display_categories: [current,phd,past]
+display_categories: [current,past,phd]
 horizontal: false
 ---
 

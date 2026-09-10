@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mathematical Logics for Computer Science
+title: Logics and Reasoning
 description: CdS Computer Science
 img: assets/img/mlcs.png
 importance: 3
