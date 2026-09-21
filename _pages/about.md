@@ -29,16 +29,13 @@ My research interests regard many aspects of **Formal Methods for Artificial Int
 
 - In 2026, I received the **[Best Young Researcher Award in TCS](https://www.eatcs.org/index.php/italian-chapter-awards/)** from [IC-EATCS](https://www.eatcs.org/index.php/italian-chapter) for the relevance, quality, and continuity of his scientific contributions in Theoretical Computer Science..
 
-- In 2025, I received a Special Mention for **[Best Young Researcher Award in TCS](https://www.eatcs.org/index.php/italian-chapter-awards/)** from [IC-EATCS](https://www.eatcs.org/index.php/italian-chapter).
-
 - In 2023, I received the **["Marco Somalvico" Young Researcher Award](https://aixia.it/premi/premio-intelligenza-artificiale-marco-somalvico-biennale/)** from the [Italian Association for Artificial Intelligence](https://aixia.it/) as best Young Italian researchers who autonomously contributed to advance the state-of-the-art in the field.
 
 - In 2012, I received the **[3+2 Award](https://www.ailalogica.it/pdf/premi/relazione3+2-2012.pdf)** from the Italian Association for Logics and its Applications, for Best Master Thesis in Logics.
 
-##### Editorial Work
+##### Current Editorial Work
 
 - Associate Editor of [Intelligenza Artificiale](https://journals.sagepub.com/editorial-board/INA).
-- Associate Editor of the [ACM AI Letters](https://dl.acm.org/journal/ailet).
 - Topic Editor for [Verifying Autonomy: Formal Methods for Reliable Decision-Making](https://www.frontiersin.org/research-topics/72722/verifying-autonomy-formal-methods-for-reliable-decision-making).
 
 ##### Memberships
