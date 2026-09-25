@@ -66,6 +66,7 @@ Informazioni sul tutor e sulle sue attività saranno consivise al più presto.
 #### Diario del Corso
 
  - **24-09-2026** - Introduzione ai sistemi informativi e alle basi di dati.
+ - **25-09-2026** - Introduzione ai Modelli di Dati e alla Progettazione.
 
 
 #### Modalità d'esame
