@@ -20,7 +20,7 @@ category: current
   - [B2] J. D. Ullman: Principles of Database & Knowledge-Base Systems, Vol. 1: Classical Database Systems
   - [B3] Lemahieu, W., vanden Broucke, S., & Baesens, B. (2018). Principles of Database Management: The Practical Guide to Storing, Managing and Analyzing Big and Small Data. Cambridge University Press
 
-- [Slides](_blank) **ATTENZIONE**: Il corso così articolato è alla sua prima edizione. Le slide sono in corso di stesura e saranno rese disponibili durante il corso, possibilmente prima della lezione corrispondente.
+- [Slide](https://drive.google.com/drive/folders/1D2UkVa0bAH6MqxrCavwOa1QntNzR3m0v?usp=sharing) **ATTENZIONE**: Il corso così articolato è alla sua prima edizione. Le slide sono in corso di stesura e saranno rese disponibili durante il corso, possibilmente prima della lezione corrispondente.
 
 ##### Aule e Orario delle lezioni
 
@@ -38,25 +38,9 @@ Aula De Lollis 4 - RM158-E01PTEL004
 
   In caso di necessità, si può concordare un appuntamento fuori dall'orario di ricevimento.
 
-  <center>
 <!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ1d9MlxvLxrlBg1Mwklw45roPB8BjyPYIr06Toa85h4Oiylubj9wKQAQQS_NOe5i0Joshw15G_q?gv=true',
-      color: '#039BE5',
-      label: 'Prenota un appuntamento',
-      target,
-    });
-  });
-})();
-</script>
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ1d9MlxvLxrlBg1Mwklw45roPB8BjyPYIr06Toa85h4Oiylubj9wKQAQQS_NOe5i0Joshw15G_q?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
 <!-- end Google Calendar Appointment Scheduling -->
-</center>
 
 ##### Tutor
 
@@ -64,7 +48,7 @@ Informazioni sul tutor e sulle sue attività saranno consivise al più presto.
 
 ##### Programma
 
-- Introduzione ai sistemi per basi di dati: I sistemi per basi di dati; Funzionalit dei DBMS; Definizione della base di dati; Uso della base di dati; Controllo della base di dati; Distribuzione della base di dati.
+- Introduzione ai sistemi per basi di dati: I sistemi per basi di dati; Funzionalità dei DBMS; Definizione della base di dati; Uso della base di dati; Controllo della base di dati; Distribuzione della base di dati.
 
 - I modelli dei dati: Progettazione e modellazione; Considerazioni preliminari alla modellazione; Il modello entità-relazione; Il modello relazionale.
 
@@ -81,7 +65,7 @@ Informazioni sul tutor e sulle sue attività saranno consivise al più presto.
 
 #### Diario del Corso
 
-TBA
+ - **24-09-2026** - Introduzione ai sistemi informativi e alle basi di dati.
 
 
 #### Modalità d'esame
