@@ -67,6 +67,7 @@ Informazioni sul tutor e sulle sue attività saranno consivise al più presto.
 
  - **24-09-2026** - Introduzione ai sistemi informativi e alle basi di dati.
  - **25-09-2026** - Introduzione ai Modelli di Dati e alla Progettazione.
+ - **28-09-2026** - La progettazione concettuale.
 
 
 #### Modalità d'esame
