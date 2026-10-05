@@ -70,6 +70,7 @@ Informazioni sul tutor e sulle sue attività saranno consivise al più presto.
  - **28-09-2026** - La progettazione concettuale.
  - **01-10-2026** - La Esercitazione sulla progettazione concettuale.
  - **02-10-2026** - Il modello relazionale. Ristruttrazione di un modello E-R.
+ - **05-10-2026** - Traduzione di un modello E-R in un modello relazionale.
 
 
 #### Modalità d'esame
