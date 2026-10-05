@@ -23,18 +23,18 @@ social: false  # includes social icons at the bottom of the page
 > (Duke Ellington)
 
 Besides my research and teaching activities, I am a huge passionate about [jazz](https://en.wikipedia.org/wiki/Jazz).
-In October 2023, I joined [MuSa Jazz Orchestra](https://sapienzacrea.web.uniroma1.it/musa-jazz) as a *Pianist*.
+In October 2023, I joined [MuSa Jazz Orchestra](https://nuovoteatroateneo.web.uniroma1.it/it/musa-jazz) as a *Pianist*.
 
 
 ##### MuSa - Musica Sapienza
 
-MuSa is the acronym for Musica Sapienza, a project born in 2006 under [Sapienza CREA](https://sapienzacrea.web.uniroma1.it/) to promote solidarity and culture through music. Its members include students, faculty, and administrative staff of this University, who thanks to MuSa can combine their commitment to study or work with their passion for music.
+MuSa is the acronym for Musica Sapienza, a project born in 2006 under Sapienza CREA and now affiliated to [Nuovo Teatro Ateneo](https://nuovoteatroateneo.web.uniroma1.it) to promote solidarity and culture through music. Its members include students, faculty, and administrative staff of this University, who thanks to MuSa can combine their commitment to study or work with their passion for music.
 
 It offers the chance to amateurs and professional musicians within the Sapienza community to join different orchestral or choral ensembles.
 
 MuSa performs in its own musical season and organizes partakes events for the University community on the occasion of Christmas, Carnival and institutional or celebratory events.
 It can also be requested to provide a musical setting for inaugural or convivial moments of conferences or other events organized by Departments or external institutions.
-More inforomation and contact available to the [official page of the project](https://sapienzacrea.web.uniroma1.it/musa).
+More inforomation and contact available to the [official page of the project](https://nuovoteatroateneo.web.uniroma1.it/it/musa).
 
 ##### MuSa Jazz Orchestra
 
@@ -45,17 +45,19 @@ Beside this, within the Big Band, a number of small ensembles - from duo to sept
 
 Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](https://www.facebook.com/profile.php?id=100063580660807) and [Instagram](https://www.instagram.com/musa_jazz_orchestra)!
 
-## Photo Gallery
+<!--## Photo Gallery
 
 **13/03/2025** - [MuSa Jazz Meets: Refice Jazz ensemble - Antonella Pagani](https://www.antonellapagani.it/musa_jazz_meets-p30847)
 
 **12/01/2025** - [Happy New Jazz Year! - Accademia Nazionale dei Lincei - Antonella Pagani](https://www.antonellapagani.it/musa_jazz_orchestra_happy_new_jazz_year-p30657)
 
-**21/04/2024** - [Jazz Idea Festival - Antonella Pagani](https://www.antonellapagani.it/musa_jazz_orchestra-p29626)
+**21/04/2024** - [Jazz Idea Festival - Antonella Pagani](https://www.antonellapagani.it/musa_jazz_orchestra-p29626)-->
 
 ## Events
 
 #### 2026
+
+**18/10/2026** - [Refice Jazz Festival 2026](https://www.conservatoriofrosinone.it/cons/index.php/produzione-artistica/eventi/eventdetail/273/-/reficejazzfestival-2026)
 
 **09/07/2026** - [MuSa sotto le stelle](https://news.uniroma1.it/08072027_2100)
 
@@ -73,7 +75,7 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 **03/11/2025** - [Cittadinanza digitale e responsabilità](https://www.uniroma1.it/it/notizia/cittadinanza-digitale-e-responsabilita-discorsi-dodio-e-violenza-di-genere-online) - [YouTube Live](https://www.youtube.com/watch?v=7CdBJJ0r71U)
 
-**19/10/2025** - [Refice Jazz Festival](https://www.conservatoriofrosinone.it/cons/index.php/produzione-artistica/eventi/eventdetail/177/-/refice-jazz-festival-19-10-2025)
+**19/10/2025** - [Refice Jazz Festival 2025](https://www.conservatoriofrosinone.it/cons/index.php/produzione-artistica/eventi/eventdetail/177/-/refice-jazz-festival-19-10-2025)
 
 **12/10/2025** - [The Sapiens Suite - Accademia Nazionale dei Lincei](https://www.associazioneamicilincei.it/domeniche-di-musa-25-26-concerto-the-sapiens-suite-12-10-2025/)
 
