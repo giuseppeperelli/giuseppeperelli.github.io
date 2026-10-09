@@ -44,7 +44,8 @@ Aula De Lollis 4 - RM158-E01PTEL004
 
 ##### Tutor
 
-Informazioni sul tutor e sulle sue attività saranno consivise al più presto.
+Il tutor per l'edizione corrente del corso è lo studente [Francesco Signori](mailto:signori.2179341@studenti.uniroma1.it).
+Svolgerà attività di esercitazione sia in aula che a gruppi, qualora richiesto.
 
 ##### Programma
 
@@ -62,6 +63,33 @@ Informazioni sul tutor e sulle sue attività saranno consivise al più presto.
 
 - Accenni a SQL per programmare le applicazioni: Linguaggi che ospitano SQL; Connessione alla base di dati; Comandi SQL; I cursori; Transazioni; Gestione della concorrenza.
 
+#### Modalità d'esame
+
+L'esame sarà costituito da un **progetto di base di dati** che può essere sviluppato in gruppo (*Max 4 studenti*)  da un **orale individuale**.
+
+Il progetto consiste nella formulazione di un modello dettagliato di base di dati, comprendente la sua strutturazione logica, la specifica dei vincoli di integrità e la sua normalizzazione. Inoltre è richiesta l'implementazione di query SQL sui dati progettati.
+La prova orale consiste nella **discussione** (*individuale*) del progetto e un'**interrogazione** sui concetti, le definizioni, e i teoremi affrontati durante il corso.
+
+Per quanto riguarda il progetto, il protocollo è il seguente:
+
+ - Non è necessario comunicare in anticipo la composizione dei gruppi;
+
+ - Le prenotazioni su INFOSTUD scadono **4 giorni prima** della data dell'appello;
+
+ - Alla scadenza delle prenotazioni viene *inviata la traccia* con in aggiunta il *link al google form* da utilizzare per la consegna;
+
+ - Alla data dell'appello (*improrogabilmente*) un rappresentante del gruppo compila il Google form con le informazioni su tutti i componenti del gruppo e un file pdf con il progetto. Gli schemi concettuali possono essere eventualmente prodotti tramite disegni a mano di cui inviare immagini;
+
+ - Dopo circa una settimana vengono pubblicati i risultati e il calendario degli orali;
+
+ - **Tutti i componenti di uno stesso gruppo devono sostenere l'esame orale nello stesso appello**;
+
+ - L'esame orale è individuale: comprende la discussione preliminare del progetto e,  in seguito all'eventuale risultato positivo, domande su tutto il programma del corso. **Ogni componente del gruppo deve dimostrare di conoscere i dettagli del progetto nella sua interezza e deve rispondere a qualunque domanda ad esso relativa**.
+
+Se un componente del gruppo non supera la discussione del progetto, deve *ripetere il progetto* con eventualmente un altro gruppo o da solo
+
+Se un componente del gruppo non supera l'orale successivo alla discussione del progetto, dovrà ripetere il solo orale nel primo appello utile seguente (anche in una sessione diversa)
+
 
 #### Diario del Corso
 
@@ -74,13 +102,7 @@ Informazioni sul tutor e sulle sue attività saranno consivise al più presto.
  - **08-10-2026** - Il modello relazionale. I vincoli d'integrità.
 
 
-#### Modalità d'esame
 
-La valutazione consiste nella stesura di un **progetto di gruppo** (*Max 4 studenti*) e una prova orale individuale.
-
-Il progetto consiste nella formulazione di un modello dettagliato di base di dati, comprendente la sua strutturazione logica, la specifica dei vincoli di integrità e la sua normalizzazione. Inoltre è richiesta l'implementazione di query SQL sui dati progettati.
-
-La prova orale consiste nella **discussione** (*individuale*) del progetto e un'**interrogazione** sui concetti, le definizioni, e i teoremi affrontati durante il corso.
 
 ------
 
