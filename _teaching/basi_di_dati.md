@@ -71,11 +71,12 @@ Informazioni sul tutor e sulle sue attività saranno consivise al più presto.
  - **01-10-2026** - La Esercitazione sulla progettazione concettuale.
  - **02-10-2026** - Il modello relazionale. Ristruttrazione di un modello E-R.
  - **05-10-2026** - Traduzione di un modello E-R in un modello relazionale.
+ - **08-10-2026** - Il modello relazionale. I vincoli d'integrità.
 
 
 #### Modalità d'esame
 
-La valutazione consiste nella stesura di un **progetto di gruppo** (*Max 3 studenti*) e una prova orale individuale.
+La valutazione consiste nella stesura di un **progetto di gruppo** (*Max 4 studenti*) e una prova orale individuale.
 
 Il progetto consiste nella formulazione di un modello dettagliato di base di dati, comprendente la sua strutturazione logica, la specifica dei vincoli di integrità e la sua normalizzazione. Inoltre è richiesta l'implementazione di query SQL sui dati progettati.
 
