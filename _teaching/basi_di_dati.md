@@ -100,6 +100,7 @@ Se un componente del gruppo non supera l'orale successivo alla discussione del p
  - **02-10-2026** - Il modello relazionale. Ristruttrazione di un modello E-R.
  - **05-10-2026** - Traduzione di un modello E-R in un modello relazionale.
  - **08-10-2026** - Il modello relazionale. I vincoli d'integrità.
+ - **09-10-2026** - Esercitazione sui diagrammi E-R.
 
 
 
