@@ -103,6 +103,8 @@ Se un componente del gruppo non supera l'orale successivo alla discussione del p
  - **09-10-2026** - Esercitazione sui diagrammi E-R.
  - **12-10-2026** - Il linguaggio SQL. DDL: Data Definition Language - Creazione Domini, Tabelle e Vincoli.
  - **15-10-2026** - Il linguaggio SQL. DDL: Data Definition Language - Modifica Domini, Tabelle e Vincoli.
+ - **16-10-2026** - Esercitazione sul Modello Relazionale. Algebra Relazionale: operazioni su relazioni omogenee.
+ - **19-10-2026** - Il linguaggio SQL: DQL: Data Definition Language - Comando SELECT, alcune opzioni WHERE.
 
 
 
