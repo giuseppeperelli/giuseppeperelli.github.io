@@ -22,6 +22,8 @@ category: current
 
 - [Slide](https://drive.google.com/drive/folders/1D2UkVa0bAH6MqxrCavwOa1QntNzR3m0v?usp=sharing) **ATTENZIONE**: Il corso così articolato è alla sua prima edizione. Le slide sono in corso di stesura e saranno rese disponibili durante il corso, possibilmente prima della lezione corrispondente.
 
+- [Tracce d'esame del corso di Basi di Dati Modulo 1](https://drive.google.com/drive/folders/1oM1vfoahHk9_7yUsAkjScHhQ43AUx-8T) **ATTENZIONE**: queste tracce d'esame sono state utilizzate per vecchio corso di Basi di Dati (fino a A.A. 2025/2026). Il nuovo corso ha una modalità d'esame diversa, pertanto questi esercizi possono essere utilizzati come allenamento generale ma non direttamente come preparazione per l'esame del nuovo corso.
+
 ##### Aule e Orario delle lezioni
 
 Aula De Lollis 4 - RM158-E01PTEL004
