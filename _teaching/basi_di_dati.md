@@ -24,6 +24,17 @@ category: current
 
 - [Tracce d'esame del corso di Basi di Dati Modulo 1](https://drive.google.com/drive/folders/1oM1vfoahHk9_7yUsAkjScHhQ43AUx-8T) **ATTENZIONE**: queste tracce d'esame sono state utilizzate per vecchio corso di Basi di Dati (fino a A.A. 2025/2026). Il nuovo corso ha una modalità d'esame diversa, pertanto questi esercizi possono essere utilizzati come allenamento generale ma non direttamente come preparazione per l'esame del nuovo corso.
 
+##### **<span style="color:red">AVVISI</span>**
+
+Vi ricordo che da Mercoledì *28 Ottobre 2026 a Martedì 3 Novembre* è stata approvata la **settimana di sospensione della didattica** per consentire lo svoglimento degli appelli straordinari e delle eventuali prove d'esonero.
+Per quanto riguarda il nostro corso, saltano le lezioni di:
+
+ - Giovedì 29 Ottobre 15:00-17:00
+ - Venerdì 30 Ottobre 13:00-16:00
+ - Lunedì 2 Novembre 13:00-15:00
+
+Il **corso riprende con la lezione di Giovedì 5 Novembre** 15:00-17:00.
+
 ##### Aule e Orario delle lezioni
 
 Aula De Lollis 4 - RM158-E01PTEL004
@@ -109,6 +120,7 @@ Se un componente del gruppo non supera l'orale successivo alla discussione del p
  - **19-10-2026** - Il linguaggio SQL: DQL: Data Definition Language - Comando SELECT, alcune opzioni WHERE. Algebra relazionale: Prodotto Cartesiano, Join, theta-Join.
  - **22-10-2026** - Algebra Relazionale: quantificazione univerale. SQL: interrogazioni che coinvolgono più tabelle.
  - **23-10-2026** - Esercitazione sull'algebra relazionale.
+ - **26-10-2026** - Il linguaggio SQL: query avanzate con operatori aggregati, raggruppamenti e nidificazione.
 
 
 
