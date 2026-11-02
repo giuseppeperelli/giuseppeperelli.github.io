@@ -26,14 +26,14 @@ category: current
 
 ##### **<span style="color:red">AVVISI</span>**
 
-Vi ricordo che da Mercoledì *28 Ottobre 2026 a Martedì 3 Novembre* è stata approvata la **settimana di sospensione della didattica** per consentire lo svoglimento degli appelli straordinari e delle eventuali prove d'esonero.
-Per quanto riguarda il nostro corso, saltano le lezioni di:
+- Vi ricordo che da Mercoledì *28 Ottobre 2026 a Martedì 3 Novembre* è stata approvata la **settimana di sospensione della didattica** per consentire lo svoglimento degli appelli straordinari e delle eventuali prove d'esonero. Per quanto riguarda il nostro corso, saltano le lezioni di:
+  - Giovedì 29 Ottobre 15:00-17:00
+  - Venerdì 30 Ottobre 13:00-16:00
+  - Lunedì 2 Novembre 13:00-15:00
 
- - Giovedì 29 Ottobre 15:00-17:00
- - Venerdì 30 Ottobre 13:00-16:00
- - Lunedì 2 Novembre 13:00-15:00
+  Il **corso riprende con la lezione di Giovedì 5 Novembre** 15:00-17:00.
 
-Il **corso riprende con la lezione di Giovedì 5 Novembre** 15:00-17:00.
+- È stato fissato il calendario per le esercitazioni con il tutor. Consultare i dettagli nella sezione **Tutor** di questa pagina.
 
 ##### Aule e Orario delle lezioni
 
@@ -59,6 +59,10 @@ Aula De Lollis 4 - RM158-E01PTEL004
 
 Il tutor per l'edizione corrente del corso è lo studente [Francesco Signori](mailto:signori.2179341@studenti.uniroma1.it).
 Svolgerà attività di esercitazione sia in aula che a gruppi, qualora richiesto.
+
+L'attività di tutoraggio si svolge a partire dal 12 Novembre tutte le settimane, nel luogo e orario indicati:
+
+  - Giovedì dalle 9:30 alle 11:30, aula T1 (Edificio E del Complesso di Viale Regina Elena)
 
 ##### Programma
 
