@@ -57,6 +57,10 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 #### 2026
 
+**21/11/2026** - [Musei in Musica](https://pmsc.web.uniroma1.it/it/musei-musica-21-novembre-2026-ore-20)
+
+**04/11/2026** - [Una giornata non basta](https://i3s.web.uniroma1.it/it/una-giornata-non-basta-sapienza-contro-la-violenza-maschile-sulle-donne)
+
 **18/10/2026** - [Refice Jazz Festival 2026](https://www.conservatoriofrosinone.it/cons/index.php/produzione-artistica/eventi/eventdetail/273/-/reficejazzfestival-2026)
 
 **09/07/2026** - [MuSa sotto le stelle](https://news.uniroma1.it/08072027_2100)
