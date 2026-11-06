@@ -125,7 +125,7 @@ Se un componente del gruppo non supera l'orale successivo alla discussione del p
  - **22-10-2026** - Algebra Relazionale: quantificazione univerale. SQL: interrogazioni che coinvolgono più tabelle.
  - **23-10-2026** - Esercitazione sull'algebra relazionale.
  - **26-10-2026** - Il linguaggio SQL: query avanzate con operatori aggregati, raggruppamenti e nidificazione.
-
+ - **05-11-2026** - Il linguaggio SQL: Manipolazione (DML) e controllo accessi (DCL)
 
 
 
