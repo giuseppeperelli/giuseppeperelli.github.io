@@ -127,7 +127,7 @@ Se un componente del gruppo non supera l'orale successivo alla discussione del p
  - **26-10-2026** - Il linguaggio SQL: query avanzate con operatori aggregati, raggruppamenti e nidificazione.
  - **05-11-2026** - Il linguaggio SQL: Manipolazione (DML) e controllo accessi (DCL)
  - **06-11-2026** - Basi di Dati Attive: Trigger e Controllo Accessi. Teoria Relazionale: Dipendenze Funzionali.
-
+ - **09-11-2026** - Teoria Relazionale: Gli assiomi di Armstrong e l'equivalenza \\(F^A = F^+\\).
 
 
 ------
