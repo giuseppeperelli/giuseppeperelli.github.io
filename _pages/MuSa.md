@@ -57,6 +57,8 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 #### 2026
 
+**27/12/2026** - [Natale sotto l'albero - Auditorium Parco della Musica](https://www.auditorium.com/it/event/musa-jazz-orchestra-diretta-da-roberto-spadoni/)
+
 **21/11/2026** - [Musei in Musica](https://pmsc.web.uniroma1.it/it/musei-musica-21-novembre-2026-ore-20)
 
 **04/11/2026** - [Una giornata non basta](https://i3s.web.uniroma1.it/it/una-giornata-non-basta-sapienza-contro-la-violenza-maschile-sulle-donne) - [YouTube Live](https://www.youtube.com/watch?v=VyVOPD7TZ40)
