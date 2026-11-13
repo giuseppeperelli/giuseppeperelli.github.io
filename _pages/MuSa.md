@@ -34,7 +34,7 @@ It offers the chance to amateurs and professional musicians within the Sapienza 
 
 MuSa performs in its own musical season and organizes partakes events for the University community on the occasion of Christmas, Carnival and institutional or celebratory events.
 It can also be requested to provide a musical setting for inaugural or convivial moments of conferences or other events organized by Departments or external institutions.
-More inforomation and contact available to the [official page of the project](https://nuovoteatroateneo.web.uniroma1.it/it/musa).
+More information and contact available to the [official page of the project](https://nuovoteatroateneo.web.uniroma1.it/it/musa).
 
 ##### MuSa Jazz Orchestra
 
