@@ -8,7 +8,7 @@ middle_name: #
 last_name: Perelli
 email: # perelli@di.uniroma1.it
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal website of Giuseppe Perelli, Associate Professor at Sapienza University of Rome. Research on Formal Methods for AI, multi-agent systems, verification and synthesis, strategic reasoning, logics and automata.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
