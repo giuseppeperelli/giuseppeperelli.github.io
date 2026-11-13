@@ -40,7 +40,7 @@ More information and contact available to the [official page of the project](htt
 
 Founded in 2006 and directed by M. Silverio Cortesi until 2023, MuSa Jazz is the orchestral ensemble dedicated to all areas of Jazz.
 
-Currently under the direction of [M. Roberto Spadoni](https://www.robertospadoni.com/), its main activity revolves around the Big Band ensemble, made by around 30 members, including a brass section, a woodwinds section, rythmic section and the support of singers and vocalists.
+Currently under the direction of [M. Roberto Spadoni](https://www.robertospadoni.com/), its main activity revolves around the Big Band ensemble, made by around 30 members, including a brass section, a woodwinds section, rhythmic section and the support of singers and vocalists.
 Beside this, within the Big Band, a number of small ensembles - from duo to septet - can perform in most intimate situations.
 
 Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](https://www.facebook.com/profile.php?id=100063580660807) and [Instagram](https://www.instagram.com/musa_jazz_orchestra)!
