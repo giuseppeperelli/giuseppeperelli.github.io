@@ -30,58 +30,12 @@ Le slide rappresentano le lezioni del corso, basate sul contenuto delle dispense
 - [Simulazioni d'esame](https://drive.google.com/drive/folders/1pS9mx_8nD_AJ3J4s7EcgOYSkfVucxWcm?usp=sharing)
 
 
-##### **<span style="color:red">Risultati Appello Febbraio 2026</span>**
-
-Gli scritti del 5 Febbraio sono stati corretti e i risultati sono consultabili a [questo link](https://drive.google.com/file/d/1cP_Nx_QHSIh0HMcbC-6GoLDq4RZg9Unh/view?usp=sharing).
-
- - È stata inviata un'email a tutti gli studenti. Coloro che hanno superato lo scritto e vogliono sostenere anche l'orale possono rispondere all'email che hanno ricevuto entro Lunedì 9 Febbraio. Procederò successivamente a stilare il calendario degli orali, che inizieranno il 12 Febbraio e proseguiranno fino a esaurimento.
-
- - Gli studenti che vogliono visionare il compito possono farlo durante gli orali oppure chiedermi un appuntamento in un altro momento. Vi chiedo però la cortesia di scrivermi **soltanto dopo il 9 Febbraio**, per evitare un sovraccarico di messaggi da leggere e a cui rispondere.
-
-
-##### **<span style="color:red"> Annunci importanti </span>**
-
- - A causa di altri impegni lavorativi, **le lezioni di Lunedì 27 Ottobre e Mercoledì 29 Ottobre sono annullate**
- - Per consentire lo svolgimento degli appelli straordinari, **le lezioni di Lunedì 3 Novembre e Mercoledì 5 Novembre sono annullate**. Il corso riprenderà regolarmente da Lunedì 10 Novembre.
- - A causa di altri appuntamenti, **l'orario di ricevimento è stato spostato**. Controllare il nuovo orario nella sezione dedicata.
- - La lezione di Mercoledì 26 Novembre è **anticipata a Martedì 25 Novembre dalle 13:00 alle 16:00**. Per questa occasione inizieremo puntuali alle 13:00.
-
-
 ##### Aule e Orario delle lezioni
 
 Aula De Lollis 4 - RM158-E01PTEL004
 
  - Lunedì: 13:00 -- 15:00
  - Mercoledì: 13:00 -- 16:00
-
-##### Ricevimento
-
-  Il ricevimento è **<span style="color:red">previo appuntamento</span>**. <del>Inizierà Venerdì 26 Settembre in orario e data come segue.</del>
-
-  - <del>Venerdì: dalle 14:00 alle 16:00 al Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.</del>
-  - Giovedì: dalle 12:00 alle 14:00 al Dipartimento di Informatica, Edificio E, Viale Regina Elena, 295.
-
-  In caso di necessità, si può concordare un appuntamento fuori dall'orario di ricevimento.
-
-  <center>
-<!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ1d9MlxvLxrlBg1Mwklw45roPB8BjyPYIr06Toa85h4Oiylubj9wKQAQQS_NOe5i0Joshw15G_q?gv=true',
-      color: '#039BE5',
-      label: 'Prenota un appuntamento',
-      target,
-    });
-  });
-})();
-</script>
-<!-- end Google Calendar Appointment Scheduling -->
-</center>
 
 ##### Tutor
 
