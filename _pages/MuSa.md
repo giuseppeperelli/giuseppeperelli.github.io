@@ -65,7 +65,7 @@ Stay in touch with MuSa Jazz Orchestra activities by following us on [Facebook](
 
 **18/10/2026** - [Refice Jazz Festival 2026](https://www.conservatoriofrosinone.it/cons/index.php/produzione-artistica/eventi/eventdetail/273/-/reficejazzfestival-2026)
 
-**09/07/2026** - [MuSa sotto le stelle](https://news.uniroma1.it/08072027_2100)
+**09/07/2026** - [MuSa sotto le stelle](https://news.uniroma1.it/08072026_2100)
 
 **07/07/2026** - [Il valore della conoscenza: le esperienze della Terza missione in Sapienza](https://www.uniroma1.it/it/node/539540)
 
