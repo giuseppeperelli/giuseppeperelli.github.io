@@ -26,7 +26,7 @@ category: current
 
 ##### **<span style="color:red">AVVISI</span>**
 
-- Vi ricordo che da Mercoledì *28 Ottobre 2026 a Martedì 3 Novembre* è stata approvata la **settimana di sospensione della didattica** per consentire lo svoglimento degli appelli straordinari e delle eventuali prove d'esonero. Per quanto riguarda il nostro corso, saltano le lezioni di:
+- Vi ricordo che da Mercoledì *28 Ottobre 2026 a Martedì 3 Novembre* è stata approvata la **settimana di sospensione della didattica** per consentire lo svolgimento degli appelli straordinari e delle eventuali prove d'esonero. Per quanto riguarda il nostro corso, saltano le lezioni di:
   - Giovedì 29 Ottobre 15:00-17:00
   - Venerdì 30 Ottobre 13:00-16:00
   - Lunedì 2 Novembre 13:00-15:00
@@ -114,7 +114,7 @@ Se un componente del gruppo non supera l'orale successivo alla discussione del p
  - **25-09-2026** - Introduzione ai Modelli di Dati e alla Progettazione.
  - **28-09-2026** - La progettazione concettuale.
  - **01-10-2026** - La Esercitazione sulla progettazione concettuale.
- - **02-10-2026** - Il modello relazionale. Ristruttrazione di un modello E-R.
+ - **02-10-2026** - Il modello relazionale. Ristrutturazione di un modello E-R.
  - **05-10-2026** - Traduzione di un modello E-R in un modello relazionale.
  - **08-10-2026** - Il modello relazionale. I vincoli d'integrità.
  - **09-10-2026** - Esercitazione sui diagrammi E-R.
@@ -122,7 +122,7 @@ Se un componente del gruppo non supera l'orale successivo alla discussione del p
  - **15-10-2026** - Il linguaggio SQL. DDL: Data Definition Language - Modifica Domini, Tabelle e Vincoli.
  - **16-10-2026** - Esercitazione sul Modello Relazionale. Algebra Relazionale: operazioni su relazioni omogenee.
  - **19-10-2026** - Il linguaggio SQL: DQL: Data Definition Language - Comando SELECT, alcune opzioni WHERE. Algebra relazionale: Prodotto Cartesiano, Join, \\(\theta\\)-Join.
- - **22-10-2026** - Algebra Relazionale: quantificazione univerale. SQL: interrogazioni che coinvolgono più tabelle.
+ - **22-10-2026** - Algebra Relazionale: quantificazione universale. SQL: interrogazioni che coinvolgono più tabelle.
  - **23-10-2026** - Esercitazione sull'algebra relazionale.
  - **26-10-2026** - Il linguaggio SQL: query avanzate con operatori aggregati, raggruppamenti e nidificazione.
  - **05-11-2026** - Il linguaggio SQL: Manipolazione (DML) e controllo accessi (DCL)

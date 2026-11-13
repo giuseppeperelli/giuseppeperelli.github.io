@@ -42,7 +42,7 @@ Gli scritti del 5 Febbraio sono stati corretti e i risultati sono consultabili a
 ##### **<span style="color:red"> Annunci importanti </span>**
 
  - A causa di altri impegni lavorativi, **le lezioni di Lunedì 27 Ottobre e Mercoledì 29 Ottobre sono annullate**
- - Per consentire lo svolgimento degli appelli starodinari, **le lezioni di Lunedì 3 Novembre e Mercoledì 5 Novembre sono annullate**. Il corso riprenderà regolarmente da Lunedì 10 Novembre.
+ - Per consentire lo svolgimento degli appelli straordinari, **le lezioni di Lunedì 3 Novembre e Mercoledì 5 Novembre sono annullate**. Il corso riprenderà regolarmente da Lunedì 10 Novembre.
  - A causa di altri appuntamenti, **l'orario di ricevimento è stato spostato**. Controllare il nuovo orario nella sezione dedicata.
  - La lezione di Mercoledì 26 Novembre è **anticipata a Martedì 25 Novembre dalle 13:00 alle 16:00**. Per questa occasione inizieremo puntuali alle 13:00.
 
@@ -121,7 +121,7 @@ Fatta eccezione per il 28 Ottobre e 4 Novembre, in cui l'aula è assegnata ad al
  - **19-11-2025** - Teoria Relazionale: Join Senza Perdita, algoritmo di verifica. Esercitazione sulla verifica che che una decomposizione abbia un JSP.
  - **24-11-2025** - Algebra e Teoria Relazionale: Esercitazioni.
  - **25-11-2025** - Teoria Relazionale: Copertura minimale. Calcolo di una copertura minimale. Calcolo di una decomposizione.
- - **01-12-2025** - Teoria Relazionale: Esercizi sul calcolo di una copertura minimale e di una decoposizione.
+ - **01-12-2025** - Teoria Relazionale: Esercizi sul calcolo di una copertura minimale e di una decomposizione.
  - **03-12-2025** - Organizzazione Fisica: Metodi Heap, Sequenziale e Hashing.
  - **10-12-2025** - Organizzazione Fisica: Organizzazione a indice (ISAM).
  - **15-12-2025** - Organizzazione Fisica: Organizzazione B-tree.
