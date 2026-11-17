@@ -130,6 +130,7 @@ Se un componente del gruppo non supera l'orale successivo alla discussione del p
  - **09-11-2026** - Teoria Relazionale: Gli assiomi di Armstrong e l'equivalenza \\(F^A = F^+\\).
  - **12-11-2026** - Dimostrazione dell'equivalenza \\(F^A = F^+\\).
  - **13-11-2026** - L'algoritmo di chiusura di X e la sua correttezza. Applicazioni per il calcolo delle chiavi di uno schema.
+ - **16-11-2026** - Problemi di progettazione: ridondanze e anomalie di gestione. La terza forma normale.
 
 
 ------
