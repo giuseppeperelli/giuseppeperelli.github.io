@@ -24,6 +24,8 @@ category: current
 
 - [Tracce d'esame del corso di Basi di Dati Modulo 1](https://drive.google.com/drive/folders/1oM1vfoahHk9_7yUsAkjScHhQ43AUx-8T) **ATTENZIONE**: queste tracce d'esame sono state utilizzate per vecchio corso di Basi di Dati (fino a A.A. 2025/2026). Il nuovo corso ha una modalità d'esame diversa, pertanto questi esercizi possono essere utilizzati come allenamento generale ma non direttamente come preparazione per l'esame del nuovo corso.
 
+- [Esercitazioni](https://drive.google.com/drive/folders/1G5sHv9o7p5TriW9uGSBljBeTMIaDH_fd?usp=drive_link)
+
 ##### **<span style="color:red">AVVISI</span>**
 
 - Vi ricordo che da Mercoledì *28 Ottobre 2026 a Martedì 3 Novembre* è stata approvata la **settimana di sospensione della didattica** per consentire lo svolgimento degli appelli straordinari e delle eventuali prove d'esonero. Per quanto riguarda il nostro corso, saltano le lezioni di:
