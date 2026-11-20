@@ -134,6 +134,7 @@ Se un componente del gruppo non supera l'orale successivo alla discussione del p
  - **13-11-2026** - L'algoritmo di chiusura di X e la sua correttezza. Applicazioni per il calcolo delle chiavi di uno schema.
  - **16-11-2026** - Problemi di progettazione: ridondanze e anomalie di gestione. La terza forma normale.
  - **19-11-2026** - Terza Forma Normale: preservare le dipendenze e i dati. La forma normale di Boyce-Codd.
+ - **20-11-2026** - Esercitazione sulla progettazione concettuale.
 
 
 ------
