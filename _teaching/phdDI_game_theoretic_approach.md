@@ -14,7 +14,7 @@ category: phd
 - **Course Type**: Lecture/seminar series.
 - **Location**: Room G0, building G, viale Regina Elena 295 and Room S1, building E, viale Regina Elena 295
 - **Schedule**: From Monday 16th June to Friday 20th June from 10:00 to 12:00
-- **Language**: English/Italian (TBD)
+- **Language**: English
 
 -----
 
@@ -46,3 +46,9 @@ Introduction to games on graphs. Classification of games based on: Turn types, o
 
 **Synthesis under environment specifications**:
 The environment represented as an LTL specification. The synthesis under environment specifications solved as synthesis of an implication formula. Direct and more effective solutions to the synthesis under environment specifications for notable cases of LTLf formulas: Safety, Safety & Fairness, Safety & Stability, Safety & GR(1). Symbolic representation and techniques for Planning and Synthesis.
+
+### Sponsor
+The course is sponsored by the PRIN 2022 Project "PINPOINT - EXPLAINABLE KNOWLEDGE-AWARE PROCESS INTELLIGENCE", CUP **B87G22000450001**.
+
+
+
