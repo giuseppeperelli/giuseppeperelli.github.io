@@ -136,6 +136,7 @@ Se un componente del gruppo non supera l'orale successivo alla discussione del p
  - **19-11-2026** - Terza Forma Normale: preservare le dipendenze e i dati. La forma normale di Boyce-Codd.
  - **20-11-2026** - Esercitazione sulla progettazione concettuale.
  - **23-11-2026** - Recap di definizioni e risultati preparatori alla decomposizione.
+ - **26-11-2026** - Decomposizioni che preservano le dipendenze funzionali.
 
 
 ------
